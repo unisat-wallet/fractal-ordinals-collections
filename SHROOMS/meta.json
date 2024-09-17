@@ -3,7 +3,7 @@
   "discord_link": "",
   "icon": "edd45941efa6788e71499f46ebecf3932bf6ae86506cfc86d869d94eb05325f1i0",
   "name": "SHROOMS",
-  "slug": "shrooms", # all lowercase or underscore hyphen, consistent with the directory name
+  "slug": "shrooms",
   "twitter_link": "https://",
   "website_link": "https://"
 }
