@@ -1,0 +1,3074 @@
+[
+  {
+    "id": "a8c39053a557f72619115be77dfeb7bd8506c4d23dee7ddb86d5bc2aea421eeei0",
+    "meta": {
+      "name": "Stamp 1/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Jet Black"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "1a4c14bca7905671c1eb38ddd5c713d598ea9defb5d478792d4ffa36599359afi0",
+    "meta": {
+      "name": "Stamp 2/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Jet Black"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "851bc59f1f141dff4fa6767f397d1ea8d5ebf06a59bc173364c152af0396ed7ci0",
+    "meta": {
+      "name": "Stamp 3/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Jet Black"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "0956f69fd7dccf5f186f227ff6da61f176afc339e35f42f4d28c2e082eb0b52ei0",
+    "meta": {
+      "name": "Stamp 4/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Jet Black"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "52313cd1aa3ae977b71756720aa5ad439e2a5d15ca5cbeb36401f4bbca541e37i0",
+    "meta": {
+      "name": "Stamp 5/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Jet Black"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "17d23f0d7864ecd2425f50ca2e1a6310be725d583604ffdd42b2bca0c1172397i0",
+    "meta": {
+      "name": "Stamp 6/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "ace34566e5751cd714de65eb26bf6946dd7109ab9bcc2e9b31818cbcd8b0b4d9i0",
+    "meta": {
+      "name": "Stamp 7/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "a447dcf5c1337d9908222c1afcfb47b1353b0e8835967b00f31b9ddb334ae1a6i0",
+    "meta": {
+      "name": "Stamp 8/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "d30d27b6833a5804428a26ff26808bac21df548e8e1df48e0ff9af05756189c5i0",
+    "meta": {
+      "name": "Stamp 9/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "ed7695401b4c2a50c9c77376f65ed2e31e01d5d793003818c5df94b712409771i0",
+    "meta": {
+      "name": "Stamp 10/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "99f63f01af39cb0af3576e897313d0f5cf1fec80fdce7b276433388773206b44i0",
+    "meta": {
+      "name": "Stamp 11/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "0ac0d919b56335892feea620d8479b46b272a6e1bed3610d3f920eaaea730951i0",
+    "meta": {
+      "name": "Stamp 12/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "743ba7d7a2ea07fcbdf41f3058ce850a63a20bb0ba03a6642a9c1e6398a70216i0",
+    "meta": {
+      "name": "Stamp 13/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "93709de752879624c04c5e2c5cb7e1bb28ba7ab1a7d29e9ca88f1675fb4c90a9i0",
+    "meta": {
+      "name": "Stamp 14/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "e6ecdca24659a7f8a7278c2e061c7c5cce00a6e1e287b6735a93d8851c066337i0",
+    "meta": {
+      "name": "Stamp 15/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "c1505bac3ca2eacb1b2600085a68ea107ed955e9fb7e8a06bddb27a5b7dc5ffei0",
+    "meta": {
+      "name": "Stamp 16/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5399ecaa6677d2610bc547822bfbb8f9d2e0e9364cd7bc57ffa0873ecd996de2i0",
+    "meta": {
+      "name": "Stamp 17/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "292731cc54e7528f2cc922c9dd83b351a60d47233c51de90588f5f2dd6d4e0efi0",
+    "meta": {
+      "name": "Stamp 18/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "be30cd46f4f3da04252ca492b4d4b25719845da3cbb8019ada672185bc367115i0",
+    "meta": {
+      "name": "Stamp 19/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "4fbfa7563833a13594deed8a79eae8119e6bcf1e15e43bfca99c20afe83604bfi0",
+    "meta": {
+      "name": "Stamp 20/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "23ae7b3462659df161cbbcd94e87a51ca5248f88cc9e49bc4cd2ddfbc24057e3i0",
+    "meta": {
+      "name": "Stamp 21/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "00e2053fe4b65781c6d8ad6c26ba0b4855c953caa63498a9a87a92bc04af7daei0",
+    "meta": {
+      "name": "Stamp 22/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "2a0ef6cd707568931094aaf3e0909697ea779e425b1e2acc30c7bdcffeb7d75ei0",
+    "meta": {
+      "name": "Stamp 23/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5c7946aac2e9208705aeba86404a6df48879c7d237811fa736f9544daf3ab355i0",
+    "meta": {
+      "name": "Stamp 24/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "b9505092d6a30cf622b15c40307374e319d02381fbb01f97b5dbbee7fbb8d943i0",
+    "meta": {
+      "name": "Stamp 25/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "d5327d1ca54babf4861eb4b34ff63f0f2f1cfb40580591ad61c96cd1763b47fai0",
+    "meta": {
+      "name": "Stamp 26/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "ddb48fccd7536eba054a5468ed5ebc53f057df8a9efef1853c99e2804a4ed7a9i0",
+    "meta": {
+      "name": "Stamp 27/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5253b71b8fb3fc1a9c0254b8e1c096bb6199a902b787d92c21ebef4eb456a239i0",
+    "meta": {
+      "name": "Stamp 28/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "8c52bfe0b2b8760e22541e3ad4f5534e8d8b0c30ecc009801207e86ca4c66b88i0",
+    "meta": {
+      "name": "Stamp 29/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "8e53be9b874978fe334b3100c8a4b7d7b0e010f45f6263547e58bda0753425e2i0",
+    "meta": {
+      "name": "Stamp 30/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Vibrant Fuchsia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "0b9e667f52aee4fd71789740d3e7f3d7f485c988bd48f0f9a90860a5f98315bfi0",
+    "meta": {
+      "name": "Stamp 31/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "9e1a20588c09dcd6176576fa51387453ae0c83df24ed24847d54fc240b8d83a6i0",
+    "meta": {
+      "name": "Stamp 32/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "dbd9f2fa999a6fb87c869940f6b00bffd196229ab60d23a54eeb833d69ed9b2fi0",
+    "meta": {
+      "name": "Stamp 33/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "adfdeb02c0ebaafc23d1990cddb87627c9326925669eb3be22d0758de8c715a2i0",
+    "meta": {
+      "name": "Stamp 34/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "d53e707eacf47e70dcbb3f0611e0363240a450d2f095f1d0e35163013dedefa5i0",
+    "meta": {
+      "name": "Stamp 35/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "20e063d52866316c8e0dbb31182997232b193b6737e4e92038ec32e001f46025i0",
+    "meta": {
+      "name": "Stamp 36/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "1e0bef5a133434b7455ea2ca4be668ef4ec34d21f922e4b285fab0da591b144ei0",
+    "meta": {
+      "name": "Stamp 37/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "38baf66b8fc53af29e8854c48cc032d1c8fcf6df375cd288cf8c3242c42089b0i0",
+    "meta": {
+      "name": "Stamp 38/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5a5ff1a016702e29aacdfba5bd7abe7ecffe352a35883489b2b452ada207eaa3i0",
+    "meta": {
+      "name": "Stamp 39/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "2db2c01a50da63487779b48fceb373c296beeaae84f1b81e6bef5009dfb88ac1i0",
+    "meta": {
+      "name": "Stamp 40/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "cd21bb5421adfec85090d3424ebe478c079e96fb2b44fdb94b49a2a5231c5b60i0",
+    "meta": {
+      "name": "Stamp 41/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "6e06dcbaaedc56879b7a72e65c6b0d2687f170008002799ca7fad1f14407d7b4i0",
+    "meta": {
+      "name": "Stamp 42/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "8c1fd4daae089b187647a68116d452807441c733b1ce519012aba3cd0b06f555i0",
+    "meta": {
+      "name": "Stamp 43/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "057803d787ead4d45832f57b7604cf1409ce1cee0d36f1ac9bf0c5dfa0ac9b47i0",
+    "meta": {
+      "name": "Stamp 44/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "8402fe394419d20877f789fb79950f6390a0d956211fc6d772590ce56c307ee0i0",
+    "meta": {
+      "name": "Stamp 45/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "0a0b6fafd184729dde9f1b3aa5e233afd0904491ecf89fa7b679047451c37a59i0",
+    "meta": {
+      "name": "Stamp 46/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "af7c77502fb3459f0b68acc338ad3f320e46b8dd64f8a30cd7069731a86d55dbi0",
+    "meta": {
+      "name": "Stamp 47/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "734d3fb045f50d402702c670feeaee92803965f56c730a42905df58efc918736i0",
+    "meta": {
+      "name": "Stamp 48/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "8df9fec0b967ad3228352926ef3350a98f2b45903a121d4567e83b7af0730559i0",
+    "meta": {
+      "name": "Stamp 49/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "d41d7f8280161c2333f9d8f93b6ceb3a97d607350c58003404f69f40a9df31a0i0",
+    "meta": {
+      "name": "Stamp 50/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "25216ced503ea606f2988d91c7da70f61cc22861b639e2a9001ac13e6e25f14ai0",
+    "meta": {
+      "name": "Stamp 51/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5668768e0f6141d1cecd9af81eebd6a0e2ed2d81395de9e2b58ad6e02f5a06abi0",
+    "meta": {
+      "name": "Stamp 52/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "6200cbff9401d46d77d8271fd20d1d1499b2098d92386febf3eb9821153b4d84i0",
+    "meta": {
+      "name": "Stamp 53/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "c7778dc6b8ba3cbb9c7180d88f3b4b0a49b529098dbe0c7d1470a3179759c5bdi0",
+    "meta": {
+      "name": "Stamp 54/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "afa2cb4f8d4b10cd3adcfb6ea6d341125cefb231c1f0f450659d0bb56df158e9i0",
+    "meta": {
+      "name": "Stamp 55/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Paradise Teal"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "3ad7819837f38b283695a223bfd63d099fcc8c659b341ecd207e66be98d93dedi0",
+    "meta": {
+      "name": "Stamp 56/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "11e1fdf7ee8b6065749cd3fdc62b9ede194acb5252ebcf047a4d351b81295fc4i0",
+    "meta": {
+      "name": "Stamp 57/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "3c1b4a878d6d97cc490015c0d8a1ec6e6768b7829e06dbfc567df328d0094158i0",
+    "meta": {
+      "name": "Stamp 58/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "86e3d5686485495f866a99cb941a5348e28c165b647ea99766c81359815ed138i0",
+    "meta": {
+      "name": "Stamp 59/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "496cf4edc61170e4a7bb7db061e5fbc5da14c1523c91819fe7e8bd5e6ae45628i0",
+    "meta": {
+      "name": "Stamp 60/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5e9ad4d9d1c7bb84995d2bea9119ef7779aedcbd25623c2f8790afd0ea5b7fe6i0",
+    "meta": {
+      "name": "Stamp 61/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "f71c6ba583d68211cea7ce3bef5fd31e319e6ff5be78fa6f7a640ebcd2807079i0",
+    "meta": {
+      "name": "Stamp 62/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "b8ec596e98bb42ed99261fea7bd46d1722728fb45813af725ec7ede23aae9b98i0",
+    "meta": {
+      "name": "Stamp 63/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "af7db6c0005f8c0bdf1455f314d2202083607d5de458b8c8744b426f816e0ba1i0",
+    "meta": {
+      "name": "Stamp 64/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "796c2c10da5b9f2b7d15fe8ce5437fa21f2671e44f2b491e0699eb67f52c4a3ei0",
+    "meta": {
+      "name": "Stamp 65/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "d15dd827a3a495c074b4cc8d895ef60a86b5eada59921af6aba1540258d1e094i0",
+    "meta": {
+      "name": "Stamp 66/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "42e0188fa6640eba6bbdf871eae18abe5a790fedba4babc6670e52dcb13bea62i0",
+    "meta": {
+      "name": "Stamp 67/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "840c1f86b119e551a150684c409d3f3a1c202d38bcca1e76b25ed4d3897a3338i0",
+    "meta": {
+      "name": "Stamp 68/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "92713548217c3817cdf096ea1908358dd27b589786c07b2a0da8423e9a186ceai0",
+    "meta": {
+      "name": "Stamp 69/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "6792fe474fe52afbca06ec8124caaea5d638a1b42c6c23b4d2e7a6e04b868e42i0",
+    "meta": {
+      "name": "Stamp 70/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "1eb66c463c92fe0c9167e4ae68ecbf85d920a05e9d1b9fc2b2f05719fb212ac3i0",
+    "meta": {
+      "name": "Stamp 71/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "ce675737d1c8ad9086ac008099f496f0863b8407bb62d939a120d7d43bb25b84i0",
+    "meta": {
+      "name": "Stamp 72/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "f830a16aa995da7a296f7df4865578d8c15c22935479f7fcb942cd8d0d84082fi0",
+    "meta": {
+      "name": "Stamp 73/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "6f15372e2221f701d133ddd9de2b18e73754e6c48c685a22bf100adcdb2d6ff7i0",
+    "meta": {
+      "name": "Stamp 74/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "409b0d107ce9f0dd20a9cfeb4d2d75b687a387f9e8a57346ed4cf78ebeb58ad6i0",
+    "meta": {
+      "name": "Stamp 75/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "fce9f9ab32a56eccbbf47a51fcf72ecc3619faf37d49fb311f77bac6b14c42e2i0",
+    "meta": {
+      "name": "Stamp 76/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "170bd79e581fe4b891a2406b2912ff051c80ff447e7ac4ad2e12fab852d497e8i0",
+    "meta": {
+      "name": "Stamp 77/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "d10283a40f54b136edf7801ada23b859b0ef5093c4a0ad3cc12213620fcceaaai0",
+    "meta": {
+      "name": "Stamp 78/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "82f6256b65fca5b2f3645c4e83fc449583eaf421926c7a80ac2c235157a9fcfei0",
+    "meta": {
+      "name": "Stamp 79/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "6bed9ae492419140ef23c4e917b5294e44321b56880a6e16a6bbb9cdebf294bei0",
+    "meta": {
+      "name": "Stamp 80/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sunflower"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "b76aab9b944e3db7b390506a1319fc6cfadf6f20a5009acf663c7756843dbf31i0",
+    "meta": {
+      "name": "Stamp 81/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "0550f7ea885f5c07e299dd9987ce6ae21b63df6faa03383b06c2765142b922f3i0",
+    "meta": {
+      "name": "Stamp 82/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "531a4e6f52425c7e57287a6c4209c2030e5cb82089e4a381e19800377a3ca85ei0",
+    "meta": {
+      "name": "Stamp 83/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "f62ed6eb1d2b226351125e4b40e218417339df60148cf80a0bd3702cfddd40fai0",
+    "meta": {
+      "name": "Stamp 84/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "00838f1bdff78b58e7baf45f4e5ef6ea6653c04468861b0dfaeb2214165f4924i0",
+    "meta": {
+      "name": "Stamp 85/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "cd0391c80f68de4ecf916843c25996a4517b640152d64eaafcfc2907d9d1d935i0",
+    "meta": {
+      "name": "Stamp 86/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "9cb04be008a978f6aa798a138228884f6662ee1d7f19a5491ae491e052eb922ci0",
+    "meta": {
+      "name": "Stamp 87/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "dcde24b8a0397a33ef91cfcd39b395fbc54a70ed04679dd5438203ded7eca5d2i0",
+    "meta": {
+      "name": "Stamp 88/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "8eb16ecc6b09172d377e0809212d57ad62808d408a198aa6766aaccb27731cd0i0",
+    "meta": {
+      "name": "Stamp 89/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "86b9689fc5e18eca4f6b0bf88a41db823c8b03e90f02f9d803b35e71bc1959b8i0",
+    "meta": {
+      "name": "Stamp 90/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "2e1cf482dd837f3b0eea0df8278209a6eaf0d2dc27b383a74483727203766a9fi0",
+    "meta": {
+      "name": "Stamp 91/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "7b21ec0dfd37ffb6cd0389ee6c2db3f93c399734bc15959baf5fb1fc228db4f7i0",
+    "meta": {
+      "name": "Stamp 92/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5aa37f93b1b95f76ef2e508e4374ce820817aa7f8a2c5d399f73dd288506a3f0i0",
+    "meta": {
+      "name": "Stamp 93/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "28fb76819110f9467c0d33c758ffbd1e23a069c1d659585a1cb4d686920d6f60i0",
+    "meta": {
+      "name": "Stamp 94/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "7d72a42f9f8ab02e96a6d14b9319cb3dba0fac0e9dc376190a74501dadd34a12i0",
+    "meta": {
+      "name": "Stamp 95/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "4099ac53ff96208c5cda4866b54615fb8da1e6fbeacee71e925e38ce8680f3bbi0",
+    "meta": {
+      "name": "Stamp 96/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "176930cf1a2406eb60ac6fe39b12fbc9435eec46000f3240e06b98ea260351d3i0",
+    "meta": {
+      "name": "Stamp 97/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "837ecccd205bd331e16c715079cf4cfe279bf5b6020b77a3cfc3d4ccd3153d2bi0",
+    "meta": {
+      "name": "Stamp 98/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "2918250239b19728ab7d777fb47b740f6a1696072675c97198c3dea4a0b5f0e6i0",
+    "meta": {
+      "name": "Stamp 99/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5de3f0552a6b3dd9fb2cbb84034e1dd0e4b6f734645ce27a713f3269e20c3eaei0",
+    "meta": {
+      "name": "Stamp 100/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "1a6a2df8ef0227bfd3152654bd574f55b2ab6a788de911fa34e661b166aeb37bi0",
+    "meta": {
+      "name": "Stamp 101/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "1dfae15719cc0881522cc49dc607446c47e03c6d0449e3d0962603e1ca8a02a3i0",
+    "meta": {
+      "name": "Stamp 102/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "7c3e1c4c3250af23b32daa2f1c176ee1f45a79100cc82a167c3c91c1cc3e1da4i0",
+    "meta": {
+      "name": "Stamp 103/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "77360923661dbc0520233cdf789f50688e66adecc0c8e4e6301a6ed17af650afi0",
+    "meta": {
+      "name": "Stamp 104/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "d8068e8f19e35fd2a8876a7247e526c82d14904f73d2a8c2306dbab7fd8f7a1ai0",
+    "meta": {
+      "name": "Stamp 105/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Petunia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "fda90bf5df413cf7e329e25e5e7e5a0fb1e4d1f8e0b3d6d1a25b27780b49e2aci0",
+    "meta": {
+      "name": "Stamp 106/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "3ae48bd90855ff2211cca697e57af48d2f91446d95d963cefa8d5630ac099794i0",
+    "meta": {
+      "name": "Stamp 107/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5c6943b0f61277aac53abda3adfd291235fc2ef6da433939b288cfa7fd0585c6i0",
+    "meta": {
+      "name": "Stamp 108/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "426d971538a93be866606b3ca41b07406954b71a6e38b1d6ef96c21c8fbd2649i0",
+    "meta": {
+      "name": "Stamp 109/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "2fa7ff725fedbc3d4fdb7c352b1bc354c045f12be0ef519664384a3c71c713f9i0",
+    "meta": {
+      "name": "Stamp 110/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "626e472d0ab1bcf5ae80c2374421a5c51e4a7cd5e1cf090aeeab684e70dbec89i0",
+    "meta": {
+      "name": "Stamp 111/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "a512c968dc2b07f85c575fcb8ace97729ef72e838a5481c06fc351d1a1d23506i0",
+    "meta": {
+      "name": "Stamp 112/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "2ec925cc4dd830ec01c75c4362a9b7436568bb9cdc56a4b7b0eacef52d375a1ai0",
+    "meta": {
+      "name": "Stamp 113/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "680974c6ef908c40d91891bd03124d2be76a8cffcd6785a9b7c112465a1fe8a1i0",
+    "meta": {
+      "name": "Stamp 114/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5a423a83949a68add3068258e232d9586c534a542e965f5c19acc4de60663d0fi0",
+    "meta": {
+      "name": "Stamp 115/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "92fb51c3f2eeb68e1eec6f7cac07225ec4d7d710c15f419b853e53a1f7c80efdi0",
+    "meta": {
+      "name": "Stamp 116/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "709ba1ea832a9a7309873cd2f2817ed68e51114b0da89e7acac11c39f18bf73ci0",
+    "meta": {
+      "name": "Stamp 117/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "1b90742e6fa324ff44c3ac497c1018536dd93c7f1d9b38af88463cedace38781i0",
+    "meta": {
+      "name": "Stamp 118/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "87f40f5e358379b8189d60abe079efe1bc174324e2f73a52610788900c337cbfi0",
+    "meta": {
+      "name": "Stamp 119/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "a0f57f3562f4a5a5e4c5a2e5e9771d41b8d83dac54a8f91664529016c46b32a9i0",
+    "meta": {
+      "name": "Stamp 120/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "9ba9baece46f8c2895353d9177e1a0e7791793aa6842d239fa47a2aadd917d26i0",
+    "meta": {
+      "name": "Stamp 121/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "3b5054693a595d498792e09483c438922d51e132479a0062d2eaad8849a8d745i0",
+    "meta": {
+      "name": "Stamp 122/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "0e8d9a61f5afd59bb6683c9c9fbff2b51410fdaec54769cba15803ba66a7426ai0",
+    "meta": {
+      "name": "Stamp 123/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "baaf445399b006861d4213a7fe52e48f6b71cda525c32c59ba15baf68f764ee7i0",
+    "meta": {
+      "name": "Stamp 124/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "e7673ef380939aa1dcda90bb31bf2abbc6a55ff05ceec753feef5051a2140622i0",
+    "meta": {
+      "name": "Stamp 125/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "dd2db17df107a4599f5623db566e0291749acb720cd6abcdc2923089b2125e15i0",
+    "meta": {
+      "name": "Stamp 126/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "b5f5f0b7ad934fa5d707da6d28c54f27dbcf62ee99fdc2a682c068c056cee3e5i0",
+    "meta": {
+      "name": "Stamp 127/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5f5ed9bfab138e68d41635e701a5fa4bf725f0eda76d18638c081fca1ebe7080i0",
+    "meta": {
+      "name": "Stamp 128/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "75fa817e9c4d6993cd6576390f51f4319996f20435692117f9ab885fdbcd29bci0",
+    "meta": {
+      "name": "Stamp 129/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "e3581d09988aeb37ddb6c3028d223ad32cbc1a5ed7e8b8bd84f8037e9cf0b39ci0",
+    "meta": {
+      "name": "Stamp 130/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Seagrass"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "bceb44ae63d8d43bd0fe25807272f275fa5aee2fa9d5bf221ef9ebf46ff6a80bi0",
+    "meta": {
+      "name": "Stamp 131/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "f01a3732ac64780455a52ec6321b94d6f2f55ddefdbee31e2dda2c006916d79di0",
+    "meta": {
+      "name": "Stamp 132/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "a93ba01adbb8e8ff9a4684b14ac6a379a14d8495228a7b7996bd8c66e32b250ci0",
+    "meta": {
+      "name": "Stamp 133/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "8e06c8a4ab59ac8a685daa56f66a4e3886a5fe02bda20873ce8e77050b3946ebi0",
+    "meta": {
+      "name": "Stamp 134/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "9e403c90a1d009380a63f03986fa0a761eac501b9000845a9c6d62611ea24280i0",
+    "meta": {
+      "name": "Stamp 135/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "cf0a8d335f01299508d9a856270bee9fa91b0522022c3f8f65ba0d90e02f8a0fi0",
+    "meta": {
+      "name": "Stamp 136/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "73e25442b4064a0483a0af1b32de3983b64ec3524ffe38e8dbf99515a24124d2i0",
+    "meta": {
+      "name": "Stamp 137/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "08a188b20b15ee7d8b14bd99899a141c51db0c8e346440d2a2a739c3311ec8d8i0",
+    "meta": {
+      "name": "Stamp 138/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "be0b672bdb111fb348a46ac36c38f0d5268648b237c10dc6232850806f5d0b20i0",
+    "meta": {
+      "name": "Stamp 139/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "530480883e5244ccf735f28ef659e09c90ad4b2dfdd52dbbb15d8b8bd31ef24ei0",
+    "meta": {
+      "name": "Stamp 140/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5834fb422823ff81259f7f42fc4f164eeecf2d16f082696a4a608d58bd2d82aai0",
+    "meta": {
+      "name": "Stamp 141/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "864d1258c98eb10a8a49139f072bb2274be42d8b8158518fc80d5a688cb64cbfi0",
+    "meta": {
+      "name": "Stamp 142/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "7781140026fc0c417a81dd91f50dbc889495334f7a6792eef6b76ef7ba9a5a41i0",
+    "meta": {
+      "name": "Stamp 143/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "3c34ec14321ca66cd6258764cdf02e0791c6c419640bc563e37894f3879fe1eai0",
+    "meta": {
+      "name": "Stamp 144/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "d883f01249dbad52dbee6fd4ef95f005332541de9ca4bcf3cc481f65c1c02a32i0",
+    "meta": {
+      "name": "Stamp 145/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "b372c1399e425e0cba300fdcb2fa33b0c75fa30d4ee498464584f75177858c1fi0",
+    "meta": {
+      "name": "Stamp 146/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "cba15a6a4361ecfc80d53d41a6c9a81321bb17f08302bbaeb2912a2ce20b4a4fi0",
+    "meta": {
+      "name": "Stamp 147/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "7f54a6ec1c78730e01a3039039d8ce195b8c7659431d52ae1d5333a5814fdcd0i0",
+    "meta": {
+      "name": "Stamp 148/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "799c8e6f68fca9ee746bd42c9a4a920816a7a56c7f6129db4634455b4e2fe3dbi0",
+    "meta": {
+      "name": "Stamp 149/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "244d0aaca69271cb2849b470daa28ce3df8780e7033d83ee2ea438e72bcd3883i0",
+    "meta": {
+      "name": "Stamp 150/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "ddae161d7f70cb4ca9372a0586243b42f511f058fcf9deba8de453b63174717di0",
+    "meta": {
+      "name": "Stamp 151/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5efb6a5115e01f2aba1ca2745099fd0d5e541735438f0a13f6d5d93d3c87fd37i0",
+    "meta": {
+      "name": "Stamp 152/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "02798470b092a241bef36357fb0dc550cfb2da761c4ef646f22241a54e375d00i0",
+    "meta": {
+      "name": "Stamp 153/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "79beb233b2d2290fd3c69d03b7941ee257498015794c44bbc04bc479609f619ei0",
+    "meta": {
+      "name": "Stamp 154/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "9f39c43f5dc8393cdc0f637334782d398ce041a67d46bf346b59b9f9e642e654i0",
+    "meta": {
+      "name": "Stamp 155/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Mulberry"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "8ec44532aade249f2954b8ec176dd20d3de511b70cd60babe1c0a0405adedc99i0",
+    "meta": {
+      "name": "Stamp 156/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "b60c837d194ddc87d537206879e44926933345809fba21e1c1ef9cb1e8aa4afdi0",
+    "meta": {
+      "name": "Stamp 157/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "94427650841fa69c00ae3120044f9b57e5fe93c279a70a39fe70ccbe0fd773bai0",
+    "meta": {
+      "name": "Stamp 158/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "e760964dd007e914f3226143afd271ffe2cc28ee2328be9a224d3d438c56c911i0",
+    "meta": {
+      "name": "Stamp 159/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "36cbd922bd5176af1aa70970b26b5870b238f5286f8822c129d30d270d1b78abi0",
+    "meta": {
+      "name": "Stamp 160/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "f555b63c8e7637de8bc370bb4c167cc8f1a2df424ece56e44aee8b1c0790336ci0",
+    "meta": {
+      "name": "Stamp 161/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "e29d8711c631dde5e559f4e1288944000d616731ed65ba91b8aeae0c26b772d8i0",
+    "meta": {
+      "name": "Stamp 162/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "adcf98ea8c0941bdc1e6d99073b338bb5d7d3eeebfafbca74e648c284a2fe00fi0",
+    "meta": {
+      "name": "Stamp 163/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "0eb0f6350f42bb5e01db2ba2d589e53c071ed1215003cd5882722ec8bb3f3ef8i0",
+    "meta": {
+      "name": "Stamp 164/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "95587c5ad6403305496b7484e2c9508f4f395911cdc66edc6c9ddf4d86dfd4d1i0",
+    "meta": {
+      "name": "Stamp 165/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "febd2b0d18fa045416c4349d115a740f7950fab2e6a1283ccdafa0ac0b84f373i0",
+    "meta": {
+      "name": "Stamp 166/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "cb373fca9d36f3c04118b23116c7860b02090d81d420dc95edd6aa9a9225fefei0",
+    "meta": {
+      "name": "Stamp 167/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "8fe7c00bf16c9f2fa1d77a6ee76225bbfe30eddca956c7c1f341951bd63ea928i0",
+    "meta": {
+      "name": "Stamp 168/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "84349c51406d4fcf8944d4f9fdc92c73ba8485f8570854576ff6146caaaf8166i0",
+    "meta": {
+      "name": "Stamp 169/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "ad6a16d5f89bc69ea285678877b4a64c64f34e14bf8d23549dca6b1131c56dcdi0",
+    "meta": {
+      "name": "Stamp 170/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5f871116654e3835342c5ad80380c648bfdd528d0a66ff4a7002eeb3736df263i0",
+    "meta": {
+      "name": "Stamp 171/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "6d7a2716ef671f9ce4e7ab458e22a5e04772b707879d97071785e4ec7078de36i0",
+    "meta": {
+      "name": "Stamp 172/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "7b5f0f2caa90c5de8da6b852102c1a02ef8145408453236c191563b678306758i0",
+    "meta": {
+      "name": "Stamp 173/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "6d6f58f579fc23e5fa63ba462f932e2934ec4dbf21e1f23cf7bed77d6f7cf790i0",
+    "meta": {
+      "name": "Stamp 174/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "a289766ca6c0cb9403f44d0ff2471bda03889f858287c801053892272b1c2d41i0",
+    "meta": {
+      "name": "Stamp 175/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "1b3d6e4c547beb0a97cfb228a3ad544f3fdc63ebf53f48b47257b5d8c3b2ea88i0",
+    "meta": {
+      "name": "Stamp 176/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "8a17c383b37b2cc43d587eccc89d31ef8782caedc55cfb3de772ae7fee1ad0a6i0",
+    "meta": {
+      "name": "Stamp 177/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "a4464fd084d578832076ba080f656f839b80e31152804537407d6a21140267bei0",
+    "meta": {
+      "name": "Stamp 178/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "18f620d7750ee28bb8577a91bd781d61b50666686aecebb661ca254e19bc2c54i0",
+    "meta": {
+      "name": "Stamp 179/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "e930c63b8ddcd81645662034dcd3ea06f3fccfd71ab7a1dfccc9983609f16f4ei0",
+    "meta": {
+      "name": "Stamp 180/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Coastal Coral"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "cc879e231b3151cbba494957a42b459fc7ac0a7fbb62629e79413920b09f6cadi0",
+    "meta": {
+      "name": "Stamp 181/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "49911c7ddf504163206ebc4a91932d017c3618b2584b4ec65298775fa9c524cbi0",
+    "meta": {
+      "name": "Stamp 182/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "cd8420295cb9edbcd2d3c6dc09832d8809b7565edb1499bcf59d8b47c06fb062i0",
+    "meta": {
+      "name": "Stamp 183/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "4cb3d0cadcbf4df4bd9f00f6d7143a42eb48372f9adbbff89e0705e3e2683130i0",
+    "meta": {
+      "name": "Stamp 184/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "41170fcf2204ec7093dd65b88eb237411687b5f9e6da22369b5327a9bd8ad366i0",
+    "meta": {
+      "name": "Stamp 185/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "d6585aedb8f82bc11d65c358685bfb5a93bdc215a10d8ba875bb62f27bf0a254i0",
+    "meta": {
+      "name": "Stamp 186/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "6f814c3ac4d56cd3176a9d565d6991ed5b5fe4f19c791b825cd682ed8110f292i0",
+    "meta": {
+      "name": "Stamp 187/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "cdbbae7e0bb0d60030aa515bcb26cb364afa86ca3e01ec49442ca2f41addc4cbi0",
+    "meta": {
+      "name": "Stamp 188/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "96c08e0714d1b6c509a36654db068556a7a7a679b4134ee4bcad2785243d8cdei0",
+    "meta": {
+      "name": "Stamp 189/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "e15d9e423d21603cdc7374ae034723fa075a99860f15e9c372fd820e9ac0f0d1i0",
+    "meta": {
+      "name": "Stamp 190/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "467fc8881bd5e2a7b2e9d1304b89f131173d1b2f96568a0fe8e67ca64f9cb5e5i0",
+    "meta": {
+      "name": "Stamp 191/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "9ef8c437a1ebd74a664aba17c79bb179c618d01660df1ec52e163cf8896ac861i0",
+    "meta": {
+      "name": "Stamp 192/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "03ba466f3e93d34a96b07e994f95b887df5b05b4ead78c04764641907c2ac403i0",
+    "meta": {
+      "name": "Stamp 193/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "277dc7ad1387ab7565fcfc0d41965d4d0fb42715e689ff1cf97ce86800f23a90i0",
+    "meta": {
+      "name": "Stamp 194/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "2668d795d2d07f2af9f681275e1ac3c1cdbd9706613ecd9c5f9623cea74dbc64i0",
+    "meta": {
+      "name": "Stamp 195/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5ebbb958fb007f270f694fe895d7acc95523849a93846cca89581300a943e376i0",
+    "meta": {
+      "name": "Stamp 196/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "79982cbbf4ab4e7a3da5236430f437493620f1313f636d6e9c0a56e2290103dci0",
+    "meta": {
+      "name": "Stamp 197/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "a8802ad144556d011366a93ef0a9b38257a724b0c54e70a89ba4f91ea27bb0e3i0",
+    "meta": {
+      "name": "Stamp 198/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "aa22b7ff880d53cf8bb9de7a2c8b6b40c732e6f00f02fb8eace30be3294eb16ci0",
+    "meta": {
+      "name": "Stamp 199/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "b01cabd02eeba9fdd46bffcc3697188c06c0985ea4ba696f42da8f537ef6a264i0",
+    "meta": {
+      "name": "Stamp 200/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "b0e5f7c3bb5e16194b5c05770ade261848dd464b0c2fa0b6397b0c6c6a063a28i0",
+    "meta": {
+      "name": "Stamp 201/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "14bdc336359614525db4bc194437c43f5ad41e3e195472d7b5df03dadd526ec4i0",
+    "meta": {
+      "name": "Stamp 202/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "1abd80442e3a075d183f3e377ffd5fcd63b52e9da78b87983269611e9ca6ad79i0",
+    "meta": {
+      "name": "Stamp 203/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "775949956dfcaedee97fa93aa63280fe367dce70647bd9c076a8cd0dcda3d179i0",
+    "meta": {
+      "name": "Stamp 204/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "1b135ea0067b5e5a241e31da3825380e28414d3a962cbc688db764dfcc14a4c3i0",
+    "meta": {
+      "name": "Stamp 205/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Night Sky"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "fb2496ad4271b196a73a1272f29b663f8efb106b367849c3a28c4e8eb7253a2ci0",
+    "meta": {
+      "name": "Stamp 206/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "dd64e4cf327b640a49c5257fc9202437c1199aa6f436c506c39b15578390f3a0i0",
+    "meta": {
+      "name": "Stamp 207/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "fad41ac8a8980ff03d61dc7c84b1413e6d09d27cf8ffda0a39638f198be0f173i0",
+    "meta": {
+      "name": "Stamp 208/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "0cec7a22409054f68e18c2dec7a0366bf2f2584b0ae28ef20ea41c6f24e94082i0",
+    "meta": {
+      "name": "Stamp 209/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "9d772de34f7efef47c996ec23fa3c23ed2f95c1fab52489421ede5ef691dede8i0",
+    "meta": {
+      "name": "Stamp 210/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "1fcf80d6cc51d941d624aee84522a0de1963120d64f3bf14e48204bd9378dc1di0",
+    "meta": {
+      "name": "Stamp 211/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "8dc3823477de91326d4da7c73520dbd6e7b0c827c37de4de1b11bcea444cd27di0",
+    "meta": {
+      "name": "Stamp 212/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "afff4826125657d439e034fa748215d525253ab5cea46743feb2537e9891c72bi0",
+    "meta": {
+      "name": "Stamp 213/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "925581cc8bcb181275430bae1ce8153d755093264704eaa60db1a17b60f177aci0",
+    "meta": {
+      "name": "Stamp 214/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "3e539911e45fca4c5c3d956f56ba2854f8e6cb59e0183f4c43197f02fc01498ei0",
+    "meta": {
+      "name": "Stamp 215/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "2ac3193e58edb7d3d22b718cebdaa3f0a626047989e030c0b6089e8ae1396220i0",
+    "meta": {
+      "name": "Stamp 216/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "d9fe3ae022914f2fac49de9c17a8ed8e240b187b2a1ab21422cdcd65c4155464i0",
+    "meta": {
+      "name": "Stamp 217/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "4046a9fa954a48ba2c8ec06fd4e5532f2a2af6fe2b35815fe8a01ed3a1753385i0",
+    "meta": {
+      "name": "Stamp 218/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "e81c2ce9414f12340188b3620b08b6eecf6be9e3525610fb5c0ffbdab5b80289i0",
+    "meta": {
+      "name": "Stamp 219/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "7511f64b7dec834c1bd68bd197c344d1eea2ef3dfb42d2bc4ede0e871115492ci0",
+    "meta": {
+      "name": "Stamp 220/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "16c116fc6d80d34719f7179c92f2a45edee51b1d7eaa412d921207712fefb6f8i0",
+    "meta": {
+      "name": "Stamp 221/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "e7339decc3de86934f910c9187e5da065d24f54c6955fead8cef19ca471bd15ci0",
+    "meta": {
+      "name": "Stamp 222/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "5758af5e181354488387eaf1facdc6b34dfc712703b488848955d83f463f185ai0",
+    "meta": {
+      "name": "Stamp 223/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "21c76dff874810d85912303a18091729810d1264c2cf0188e3c71df62799bba7i0",
+    "meta": {
+      "name": "Stamp 224/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "ec994d87414a150bd0de658775a6ba8fb691c3650a4d5b31a9d10e0b11fdc2d2i0",
+    "meta": {
+      "name": "Stamp 225/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "f88f5da7bd12714163b9056232b0465f4c815789b90657fe1680116ace92924bi0",
+    "meta": {
+      "name": "Stamp 226/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "3a5d6470c66aedb2722830c2a46710e7ca6ec8bb2c1247f0e48c6504de601837i0",
+    "meta": {
+      "name": "Stamp 227/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "70c40fbec48962f63f46cdaf6b52b69c84ee9a928051b7d521dcb427b5c0fbcdi0",
+    "meta": {
+      "name": "Stamp 228/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "1f5151f57e0e76c6cbba33d67d322bb37ca58e544bbe9b00a4e535d598c6cce2i0",
+    "meta": {
+      "name": "Stamp 229/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "d5398ba9b99baabbb10c640c692b1db73113ed5dba0f42e88e4b144b49464fdfi0",
+    "meta": {
+      "name": "Stamp 230/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Fern Green"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "f4e27b10d848bb75ad22cd1b9def57f052184977bae6eee3ef9b0107711098d3i0",
+    "meta": {
+      "name": "Stamp 231/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "99d5affdf12f6093c303d0894f3ed89ada092be35580108f663adb6f168e0a4fi0",
+    "meta": {
+      "name": "Stamp 232/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "e492e494099826f856e69047ba04d5a8baedafab21218212730447a9cb7e6197i0",
+    "meta": {
+      "name": "Stamp 233/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "e63dea73144dbcac3048c413487004e2c6fd29b92da173e3ae40515fe78b562ai0",
+    "meta": {
+      "name": "Stamp 234/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "2b8029ad94ee8a500cfb92ca922eb826a71a212ffb64fc913e369db368c633eci0",
+    "meta": {
+      "name": "Stamp 235/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "80a2a5d4271bea97ab0aa0fa926f048e6f2202011d5dd680789e0380d6b5b39bi0",
+    "meta": {
+      "name": "Stamp 236/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "9f156a5cb9bac57d2d91426d063938b75f4bf78854bcd0de2974800ba42e882ci0",
+    "meta": {
+      "name": "Stamp 237/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "3e04d18cf5f061a6bcf7149ac1d76339a0f507e164f5d734d63363ed3b088421i0",
+    "meta": {
+      "name": "Stamp 238/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "6b8f8ccd61d79bd224b402b8aad759e106e2d3ea101b11cf29095a63cfd82b2ci0",
+    "meta": {
+      "name": "Stamp 239/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "a7ab401c19d22955f56f484431e64e73e167201b188ade13251572f9d1258c21i0",
+    "meta": {
+      "name": "Stamp 240/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "db4d3015f052580f65d152a88bb920cd71266d6559faf0622747823d2514aa24i0",
+    "meta": {
+      "name": "Stamp 241/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "316cc7e820a69d3ae4034a8ee901708d04793f208c6191195b15dcb13bf22488i0",
+    "meta": {
+      "name": "Stamp 242/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "997f0c257b1bdf1dfd96511f51c2938cc2a2621842a8d97032fa33f895af1283i0",
+    "meta": {
+      "name": "Stamp 243/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "3824cfec99ef7654a60b3ca1d443da9576e3eb6d03f1d45de425585adbaffaa3i0",
+    "meta": {
+      "name": "Stamp 244/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "b5f64306f9b8253942c017cfd885365645fbd8ec1bca5a83bbd3d38252ee5b31i0",
+    "meta": {
+      "name": "Stamp 245/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "436e1452d49821d84d607dea8d4e57b18172b70c4a0c1b98d6ae4689e9b0eda4i0",
+    "meta": {
+      "name": "Stamp 246/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "da745edc25d2fb1c7f9fa8e66ddc042872950f3cf78b4f6659710ca154ddb32ci0",
+    "meta": {
+      "name": "Stamp 247/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "b93db23cf04f8c617da05e59a4ca8e063b3e298c3dbdbc7864687766d799c8b0i0",
+    "meta": {
+      "name": "Stamp 248/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "4e0c6ded835e11e99328e27a61fe1a2dc8c616e50d00258426703a27bb72f188i0",
+    "meta": {
+      "name": "Stamp 249/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "b173dcdb9abda68e09728efd2712f3957ba4ce7d03d7d77a9d295398808a192ci0",
+    "meta": {
+      "name": "Stamp 250/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "bb10219b24469dfa5d0158fd3eac6560c57c5b01922d701e0b204d5b959b5ce2i0",
+    "meta": {
+      "name": "Stamp 251/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "46c59e636458c6710c1898428df73367f1b6647fcdac43eaa847084d04d05f2ci0",
+    "meta": {
+      "name": "Stamp 252/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "20e07741c72c00a05c41f41c74dff18ce5d796ddfab58187523168650371e8d9i0",
+    "meta": {
+      "name": "Stamp 253/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "e676df7d2160ad9f598afcefe7190d8916ae88249554d1f31fc1e97ab0b10565i0",
+    "meta": {
+      "name": "Stamp 254/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "a07f98df09727d9fed886384481773ad76ee55426139d5528e0ab7cfc0dcd990i0",
+    "meta": {
+      "name": "Stamp 255/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "1b81568ef6f28c4f56d4ae67b8ef674c497b8f2433ed48a5a56cd8bd288beb99i0",
+    "meta": {
+      "name": "Stamp 256/256",
+      "attributes": [
+        {
+          "trait_type": "Ink Color",
+          "value": "Sepia"
+        }
+      ]		  
+    }
+  }
+]
