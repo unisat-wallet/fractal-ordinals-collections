@@ -11,8 +11,7 @@
         {
           "trait_type": "portrait",
           "value": "Renaissance"
-        }
-      ]
+       }
     }
   },
   {
@@ -27,10 +26,9 @@
         {
           "trait_type": "portrait",
           "value": "Surrealism"
-        }
-      ]
+       }
     }
-  },
+   },
   {
     "id": "64ab3f79abf372734ec40bb9366a991d71dbf7b7390a88810bf230e86d417f82i0",
     "meta": {
@@ -44,7 +42,6 @@
           "trait_type": "Portrait",
           "value": "Baroque"
         }
-      ]
     }
   },
   {
@@ -60,7 +57,6 @@
           "trait_type": "landscape",
           "value": "Impressionism"
         }
-      ]
     }
   },
   {
@@ -76,7 +72,6 @@
           "trait_type": "Portrait",
           "value": "Baroque"
         }
-      ]
     }
   },
   {
@@ -92,7 +87,6 @@
           "trait_type": "Weapon",
           "value": "Ancient"
         }
-      ]
     }
   },
   {
@@ -108,7 +102,6 @@
           "trait_type": "Weapon",
           "value": "Ancient"
         }
-      ]
     }
   },
   {
@@ -124,7 +117,6 @@
           "trait_type": "Relic",
           "value": "Good Luck"
         }
-      ]
     }
   },
   {
@@ -140,7 +132,6 @@
           "trait_type": "protector",
           "value": "Ancient"
         }
-      ]
     }
   },
   {
@@ -156,7 +147,6 @@
           "trait_type": "luck",
           "value": "sail"
         }
-      ]
     }
   }
 ]
