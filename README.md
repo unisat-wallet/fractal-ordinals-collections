@@ -1,6 +1,6 @@
 # Ordinals Collections Standards
 
-## Meta Data `meta.json`
+## Meta Data `meta.json` 
 
 ```
 {
