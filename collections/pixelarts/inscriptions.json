@@ -1,19 +1,19 @@
-[
-  {
-    "id": "86127b55b0a56f6c9682e7f62462dd32282deeaaf31237be8951f702d0ddd4edi0",
-    "meta": {
-      "name": "Mona Pizza",
-      "attributes": [
-        {
-          "trait_type": "Masterpiece",
-          "value": "AstroLegendary"
-        },
-        {
-          "trait_type": "portrait",
-          "value": "Renaissance"
-       }
-    }
-  },
+{
+  "id": "86127b55b0a56f6c9682e7f62462dd32282deeaaf31237be8951f702d0ddd4edi0",
+  "meta": {
+    "name": "Mona Pizza",
+    "attributes": [
+      {
+        "trait_type": "Masterpiece",
+        "value": "AstroLegendary"
+      },
+      {
+        "trait_type": "portrait",
+        "value": "Renaissance"
+      }
+    ]
+  }
+}
   {
     "id": "115ca58ef32a871fee26eff0803b03c57633849f767f379a59dd7ae94e75e0fci0",
     "meta": {
@@ -21,14 +21,14 @@
       "attributes": [
         {
           "trait_type": "Masterpiece",
-          "value": "AstroLegendary"
+          "value": "AstroLegendary",
         },
         {
-          "trait_type": "portrait",
-          "value": "Surrealism"
-       }
+    "trait_type": "portrait",
+          "value": "Surrealism",
+        }
     }
-   },
+  },
   {
     "id": "64ab3f79abf372734ec40bb9366a991d71dbf7b7390a88810bf230e86d417f82i0",
     "meta": {
@@ -36,12 +36,13 @@
       "attributes": [
         {
           "trait_type": "Masterpiece",
-          "value": "AstroLegendary"
+          "value": "AstroLegendary",
         },
         {
-          "trait_type": "Portrait",
-          "value": "Baroque"
+    "trait_type": "Portrait",
+          "value": "Baroque",
         }
+      ]
     }
   },
   {
@@ -51,12 +52,13 @@
       "attributes": [
         {
           "trait_type": "anonimous",
-          "value": "Gold"
+          "value": "Gold",
         },
         {
-          "trait_type": "landscape",
-          "value": "Impressionism"
+    "trait_type": "landscape",
+          "value": "Impressionism",
         }
+      ]
     }
   },
   {
@@ -66,12 +68,13 @@
       "attributes": [
         {
           "trait_type": "Villain",
-          "value": "Onyx"
+          "value": "Onyx",
         },
         {
-          "trait_type": "Portrait",
-          "value": "Baroque"
+    "trait_type": "Portrait",
+          "value": "Baroque",
         }
+      ]
     }
   },
   {
@@ -81,12 +84,13 @@
       "attributes": [
         {
           "trait_type": "Relic",
-          "value": "Legendary"
+          "value": "Legendary",
         },
         {
-          "trait_type": "Weapon",
-          "value": "Ancient"
+    "trait_type": "Weapon",
+          "value": "Ancien",
         }
+      ]
     }
   },
   {
@@ -96,12 +100,13 @@
       "attributes": [
         {
           "trait_type": "Relic",
-          "value": "Legendary"
+          "value": "Legendary",
         },
         {
-          "trait_type": "Weapon",
-          "value": "Ancient"
+    "trait_type": "Weapon",
+          "value": "Ancient",
         }
+      ]
     }
   },
   {
@@ -111,42 +116,44 @@
       "attributes": [
         {
           "trait_type": "Relic",
-          "value": "AstroLegendary"
+          "value": "AstroLegendary",
         },
         {
-          "trait_type": "Relic",
-          "value": "Good Luck"
+    "trait_type": "Relic",
+          "value": "Good Luck",
         }
     }
   },
-  {
-    "id": "7e7a7de412f85cc90c17142dc344b70ff485087842f948aade824b098b01f835i0",
-    "meta": {
-      "name": "Shield of Chaos",
-      "attributes": [
-        {
-          "trait_type": "Relic",
-          "value": "Epic"
-        },
-        {
-          "trait_type": "protector",
-          "value": "Ancient"
-        }
-    }
-  },
-  {
-    "id": "f66125fad2f58baa9b724f8a6f473e535feee98f3112807a46908f51cf5cb582i0",
-    "meta": {
-      "name": "the red galera",
-      "attributes": [
-        {
-          "trait_type": "marine",
-          "value": "Epic"
-        },
-        {
-          "trait_type": "luck",
-          "value": "sail"
-        }
-    }
+{
+  "id": "7e7a7de412f85cc90c17142dc344b70ff485087842f948aade824b098b01f835i0",
+  "meta": {
+    "name": "Shield of Chaos",
+    "attributes": [
+      {
+        "trait_type": "Relic",
+        "value": "Epic",
+      },
+      {
+        "trait_type": "protector",
+        "value": "ancient",
+      }
+    ]
   }
+},
+{
+  "id": "f66125fad2f58baa9b724f8a6f473e535feee98f3112807a46908f51cf5cb582i0",
+  "meta": {
+    "name": "the red galera",
+    "attributes": [
+      {
+        "trait_type": "Marine",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "sail",
+        "value": "ancient"
+      }
+    ]
+  }
+}
 ]
