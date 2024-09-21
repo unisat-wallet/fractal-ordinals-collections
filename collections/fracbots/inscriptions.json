@@ -34680,46 +34680,6 @@
     }
   },
   {
-    "id": "c93d04b847d1d028c6ff2a4e0a888803682dbb68bae3c6392895914f25148372i0",
-    "meta": {
-      "name": "Fracbots #826",
-      "attributes": [
-        {
-          "trait_type": "Background",
-          "value": "blush"
-        },
-        {
-          "trait_type": "Body",
-          "value": "pink"
-        },
-        {
-          "trait_type": "Backpack",
-          "value": "jetpack"
-        },
-        {
-          "trait_type": "Arms",
-          "value": "round shoulder"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "BASED MOUTH"
-        },
-        {
-          "trait_type": "Ears",
-          "value": "blub"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "3D"
-        },
-        {
-          "trait_type": "Head",
-          "value": "BULB"
-        }
-      ]
-    }
-  },
-  {
     "id": "9924428b4ad0c7e17db585ca895609fac7abe21916a6ecce12098a17fa098972i0",
     "meta": {
       "name": "Fracbots #827",
@@ -46122,7 +46082,7 @@
   {
     "id": "3addfe1931d62d01048a8dfe31a6d9487688dca64d11e12745a75d188f6a76d5i0",
     "meta": {
-      "name": "Fracbots #1112",
+      "name": "Fracbots #0",
       "attributes": [
         {
           "trait_type": "Background",
