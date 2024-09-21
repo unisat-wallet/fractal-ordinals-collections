@@ -2,7 +2,7 @@
   {
     "id": "86127b55b0a56f6c9682e7f62462dd32282deeaaf31237be8951f702d0ddd4edi0",
     "meta": {
-      "name": "Mona Pizza",
+      "name": "Monna Pizza",
       "attributes": [
         {
           "trait_type": "Masterpiece",
@@ -144,17 +144,33 @@
     }
   },
   {
-    "id": "f66125fad2f58baa9b724f8a6f473e535feee98f3112807a46908f51cf5cb582i0",
+    "id": "889dda7d61a6a885cab4d20c313aa1ca9e037da43fda5c64d93f1b28c4e6ccc1i0",
     "meta": {
-      "name": "The Red Galera",
+      "name": "DOGVAN",
       "attributes": [
         {
-          "trait_type": "Marine",
-          "value": "Epic"
+          "trait_type": "Film",
+          "value": "Legendary"
         },
         {
-          "trait_type": "Luck",
-          "value": "Sail"
+          "trait_type": "Dog",
+          "value": "vehicle"
+        }
+      ]
+    }
+  }
+  {
+    "id": "f4e1b076cdefd70f6228e21d6b7194093d1f08d82670e7ebedf3ca1cead102d8i0",
+    "meta": {
+      "name": "American Gothic",
+      "attributes": [
+        {
+          "trait_type": "Masterpiece",
+          "value": "AstroLegendary"
+        },
+        {
+          "trait_type": "Portrait",
+          "value": "deep"
         }
       ]
     }
