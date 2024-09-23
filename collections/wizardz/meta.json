@@ -1,10 +1,9 @@
 {
-  "name": "Fractal Wizardz",
-  "slug": "Wizardz",
-  "supply": "1000",
   "description": "Dive into the enchanting world of Fractal Wizardz! This exclusive NFT collection offers a unique blend of magic and digital art, with the first 30 pieces available for free. Don't miss your chance to own a part of this mystical journey!",
-  "twitter_link": "https://x.com/koswog",
   "discord_link": "https://discord.gg/6ESDwgZ63D",
-  "website_link": "https://fractal.inscribenow.io/collections/6d1c09c7f59cd59b",
-  "inscription_icon": "https://fractal.inscribenow.io/uploads/16da469c1b3e61845606..gif",
+  "icon": "https://fractal.inscribenow.io/collections/6d1c09c7f59cd59b",
+  "name": "wizardz",
+  "slug": "fractalwizardz", 
+  "twitter_link": "https://x.com/koswog",
+  "website_link": "https://fractal.inscribenow.io/collections/6d1c09c7f59cd59b"
 }
