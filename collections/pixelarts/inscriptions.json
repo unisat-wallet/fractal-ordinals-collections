@@ -1,0 +1,178 @@
+[
+  {
+    "id": "86127b55b0a56f6c9682e7f62462dd32282deeaaf31237be8951f702d0ddd4edi0",
+    "meta": {
+      "name": "Monna Pizza",
+      "attributes": [
+        {
+          "trait_type": "Masterpiece",
+          "value": "AstroLegendary"
+        },
+        {
+          "trait_type": "Portrait",
+          "value": "Renaissance"
+        }
+      ]
+    }
+  },
+  {
+    "id": "115ca58ef32a871fee26eff0803b03c57633849f767f379a59dd7ae94e75e0fci0",
+    "meta": {
+      "name": "Apple",
+      "attributes": [
+        {
+          "trait_type": "Masterpiece",
+          "value": "AstroLegendary"
+        },
+        {
+          "trait_type": "Portrait",
+          "value": "Surrealism"
+        }
+      ]
+    }
+  },
+  {
+    "id": "64ab3f79abf372734ec40bb9366a991d71dbf7b7390a88810bf230e86d417f82i0",
+    "meta": {
+      "name": "Pearl",
+      "attributes": [
+        {
+          "trait_type": "Masterpiece",
+          "value": "AstroLegendary"
+        },
+        {
+          "trait_type": "Portrait",
+          "value": "Baroque"
+        }
+      ]
+    }
+  },
+  {
+    "id": "edf57c129b4fed20392836b478c6beac70734f331f91be712a68c972426f49b9i0",
+    "meta": {
+      "name": "The Trip",
+      "attributes": [
+        {
+          "trait_type": "Anonymous",
+          "value": "Gold"
+        },
+        {
+          "trait_type": "Landscape",
+          "value": "Impressionism"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f36d4f35dffe4b26e5134e0d43492c5eecaae3a0b0d4a905ee3c90317c88b502i0",
+    "meta": {
+      "name": "Otto the Prussian",
+      "attributes": [
+        {
+          "trait_type": "Villain",
+          "value": "Onyx"
+        },
+        {
+          "trait_type": "Portrait",
+          "value": "Baroque"
+        }
+      ]
+    }
+  },
+  {
+    "id": "33ac743599a29e9b4c2c34cc31c37498c91da1f4453025c99c9de6bec86fbe0ai0",
+    "meta": {
+      "name": "Mjölnir",
+      "attributes": [
+        {
+          "trait_type": "Relic",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "41132e2d3d5da2aa7df357cb2621a91c8ebe3e95fc7d3a1c48ad591aedd0c73ci0",
+    "meta": {
+      "name": "Tizona Sword",
+      "attributes": [
+        {
+          "trait_type": "Relic",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4a54c79da6e57af8b07b9151dc5b09bfb276c1c3e23966e1c026e775ec5d09a6i0",
+    "meta": {
+      "name": "Treasure Chest",
+      "attributes": [
+        {
+          "trait_type": "Relic",
+          "value": "AstroLegendary"
+        },
+        {
+          "trait_type": "Good Luck",
+          "value": "Good Luck"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7e7a7de412f85cc90c17142dc344b70ff485087842f948aade824b098b01f835i0",
+    "meta": {
+      "name": "Shield of Chaos",
+      "attributes": [
+        {
+          "trait_type": "Relic",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Protector",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "889dda7d61a6a885cab4d20c313aa1ca9e037da43fda5c64d93f1b28c4e6ccc1i0",
+    "meta": {
+      "name": "DOGVAN",
+      "attributes": [
+        {
+          "trait_type": "Film",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Dog",
+          "value": "vehicle"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f4e1b076cdefd70f6228e21d6b7194093d1f08d82670e7ebedf3ca1cead102d8i0",
+    "meta": {
+      "name": "American Gothic",
+      "attributes": [
+        {
+          "trait_type": "Masterpiece",
+          "value": "AstroLegendary"
+        },
+        {
+          "trait_type": "Portrait",
+          "value": "deep"
+        }
+      ]
+    }
+  }
+]
