@@ -1,1 +1,9 @@
-
+{
+  "name": "KPUNKS FRACTAL",
+  "description": "🔸5000 K-Punks ON Fractal Bitcoin",
+  "website": "https://x.com/Punks_Fractal",
+  "social_links": {
+    "twitter": "https://x.com/Punks_Fractal"
+  },
+  "supply": 5000
+}
