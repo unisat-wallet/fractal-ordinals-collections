@@ -1,14 +1,14 @@
 [
-    {
-      "id": "3f059413f9ad72a43fefeddad4915784c1ea005ba570cbb5802205b46c47ecaai0",
-      "meta": {
-        "name": "MariLeaf 1#"
-        "attributes": [
-          {
-            "trait_type": "Ultimate Strain",
-            "value": "High",
-          },
-        ]
-      }
-    },
+  {
+    "id": "3f059413f9ad72a43fefeddad4915784c1ea005ba570cbb5802205b46c47ecaai0",
+    "meta": {
+      "name": "Leaf 1#",
+      "attributes": [
+        {
+          "trait_type": "Ultimate Strain",
+          "value": "High"
+        }
+      ]
+    }
+  }
 ]
