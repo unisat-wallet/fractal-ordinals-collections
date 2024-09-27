@@ -1,9 +1,9 @@
 {
-    "name":"Fractalio",
-    "inscription_icon":"f9fb438e3ffdb14337598791da97c9016310a531110597dd015de63bf631077ci0",
-    "slug":"Fractalio",
-    "description":"Recursive Fractalio waiting to blow ur mind. Our goal is to destroy the last brain cell. Join our degenerate FRACTALIO army",
-    "twitter_link":"https://x.com/Fractalio_btc",
-    "discord_link":"https://discord.gg/MxCn3AR5",
-    "website_link":""
+  "description": "Recursive Fractalio waiting to blow ur mind. Our goal is to destroy the last brain cell. Join our degenerate FRACTALIO army",
+  "discord_link": "https://discord.gg/MxCn3AR5",
+  "inscription_icon": "f9fb438e3ffdb14337598791da97c9016310a531110597dd015de63bf631077ci0",
+  "name": "Fractalio",
+  "slug": "fractalio",
+  "twitter_link": "https://x.com/Fractalio_btc",
+  "website_link": ""
 }
