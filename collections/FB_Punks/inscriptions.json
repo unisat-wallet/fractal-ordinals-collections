@@ -1,9 +1,362 @@
-{
-  "description": "Fractal Native Punks - Activated at block height 21,000",
-  "discord_link": "https://discord.com/invite/5XEyua8efZ",
-  "icon": "https://i.postimg.cc/rpH26n55/FBPUNKS-PFP.png",
-  "name": "FB Punks",
-  "slug": "FB_Punks",
-  "twitter_link": "https://x.com/Pixel_League11",
-  "website_link": "https://fractal.inscribenow.io/collections/e346a634a509517c"
-}
+[
+  {
+    "id": "99a4e3f9f21085c96f2c83b81e1dc203b21211b14f66c7cb32a6b48ed372b356i0",
+    "meta": {
+      "name": "fbpunk_1"
+    }
+  },
+  {
+    "id": "249cf367172b1f811447c45683a1f308fa684f26b2f7806c6efd140675cba7f2i0",
+    "meta": {
+      "name": "fbpunk_2"
+    }
+  },
+  {
+    "id": "832e63cc21eb1afe32ae05f90e51ae6dea0601d701208f4bb6345e044a67e558i0",
+    "meta": {
+      "name": "fbpunk_3"
+    }
+  },
+  {
+    "id": "0e4094bf45aa23e2d827a64ec00aa98531c54607166916397eb712abe1156f7ei0",
+    "meta": {
+      "name": "fbpunk_4"
+    }
+  },
+  {
+    "id": "860f59e2c06e0e3f99e66ec0285292f6a63dd68fa85bb1068dadb256cadf7458i0",
+    "meta": {
+      "name": "fbpunk_5"
+    }
+  },
+  {
+    "id": "2b7a03b8f437f8314a384e3bb5620b0c0d8c8077901c8c395afe40b365c6e1c8i0",
+    "meta": {
+      "name": "fbpunk_6"
+    }
+  },
+  {
+    "id": "3685e234532f0616ff946c69ee557f1aa11d415960ac1d4cd7aee4b4a189568ei0",
+    "meta": {
+      "name": "fbpunk_7"
+    }
+  },
+  {
+    "id": "375f0d10088c45f7bd705d26a3886a467708dc131c0124d83e52f85bdf27ae00i0",
+    "meta": {
+      "name": "fbpunk_8"
+    }
+  },
+  {
+    "id": "1029d39e9b42bcebafaf0a1226ccd8df48575a390aa04d41ff3fe1a47a018f51i0",
+    "meta": {
+      "name": "fbpunk_9"
+    }
+  },
+  {
+    "id": "8984a3e3e7a3ad5f51049daa34dc47d33010afc20b4d99bf168e8030ebe34002i0",
+    "meta": {
+      "name": "fbpunk_10"
+    }
+  },
+  {
+    "id": "19094af240a5d05a4ae353fc1512dcb35948158e2696a8c948ff9620379f9438i0",
+    "meta": {
+      "name": "fbpunk_11"
+    }
+  },
+  {
+    "id": "08e02c422553da04c372619e4133d30ef9305994d6980eed5cffdd87b4e873c3i0",
+    "meta": {
+      "name": "fbpunk_12"
+    }
+  },
+  {
+    "id": "6f64add11a68a4531ce7eada90b83096f173c611253168e7183e6dfb5de6f6edi0",
+    "meta": {
+      "name": "fbpunk_13"
+    }
+  },
+  {
+    "id": "349295fbab4958828715d914a3674fa5da8261f4b73e57ea82a066516251bc74i0",
+    "meta": {
+      "name": "fbpunk_14"
+    }
+  },
+  {
+    "id": "23ab26fd9e00d300559af7664db77bcf2c9ca540815824d520b247882bf572cbi0",
+    "meta": {
+      "name": "fbpunk_15"
+    }
+  },
+  {
+    "id": "15b162bfcd3bbb41b5e5162bf82369925bf987c6d773514c6abeb4daf011ffb1i0",
+    "meta": {
+      "name": "fbpunk_16"
+    }
+  },
+  {
+    "id": "db07c6a2958a7dd5963d091d93313af59a54ac5b062f9679faa56adc530e6daei0",
+    "meta": {
+      "name": "fbpunk_17"
+    }
+  },
+  {
+    "id": "87b40c6c6c3872ae95d8ecfaf32e807c064178af4c73010f8fef678c62fc6e85i0",
+    "meta": {
+      "name": "fbpunk_18"
+    }
+  },
+  {
+    "id": "4dd6bc0c05e5bc3450d5cb0fda2c658b9d2dd52ab8f190cecb00ad7407e6ef94i0",
+    "meta": {
+      "name": "fbpunk_19"
+    }
+  },
+  {
+    "id": "5ebc3da00ff7424eb561db419c3127a42e7bbca33080bdd96ac236d3420584edi0",
+    "meta": {
+      "name": "fbpunk_20"
+    }
+  },
+  {
+    "id": "444de7bb02e213f5c117ee170321fcb3a8fe1d26b2014798ac0318768c5981f8i0",
+    "meta": {
+      "name": "fbpunk_21"
+    }
+  },
+  {
+    "id": "922acbc4a3c25ef71da1941a4b28abb40cab3e482666da0e73b5c6c15d8545dbi0",
+    "meta": {
+      "name": "fbpunk_22"
+    }
+  },
+  {
+    "id": "f67d59f297bb6550aae6d80e2f5f24c30460c23eb7d86d7806b09174907daf33i0",
+    "meta": {
+      "name": "fbpunk_23"
+    }
+  },
+  {
+    "id": "e5a3fc3d35d770931a0eb0f42fa284dc3d5bfa5f3de0e438448f52e67dcd803ai0",
+    "meta": {
+      "name": "fbpunk_24"
+    }
+  },
+  {
+    "id": "8954ab6e0a2f1b324bb4e3ffbcb7d4d42f8894845315b3ce405623b5f751278di0",
+    "meta": {
+      "name": "fbpunk_25"
+    }
+  },
+  {
+    "id": "65c6557eb9f1e6617c542eb0ead2f35fd3dc7d3925245468b64175f2151a4f7ai0",
+    "meta": {
+      "name": "fbpunk_26"
+    }
+  },
+  {
+    "id": "0e54b8017c49efdb1c3684293659ab04e338f1194a5df756b02e183e5e223d37i0",
+    "meta": {
+      "name": "fbpunk_27"
+    }
+  },
+  {
+    "id": "115a7ff93933eb3a4ff71658d12df5157f8ab7fb8e10b97386113e33e3cc8215i0",
+    "meta": {
+      "name": "fbpunk_28"
+    }
+  },
+  {
+    "id": "c6ac3941e8776caa6259097b51e765e918d7bddf93e5f1e94fe2459ba9b2d061i0",
+    "meta": {
+      "name": "fbpunk_29"
+    }
+  },
+  {
+    "id": "f83815bf4b3de4ccb53cf2c6cc9d1795bf0e54821d2482336586cc2c38bfc891i0",
+    "meta": {
+      "name": "fbpunk_30"
+    }
+  },
+  {
+    "id": "ae6c68cbf4e731a7906efaa7c0aea922b2b2d267e47adc4be2a6838a3758e035i0",
+    "meta": {
+      "name": "fbpunk_31"
+    }
+  },
+  {
+    "id": "dafd05fa9d655f2bc98ff1af2098e2744d9af2bf6ee14af3483c4e3de7ecff72i0",
+    "meta": {
+      "name": "fbpunk_32"
+    }
+  },
+  {
+    "id": "86d21d77131d77f5efefd7a927ede17a0be3e7470f4ce6e079b218128336e879i0",
+    "meta": {
+      "name": "fbpunk_33"
+    }
+  },
+  {
+    "id": "51dbfc85d150c90cc768fcf8885b651c9648bf3ba8fa95abbc76f6e14e1257c4i0",
+    "meta": {
+      "name": "fbpunk_34"
+    }
+  },
+  {
+    "id": "d733533911f4942a0b305ea4ffc81561fffbd0c1dde977042052352de31b4cdai0",
+    "meta": {
+      "name": "fbpunk_35"
+    }
+  },
+  {
+    "id": "55d170200734c22edaca6c51b285e239401837ac4e9158f248f51f7ccbacf77ci0",
+    "meta": {
+      "name": "fbpunk_36"
+    }
+  },
+  {
+    "id": "dd93efb0899daf4cebaae64fa26708770733e4a61150ae58d3a7afad0d02271di0",
+    "meta": {
+      "name": "fbpunk_37"
+    }
+  },
+  {
+    "id": "6e6f884e5c0571456fa5c867b445de805e7e25ee0058dc4a2e433d77c5d43031i0",
+    "meta": {
+      "name": "fbpunk_38"
+    }
+  },
+  {
+    "id": "3d001aa1ffbbedaaf20495ac67654649d160d3b1e48246c26e8e5bc11a9c3629i0",
+    "meta": {
+      "name": "fbpunk_39"
+    }
+  },
+  {
+    "id": "b0bf0ca06dd4745df3c92de42b67b55521934ecfd447286d36e9c00828220476i0",
+    "meta": {
+      "name": "fbpunk_40"
+    }
+  },
+  {
+    "id": "4db778ca65e88486dd7f98ead0a41575b06887a075172ec642dccd4f20b582dbi0",
+    "meta": {
+      "name": "fbpunk_41"
+    }
+  },
+  {
+    "id": "4273629cf9a2f4557443bea1d59f87f014f9d15e5ea6e4c3e26447a56279aadei0",
+    "meta": {
+      "name": "fbpunk_42"
+    }
+  },
+  {
+    "id": "db00882fea5fcac95420accd60add0717af0769d5bb2371fd4ba29b9e1771bbci0",
+    "meta": {
+      "name": "fbpunk_43"
+    }
+  },
+  {
+    "id": "98d0b2a548b70c7557ddad2c5f1ce0818cf80389ee6dad00c22be29f940ef8f9i0",
+    "meta": {
+      "name": "fbpunk_44"
+    }
+  },
+  {
+    "id": "ea62b664c06a326689f7d988bd7aba9964014d2482c2f81eb9b8d71ae1725777i0",
+    "meta": {
+      "name": "fbpunk_45"
+    }
+  },
+  {
+    "id": "6347da9f331408fe1ff5e1a66d58c17a21eb7ff70b8743763dbaecd220609c00i0",
+    "meta": {
+      "name": "fbpunk_46"
+    }
+  },
+  {
+    "id": "448ea568b45921f117ef0b91608b08408afe216bf0caa0b04c20f3ed3fd178cfi0",
+    "meta": {
+      "name": "fbpunk_47"
+    }
+  },
+  {
+    "id": "aca1b8263f67495ab9dd3ef7872bd891cb01ec4b554b3c473730b6def6fe77dai0",
+    "meta": {
+      "name": "fbpunk_48"
+    }
+  },
+  {
+    "id": "74604b037b06a5e4d4fff9fd93ad95bb1ccf2954ca763bc80ffd301a0897871fi0",
+    "meta": {
+      "name": "fbpunk_49"
+    }
+  },
+  {
+    "id": "710f39adc15c4df0c303d1fe6ee633097d1547884608e04a1e2173d7f7d8bcc2i0",
+    "meta": {
+      "name": "fbpunk_50"
+    }
+  },
+  {
+    "id": "d7c4f910f4d979b14891d07a396803781ec9a690b5768cab25ee4e29ab600d2ci0",
+    "meta": {
+      "name": "fbpunk_51"
+    }
+  },
+  {
+    "id": "ccb0e1aefc3b24f02074170beb1f20e7af6854a358d6c5ba9b09aceef98263efi0",
+    "meta": {
+      "name": "fbpunk_52"
+    }
+  },
+  {
+    "id": "35c6b9f8bfe48e78ee6cb815268f960a8651b4df4bd18d96f3f464ad0c4ba91fi0",
+    "meta": {
+      "name": "fbpunk_53"
+    }
+  },
+  {
+    "id": "4e3480ca69bf1aab948579b0ad5bfd86718f6a9f07f229af4570a50bdcf8d23ai0",
+    "meta": {
+      "name": "fbpunk_54"
+    }
+  },
+  {
+    "id": "4ea40662f698effbe2c252f1cd8dcc3dc1f7e63b241c09fdee9c5fbb3e029dadi0",
+    "meta": {
+      "name": "fbpunk_55"
+    }
+  },
+  {
+    "id": "fbf5d463504fe0d93f4c3f5a0cef0c40c0a7778f0c224f60a1028308b619ca14i0",
+    "meta": {
+      "name": "fbpunk_56"
+    }
+  },
+  {
+    "id": "563b87d1231e4215a65eb1ac1e22aae65b03e18c277c56cf55e1229d9b94bc11i0",
+    "meta": {
+      "name": "fbpunk_57"
+    }
+  },
+  {
+    "id": "14fc48610ce1bf9705a768a8fe995922be63a09374858a899841009809594ea3i0",
+    "meta": {
+      "name": "fbpunk_58"
+    }
+  },
+  {
+    "id": "3c1e899187dd08d3dec848f269d013b27c8e874a667975fe5de5156cde707f60i0",
+    "meta": {
+      "name": "fbpunk_59"
+    }
+  },
+  {
+    "id": "cbddce565c9b23ae68ab055f28953accef878132c860951d75ae94ae27f07cffi0",
+    "meta": {
+      "name": "fbpunk_60"
+    }
+  }
+]
