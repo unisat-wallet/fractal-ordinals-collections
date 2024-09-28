@@ -30,6 +30,12 @@
     }
   },
   {
+    "id": "1b15cfaa819e4f7925012507dde40f6a047511c242b4e89e964eaee316e00be8i0",
+    "meta": {
+      "name": "Fractal HeroTrump #6"
+    }
+  },
+  {
     "id": "67e0ff4e74ede0e7dbf56f66e1d3b202cfe71460c04dd4fe5e8cbf0b32ba303fi0",
     "meta": {
       "name": "Fractal HeroTrump #7"
@@ -54,9 +60,21 @@
     }
   },
   {
+    "id": "6ec8f2ed914c3def3333841c9f18cd99dab5c72127411c344f37e6f68ba4227ci0",
+    "meta": {
+      "name": "Fractal HeroTrump #11"
+    }
+  },
+  {
     "id": "be7905c9ea1511e6a96390fadc82af8c87eafcc475dad4af08718ffc2cbd2ca2i0",
     "meta": {
       "name": "Fractal HeroTrump #12"
+    }
+  },
+  {
+    "id": "be9ee9129d8fb980f570a53de7b74b402d8da08db26e658e7c2c2196b01590cfi0",
+    "meta": {
+      "name": "Fractal HeroTrump #13"
     }
   },
   {
@@ -81,6 +99,12 @@
     "id": "7777022d44b77a9f71c43501a5324c05ebbd66f333fa4627fd39095277cb0d68i0",
     "meta": {
       "name": "Fractal HeroTrump #17"
+    }
+  },
+  {
+    "id": "530ab78f53ad3854076f883a6df1b0337f327ae5ad3e621d579e7290c3fc0be4i0",
+    "meta": {
+      "name": "Fractal HeroTrump #18"
     }
   },
   {
@@ -198,6 +222,12 @@
     }
   },
   {
+    "id": "a93ee4432511d75ad16d0db8f53a0c9eb460d027c95e6988983f2c93493d43ebi0",
+    "meta": {
+      "name": "Fractal HeroTrump #38"
+    }
+  },
+  {
     "id": "0857746f5d170ce9be9bfc69c2d730dc303e801f9d5aaa533baf506071e19e82i0",
     "meta": {
       "name": "Fractal HeroTrump #39"
@@ -207,6 +237,12 @@
     "id": "d4c005f8a5e92912c209bf4476ae989c01d252eebe1aed959044b408f94170f1i0",
     "meta": {
       "name": "Fractal HeroTrump #40"
+    }
+  },
+  {
+    "id": "e3225dc27ad55ba8a1196256e485b159f6db16864ee2950a36c18bc99fef7e69i0",
+    "meta": {
+      "name": "Fractal HeroTrump #41"
     }
   },
   {
@@ -243,6 +279,18 @@
     "id": "30868bd93d314c6d3d30e1db393c04480c41ca0fe270a47ebdb55e8ee49b1077i0",
     "meta": {
       "name": "Fractal HeroTrump #47"
+    }
+  },
+  {
+    "id": "9f1dca397ba23f6c15ff33d0e7e3f5c6d1239f7955807aab85d06451603c5405i0",
+    "meta": {
+      "name": "Fractal HeroTrump #48"
+    }
+  },
+  {
+    "id": "14a5b6ffa555cf51bbcbb81403ade91f8b1892409f26eb85ca31e0d948ed6a89i0",
+    "meta": {
+      "name": "Fractal HeroTrump #49"
     }
   },
   {
@@ -324,9 +372,21 @@
     }
   },
   {
+    "id": "2f2cb0b61f4c54e4f915e7e8569b5b4368e364569175cb920474623b47140865i0",
+    "meta": {
+      "name": "Fractal HeroTrump #63"
+    }
+  },
+  {
     "id": "28c427f6902f91aca6e0e3b0be56d4ffb5a80f59b7411d64c28f87d60af0a069i0",
     "meta": {
       "name": "Fractal HeroTrump #64"
+    }
+  },
+  {
+    "id": "d2ff8474fc8bb7dc4a4694a3d04185017f35710963cbf838dc41acd1916b51f8i0",
+    "meta": {
+      "name": "Fractal HeroTrump #65"
     }
   },
   {
@@ -348,6 +408,12 @@
     }
   },
   {
+    "id": "63ce2fcd97a9005bd0fc0f29b0de91fa12cd2518d3ed66a5895c2f64ff422ad0i0",
+    "meta": {
+      "name": "Fractal HeroTrump #69"
+    }
+  },
+  {
     "id": "0584d41db8620c127c2878ccfd6d6ef726d66fbc4047a8f0ccca809812515e51i0",
     "meta": {
       "name": "Fractal HeroTrump #70"
@@ -366,9 +432,27 @@
     }
   },
   {
+    "id": "4fe1f251003617a4901d62ab174f29b7952004822d0cb4a82e1bd93831a86433i0",
+    "meta": {
+      "name": "Fractal HeroTrump #73"
+    }
+  },
+  {
+    "id": "c5f63981cd473aa5908b22888f57dcd14b765a68ae61ea78065c3647aa37e092i0",
+    "meta": {
+      "name": "Fractal HeroTrump #86"
+    }
+  },
+  {
     "id": "8346368fdc86f6cf8f5a83635db83ab66d3c12161ee48d56826e437763bc9f43i0",
     "meta": {
       "name": "Fractal HeroTrump #92"
+    }
+  },
+  {
+    "id": "8347f6f737015b460f6ec76e8151accd7ddf8c3ae4a03ccec5ce0c77eea29ac9i0",
+    "meta": {
+      "name": "Fractal HeroTrump #94"
     }
   },
   {
@@ -420,6 +504,24 @@
     }
   },
   {
+    "id": "ea544bf90f5c97d3d2b77efba33b9a06679497b67fad4d36a61400b1e3dba2f8i0",
+    "meta": {
+      "name": "Fractal HeroTrump #167"
+    }
+  },
+  {
+    "id": "0ef0ab63ed526e9de615be860c0a03103171422117fab46410d6f8f8ef9c7439i0",
+    "meta": {
+      "name": "Fractal HeroTrump #172"
+    }
+  },
+  {
+    "id": "0045648278af4cd2f55f0f9579bc8319b41b74bca68489e7cac4e456bfc70834i0",
+    "meta": {
+      "name": "Fractal HeroTrump #174"
+    }
+  },
+  {
     "id": "d5193e2f0859704656b3d3722ce29a6f652ab7fe3492c5466e80839033ffe4bbi0",
     "meta": {
       "name": "Fractal HeroTrump #197"
@@ -432,6 +534,12 @@
     }
   },
   {
+    "id": "a29d2e30025e71977dc30b38b2d53fda687e5135ec8f6a9ffb251dd0ff556124i0",
+    "meta": {
+      "name": "Fractal HeroTrump #211"
+    }
+  },
+  {
     "id": "b1edbe140f28085d41774715b60cac31b46e15e00904c95c2cb7f2cc99b68d9ei0",
     "meta": {
       "name": "Fractal HeroTrump #212"
@@ -441,6 +549,12 @@
     "id": "fbe949edacf569f77b0538f2ae3016c4890a2d116851e915ec2fd2b972cf0dcfi0",
     "meta": {
       "name": "Fractal HeroTrump #220"
+    }
+  },
+  {
+    "id": "df372f7458b880f85d6f6906b12adb6de2a98956817acb60867ab66224bf85d3i0",
+    "meta": {
+      "name": "Fractal HeroTrump #229"
     }
   },
   {
@@ -492,9 +606,321 @@
     }
   },
   {
+    "id": "546af13d50864cc99814a1d9474f86955300a607a484c6e7f728be46bbc21417i0",
+    "meta": {
+      "name": "Fractal HeroTrump #328"
+    }
+  },
+  {
+    "id": "5e734a2afc3707deb2b628f333bb21f9f7c751d429af3e6836f043950bd30d5bi0",
+    "meta": {
+      "name": "Fractal HeroTrump #329"
+    }
+  },
+  {
+    "id": "991fb9a9493122452d6728510b355a7079693d92d03b821ff2e1116d4da07453i0",
+    "meta": {
+      "name": "Fractal HeroTrump #330"
+    }
+  },
+  {
+    "id": "8d6e742fa29002047f108d1a07463a4092f4605f14892521ded285c74c92fe40i0",
+    "meta": {
+      "name": "Fractal HeroTrump #331"
+    }
+  },
+  {
+    "id": "741f477baa952314d271ae097afed4b6fd3166db539552bc2cbd44b5792d8151i0",
+    "meta": {
+      "name": "Fractal HeroTrump #335"
+    }
+  },
+  {
+    "id": "d956b37d9531f43fa1bd42b8e3b5338c64d8a044b06f772062b02535c908ee18i0",
+    "meta": {
+      "name": "Fractal HeroTrump #336"
+    }
+  },
+  {
+    "id": "89eff11f6c1271f113bdb573a4b066b9c69d0114a3336a5bcacf55cbf3e3f022i0",
+    "meta": {
+      "name": "Fractal HeroTrump #337"
+    }
+  },
+  {
+    "id": "a1fdc6d401ede3939ae90488c9a3964556256b3318c222cba95d54ccffb312fdi0",
+    "meta": {
+      "name": "Fractal HeroTrump #338"
+    }
+  },
+  {
+    "id": "7d1aaced48bb3d32741c433aab5191f6f888d0aca04aecbe0d06bb0e59d9b40fi0",
+    "meta": {
+      "name": "Fractal HeroTrump #341"
+    }
+  },
+  {
+    "id": "a95dbc52629c12352845c378f151fe3db257d6b0a7cfd41eeda4e9875769d37ci0",
+    "meta": {
+      "name": "Fractal HeroTrump #342"
+    }
+  },
+  {
+    "id": "3d44270376cb03e57480b87a66466330e2bab8095f4989b8b2b0f835d5574cbbi0",
+    "meta": {
+      "name": "Fractal HeroTrump #343"
+    }
+  },
+  {
+    "id": "961a1825b2597da9a315e9c1bbf1896c10fefad07c2f06645abb545d4a42b4eai0",
+    "meta": {
+      "name": "Fractal HeroTrump #344"
+    }
+  },
+  {
+    "id": "4b8fd6a1e5c18913ccee0a0a199fd6e65347dd286daa9ffccc325f021f5a9227i0",
+    "meta": {
+      "name": "Fractal HeroTrump #345"
+    }
+  },
+  {
+    "id": "bebe25f925c197ca959984a2d7df09e3fbd4f31c0658c1b4435361ee4626fdd4i0",
+    "meta": {
+      "name": "Fractal HeroTrump #346"
+    }
+  },
+  {
+    "id": "0ddd2cc971d151fcc94cba31960f8f5214a61c1529d89dbaa0335be7900df422i0",
+    "meta": {
+      "name": "Fractal HeroTrump #347"
+    }
+  },
+  {
+    "id": "5148a740e9a0852a8b957a84b135a85af3e9b619d328e7166efa616aff66c072i0",
+    "meta": {
+      "name": "Fractal HeroTrump #348"
+    }
+  },
+  {
+    "id": "98d7e00530d5f5f761ac1a4cacd9c0dd50c391bb59a85b120cf05580fc97c100i0",
+    "meta": {
+      "name": "Fractal HeroTrump #350"
+    }
+  },
+  {
+    "id": "a5b4f8afe828aac73599bab64ccf10646cc4a88fa8711679bc6af3e267e31009i0",
+    "meta": {
+      "name": "Fractal HeroTrump #351"
+    }
+  },
+  {
+    "id": "ae8b88024b63f39b8cce4213d04c2127b75394742b3349ae3f770e90a081072di0",
+    "meta": {
+      "name": "Fractal HeroTrump #352"
+    }
+  },
+  {
+    "id": "fd1b63a49ea1dd9fcd4a60d6018ba1b2eea94b385c665ce7d03a1918182b7da5i0",
+    "meta": {
+      "name": "Fractal HeroTrump #353"
+    }
+  },
+  {
+    "id": "b48504179cddfc9240f1e9bd720edc3e11c27ca2158b73e0097e7f861088dd4ai0",
+    "meta": {
+      "name": "Fractal HeroTrump #354"
+    }
+  },
+  {
+    "id": "04d12d5c11a1caec50e6a267df85b151a0a5d41f23f379b6bbdb7840310b63dei0",
+    "meta": {
+      "name": "Fractal HeroTrump #356"
+    }
+  },
+  {
+    "id": "2fdd5448c7a9625d6a224b43e68c445996769dbc3764d9cd87371c6cda1bdfeei0",
+    "meta": {
+      "name": "Fractal HeroTrump #361"
+    }
+  },
+  {
+    "id": "766d7510f781186f150512c73b9d845b94c9903f478f3da1197615a0aed33299i0",
+    "meta": {
+      "name": "Fractal HeroTrump #362"
+    }
+  },
+  {
+    "id": "ad2aaa8fc1713fc6e724679f30af21ea6f907901c45d9b32b7b39142d6250ba7i0",
+    "meta": {
+      "name": "Fractal HeroTrump #365"
+    }
+  },
+  {
+    "id": "f8ba2d2c06b9cbbaea6fd605d6d7292f081a041438b8fe717bcf17a465fdce22i0",
+    "meta": {
+      "name": "Fractal HeroTrump #367"
+    }
+  },
+  {
+    "id": "baa026e212c1731d55d7f59eeae24840b04aed884a35740b48e8d91cd6a1d73di0",
+    "meta": {
+      "name": "Fractal HeroTrump #369"
+    }
+  },
+  {
+    "id": "e0dc30fa72829645c041e4d338e503f6176a10c7e79ae2b838fe47b5c7a9211di0",
+    "meta": {
+      "name": "Fractal HeroTrump #370"
+    }
+  },
+  {
+    "id": "315260404dfedda252b21aba2e017b811dfd79cbf1ea356e6603b9039c936e63i0",
+    "meta": {
+      "name": "Fractal HeroTrump #371"
+    }
+  },
+  {
+    "id": "7a6e919ec34a304e79e74bd81d1375801b52dcf7645b1d131c15c6b3851672dfi0",
+    "meta": {
+      "name": "Fractal HeroTrump #372"
+    }
+  },
+  {
+    "id": "4225f64e852e743d658dd7e4f8a3b6bc793a466bbe5cf89e20e183f9f9cdc187i0",
+    "meta": {
+      "name": "Fractal HeroTrump #373"
+    }
+  },
+  {
+    "id": "fab68331d7dc678a59280dc3a20b9709e9e29d56088dac2dff248367c3ea32a2i0",
+    "meta": {
+      "name": "Fractal HeroTrump #374"
+    }
+  },
+  {
+    "id": "3c7d36ce9868ae8f83201e677cd7fe756f73d622e79b8e99dde37e8ef20b851bi0",
+    "meta": {
+      "name": "Fractal HeroTrump #375"
+    }
+  },
+  {
+    "id": "52281de6da9752a748679195e727836781bbbd566e52fb14073fdd5f0c4128d0i0",
+    "meta": {
+      "name": "Fractal HeroTrump #376"
+    }
+  },
+  {
+    "id": "26533d3e3ee0c69800cb19e1549aefa11140713912a12e1f283e84230439aadei0",
+    "meta": {
+      "name": "Fractal HeroTrump #378"
+    }
+  },
+  {
+    "id": "5d8fffe7ac0b810508feef82295af81ecc5d77b190e47bfb573960898ab7fee9i0",
+    "meta": {
+      "name": "Fractal HeroTrump #379"
+    }
+  },
+  {
+    "id": "f32c8cc6e390e7fd6456d2445e274fc78ac01ead2a385573faa95d5316b828ffi0",
+    "meta": {
+      "name": "Fractal HeroTrump #380"
+    }
+  },
+  {
+    "id": "d76fef4c02b0ff7df7072cfaccbc99ae17ef2a317a3a2c31b4cd3a11c077c39fi0",
+    "meta": {
+      "name": "Fractal HeroTrump #381"
+    }
+  },
+  {
+    "id": "823914175dd3d128f6f16702be7e0c205d29acc1c207513969965018fd0d461ei0",
+    "meta": {
+      "name": "Fractal HeroTrump #382"
+    }
+  },
+  {
+    "id": "3e7defd23a24f24799ef65382342b7712d6e551cc60679b9bd05171e217db20ci0",
+    "meta": {
+      "name": "Fractal HeroTrump #383"
+    }
+  },
+  {
+    "id": "8a032df62fdc82529e3c286c663f6d3ed1f9766b2206f46dbb4dd285e3eefb04i0",
+    "meta": {
+      "name": "Fractal HeroTrump #384"
+    }
+  },
+  {
+    "id": "75a5297c6c469b8ee077d75a6a4c33c61cb07fcf9f81e02768971061f1d89885i0",
+    "meta": {
+      "name": "Fractal HeroTrump #385"
+    }
+  },
+  {
+    "id": "23e6b6f59c86eef502ef3d4dff6dc7b60df423573dba5ef4530ab6d9563a1c31i0",
+    "meta": {
+      "name": "Fractal HeroTrump #386"
+    }
+  },
+  {
+    "id": "7246562fe0db895f1a80dcc53d443b802713057ad5f55c855185a60aa62be9f5i0",
+    "meta": {
+      "name": "Fractal HeroTrump #387"
+    }
+  },
+  {
     "id": "5caf1ad5ee91c8b8205813b94dd7a12db05358c3d0d5d7a9fe0c29f841f3fa48i0",
     "meta": {
       "name": "Fractal HeroTrump #388"
+    }
+  },
+  {
+    "id": "099d353b841d44852f03d4ee9f52baf9852e68675b3e6ef0f5985bb8d18581d9i0",
+    "meta": {
+      "name": "Fractal HeroTrump #389"
+    }
+  },
+  {
+    "id": "670f4451c60b62ed69c6ae71088d8ab80ff653677a2d9d1bdf9a81b9d60a7de8i0",
+    "meta": {
+      "name": "Fractal HeroTrump #390"
+    }
+  },
+  {
+    "id": "b5f2371387faf590027a5a2b02a3da810fe65dc8085634e8ececdf516f6874c2i0",
+    "meta": {
+      "name": "Fractal HeroTrump #392"
+    }
+  },
+  {
+    "id": "dd2deb02fc4d1b9cc5ffdfa751dd3068a4b82f33baa426f182924e1f9c880e63i0",
+    "meta": {
+      "name": "Fractal HeroTrump #393"
+    }
+  },
+  {
+    "id": "d5253017ed3d2f4c47b31bd68dae7091271210b6c98b988221de2e9fa6c95cc1i0",
+    "meta": {
+      "name": "Fractal HeroTrump #395"
+    }
+  },
+  {
+    "id": "43d0777b1655e6573571405b96f66263e51dce86ab5b1ae180ef225d7a0fb4f8i0",
+    "meta": {
+      "name": "Fractal HeroTrump #396"
+    }
+  },
+  {
+    "id": "6eef9fb6461fce0278df21ca0b57da6a3fb6bbf2a32c6f5a9d82d1bc19fc1b7ai0",
+    "meta": {
+      "name": "Fractal HeroTrump #398"
+    }
+  },
+  {
+    "id": "9e9d588c7bca427418586cd49b59c6d50dbbeaa1151a7bd9cb444f7b589a4f77i0",
+    "meta": {
+      "name": "Fractal HeroTrump #399"
     }
   },
   {
@@ -504,9 +930,213 @@
     }
   },
   {
+    "id": "2742fa57c4a51a754fb85f6c4399e84fc71307d4594901ea2a44fd22e18a39b9i0",
+    "meta": {
+      "name": "Fractal HeroTrump #401"
+    }
+  },
+  {
+    "id": "d50e4bb1fde791a446d67d4ef56b23b6134d3152c86b6118d3226e88051daf02i0",
+    "meta": {
+      "name": "Fractal HeroTrump #402"
+    }
+  },
+  {
+    "id": "f09f7e0c8c2aab71d5502c6338cd7faf56044ed7ac6077b6ff2bd4a2b3d86d44i0",
+    "meta": {
+      "name": "Fractal HeroTrump #403"
+    }
+  },
+  {
+    "id": "b6eaafa69009d56e3217ab6aa25af2ab0b0809fef035bcac0c99d02c54f5ced0i0",
+    "meta": {
+      "name": "Fractal HeroTrump #404"
+    }
+  },
+  {
+    "id": "38e5a0133fb7494e1f8868ded3ee37a78797532b5fce779ba20da6b0606805ddi0",
+    "meta": {
+      "name": "Fractal HeroTrump #405"
+    }
+  },
+  {
+    "id": "b5de769179e6c7f9c95f81745883a7e2e28313f9b03cd5e9ab730312e46f94eai0",
+    "meta": {
+      "name": "Fractal HeroTrump #406"
+    }
+  },
+  {
+    "id": "703a14d7c9ebbc0e117ca55b3e3d1e76deeec8ef890fcc1d2e0a2004643da04fi0",
+    "meta": {
+      "name": "Fractal HeroTrump #407"
+    }
+  },
+  {
+    "id": "6d99e40cfc1dd2827a7df55baf8f737f3db2fda1a98c3be6a8f8daff37da0dd2i0",
+    "meta": {
+      "name": "Fractal HeroTrump #408"
+    }
+  },
+  {
+    "id": "1b5386337224875d720d77bbbd33c10a6c08e5f63b62934c449a8576b82a717di0",
+    "meta": {
+      "name": "Fractal HeroTrump #409"
+    }
+  },
+  {
+    "id": "08faa3c90502941fd1b357875e6f0310c129db60c060a8040e9700254ccf4e89i0",
+    "meta": {
+      "name": "Fractal HeroTrump #410"
+    }
+  },
+  {
+    "id": "218e7d0271c43bdbc16094febe0a588d7b2a212fc9a3199532ef0f1e80fc3d5di0",
+    "meta": {
+      "name": "Fractal HeroTrump #412"
+    }
+  },
+  {
+    "id": "066af7a498c321d346367afa67e1019c19e67212b8f0a5907c943cbbd0aa3bdci0",
+    "meta": {
+      "name": "Fractal HeroTrump #413"
+    }
+  },
+  {
+    "id": "c1e48ed4e0b0a70d3c37ee58c5562fcc1c666ea71efe36f5787a19afdd9186a4i0",
+    "meta": {
+      "name": "Fractal HeroTrump #414"
+    }
+  },
+  {
+    "id": "3645f3c436a41102028f7a2fecefc813a37385f4159c08e6ce65031a80ef5c85i0",
+    "meta": {
+      "name": "Fractal HeroTrump #415"
+    }
+  },
+  {
+    "id": "86c0ceb6862165200e3c8fa80cf7f189ea0c6ab3a94e41e98a6a166ee45e82c3i0",
+    "meta": {
+      "name": "Fractal HeroTrump #416"
+    }
+  },
+  {
+    "id": "46488cab72eac78020c8b04f892838b08341f3778fa4bb3b21da3f4f35efbce1i0",
+    "meta": {
+      "name": "Fractal HeroTrump #417"
+    }
+  },
+  {
+    "id": "92350d12ad4acf814e75d7bfad8f0a747c2e1bfc3e5228bd3cd82e5ae06c6b06i0",
+    "meta": {
+      "name": "Fractal HeroTrump #418"
+    }
+  },
+  {
+    "id": "1ae8996bb011f0019eff101afda96a9344f55a0f2d9d3747038a25567c82908ei0",
+    "meta": {
+      "name": "Fractal HeroTrump #419"
+    }
+  },
+  {
+    "id": "7aba9caff29c0d178926ccd71ab5d974353b64a360f55d34406ca5d4b234c0cdi0",
+    "meta": {
+      "name": "Fractal HeroTrump #420"
+    }
+  },
+  {
+    "id": "eaae522a3257bef14d8ea005c99f14491bb0fef3f9959df06970d7d563431dadi0",
+    "meta": {
+      "name": "Fractal HeroTrump #421"
+    }
+  },
+  {
+    "id": "837d4b445cbc2fd31607cf88a9c09206d7faf8dd8531ce2a4902c3ddf86819e5i0",
+    "meta": {
+      "name": "Fractal HeroTrump #422"
+    }
+  },
+  {
+    "id": "8909e1143f024d69f416f3085caaada020cf168c943d5f249df80155c4980753i0",
+    "meta": {
+      "name": "Fractal HeroTrump #423"
+    }
+  },
+  {
+    "id": "ddadd86c5f4b7662dda0ef7ef84ab60806ffc779c83f11955101bffa1cdb678di0",
+    "meta": {
+      "name": "Fractal HeroTrump #424"
+    }
+  },
+  {
+    "id": "36f7fc46a7ebde67863b4c00c1b2d05099c96e6aa0b87d2d96ead79b47c0daedi0",
+    "meta": {
+      "name": "Fractal HeroTrump #425"
+    }
+  },
+  {
+    "id": "9bfd56a4d6443ee4c2308e343dfb35674d007b14c724a9c0348fc95f028765a0i0",
+    "meta": {
+      "name": "Fractal HeroTrump #426"
+    }
+  },
+  {
+    "id": "be72f169bce08a3629db3c7c3e973393d3f0f39069c20d3371b7081ede50bc1fi0",
+    "meta": {
+      "name": "Fractal HeroTrump #427"
+    }
+  },
+  {
+    "id": "a720246e6fe4152666aca2ced601fd2beec9f9d8143d7dc20d7e07474d9a6a34i0",
+    "meta": {
+      "name": "Fractal HeroTrump #428"
+    }
+  },
+  {
+    "id": "845cf58743aa231c22534b24b7c15b7e75275c9fbc852d2cf4c2edbbe6120caai0",
+    "meta": {
+      "name": "Fractal HeroTrump #429"
+    }
+  },
+  {
     "id": "5ae9c66866b95c774048fae28d50ae36544ada85d43a66870d0a4f5f6c9aa20ei0",
     "meta": {
       "name": "Fractal HeroTrump #430"
+    }
+  },
+  {
+    "id": "36d93f765847dbe312ef2dad6f0a5a815d2035c48765a60a45654ad4e0a3ac38i0",
+    "meta": {
+      "name": "Fractal HeroTrump #431"
+    }
+  },
+  {
+    "id": "4d6d8c9362181900bfaa69896d58939000027d048fd6f75a4c73ce6e62f79f97i0",
+    "meta": {
+      "name": "Fractal HeroTrump #432"
+    }
+  },
+  {
+    "id": "d3e28907e511ef3a24185e5585f77d420f9403227c0ea9b1b1afdae74c83f76bi0",
+    "meta": {
+      "name": "Fractal HeroTrump #433"
+    }
+  },
+  {
+    "id": "2c50974f5c4a5185d305690e6231ab1ccaf1f4fa47062fe90767319d096cff8di0",
+    "meta": {
+      "name": "Fractal HeroTrump #434"
+    }
+  },
+  {
+    "id": "ca15fa35eaa84d892473ed8a51f9b3546f6519054ba2c5559b8052ef0e56c431i0",
+    "meta": {
+      "name": "Fractal HeroTrump #435"
+    }
+  },
+  {
+    "id": "38103916f4997977bc29bd2c9deaac8b3e4995f29983afd3dfce792c0511735bi0",
+    "meta": {
+      "name": "Fractal HeroTrump #436"
     }
   },
   {
@@ -516,9 +1146,177 @@
     }
   },
   {
+    "id": "68ea9b5045a9ff5534f9bde3968205f4ed862f55c840016c4bd6874c0c413973i0",
+    "meta": {
+      "name": "Fractal HeroTrump #438"
+    }
+  },
+  {
+    "id": "69d893482bc087529ec770a2879b3bf4c2a79668e131ed55b8e28da0013f27c3i0",
+    "meta": {
+      "name": "Fractal HeroTrump #439"
+    }
+  },
+  {
+    "id": "fb6c165bfdd37470cbbb38d0a026a4d442b1363070a289a6aed500b11a2f67b9i0",
+    "meta": {
+      "name": "Fractal HeroTrump #440"
+    }
+  },
+  {
+    "id": "b61b91a2dd12c5fe8b7c7ef1f395f22353d652efec9b83873d7f7342aca76fe7i0",
+    "meta": {
+      "name": "Fractal HeroTrump #441"
+    }
+  },
+  {
+    "id": "599dd72ff328afb539b41179b2b7cc49a1d90799a2557356fa3ab66f0eb1aabfi0",
+    "meta": {
+      "name": "Fractal HeroTrump #442"
+    }
+  },
+  {
+    "id": "ba423d430868efb55a8d580b9f44d07f6f401d25afff28ff9459732d28423600i0",
+    "meta": {
+      "name": "Fractal HeroTrump #443"
+    }
+  },
+  {
     "id": "2c716fc1f7064778328f04d2ca0042e7de7591d5ce017563c02a074f84721ce7i0",
     "meta": {
       "name": "Fractal HeroTrump #444"
+    }
+  },
+  {
+    "id": "1f7954f2b660a4788471c7aad3a1c2b306a80da44d8ce527b9c10a9951da3e86i0",
+    "meta": {
+      "name": "Fractal HeroTrump #445"
+    }
+  },
+  {
+    "id": "7f3f435ca479ecd63a1c0209dd8c224077ec4403256c2a7d9f2db979387dbfb6i0",
+    "meta": {
+      "name": "Fractal HeroTrump #446"
+    }
+  },
+  {
+    "id": "c62afa6fb03140db43893dbcea29f1ed14a25610bdb7695e2b0b562138850c3ci0",
+    "meta": {
+      "name": "Fractal HeroTrump #447"
+    }
+  },
+  {
+    "id": "c1d20801807df3187e9f202f0af9e9dd4485b7ae036f34fe365d2866ab1b9ec5i0",
+    "meta": {
+      "name": "Fractal HeroTrump #448"
+    }
+  },
+  {
+    "id": "1961a90f2160bd70944ec9e41dd2d18c359590d2dd6cbf1d21a73d33dcee0d30i0",
+    "meta": {
+      "name": "Fractal HeroTrump #450"
+    }
+  },
+  {
+    "id": "0a3b793fbace0cbc39ccd624a9150754f52314ae6d3bfa6b04428fbc94f08465i0",
+    "meta": {
+      "name": "Fractal HeroTrump #451"
+    }
+  },
+  {
+    "id": "510956e470b51ba63d686d20cb878f3b8ed1f92d91117e66342b794e5aa24093i0",
+    "meta": {
+      "name": "Fractal HeroTrump #452"
+    }
+  },
+  {
+    "id": "cd0358717ff6ae1da91636afe596c1430825c0687bc48b366d9f0aa725c674f7i0",
+    "meta": {
+      "name": "Fractal HeroTrump #453"
+    }
+  },
+  {
+    "id": "5b459ee2fc17e6f597c8a5dabd8e268ceefbea96d56c5b814c64de300e8961fdi0",
+    "meta": {
+      "name": "Fractal HeroTrump #454"
+    }
+  },
+  {
+    "id": "0d452c3857a74d9605c68d13213d402158ef96d67aba58600c51b74e8f66c970i0",
+    "meta": {
+      "name": "Fractal HeroTrump #455"
+    }
+  },
+  {
+    "id": "96da5c6ff8af7380aab3c56c29e8aafa69819e75f1429068b2d617b7cb0003afi0",
+    "meta": {
+      "name": "Fractal HeroTrump #456"
+    }
+  },
+  {
+    "id": "1843e9ae35e1aa9e7be8d5ce63d6399ce2a595c6f3e990d2ccda968827c807dbi0",
+    "meta": {
+      "name": "Fractal HeroTrump #457"
+    }
+  },
+  {
+    "id": "9d21f871f778b687a1f863acd404f9a0e7b91804c729dca17fc7a702b0c910c2i0",
+    "meta": {
+      "name": "Fractal HeroTrump #458"
+    }
+  },
+  {
+    "id": "634a572526390b3ef561e2e78df87f53475cac697a5eed5810f666985a0e81b6i0",
+    "meta": {
+      "name": "Fractal HeroTrump #459"
+    }
+  },
+  {
+    "id": "883db2152cd64c4683830776114cafbcd13ebb394994ffa31898a4d7d622362ci0",
+    "meta": {
+      "name": "Fractal HeroTrump #460"
+    }
+  },
+  {
+    "id": "80e1ed056fbbda6cb6a7be79b46b7a7f575599b339e3db42d9b7e203a43f4d45i0",
+    "meta": {
+      "name": "Fractal HeroTrump #461"
+    }
+  },
+  {
+    "id": "93662136b83e533205d7a18a32c942732d8fe0551aa6ea3cc946bbed969b7978i0",
+    "meta": {
+      "name": "Fractal HeroTrump #462"
+    }
+  },
+  {
+    "id": "614f4e3cdbecd6890c2f0aa14b0dd2752afc9e72af9912cb6f7dda37d0dd25cdi0",
+    "meta": {
+      "name": "Fractal HeroTrump #463"
+    }
+  },
+  {
+    "id": "2f34315246446c43868100a4c09a86d47445175196466689ef5330b7fcb97a68i0",
+    "meta": {
+      "name": "Fractal HeroTrump #464"
+    }
+  },
+  {
+    "id": "03cf73f0f2688af815d0c6a212b5c88abd01dbb2dae0a146405a39d9677da4a9i0",
+    "meta": {
+      "name": "Fractal HeroTrump #465"
+    }
+  },
+  {
+    "id": "1706232ef661e425ce7d9c39f43a0e82df3ddb6a3f4d3b0b9cf940ba61845e74i0",
+    "meta": {
+      "name": "Fractal HeroTrump #466"
+    }
+  },
+  {
+    "id": "7d1eefffbcb39418b70a65c0dfe748731f629a91d292175be78e08984bed771ei0",
+    "meta": {
+      "name": "Fractal HeroTrump #467"
     }
   },
   {
@@ -528,15 +1326,57 @@
     }
   },
   {
+    "id": "20daf1bc6237c80ee9432ec7ee161c6ab695f6c54fdb2e63a6e2c75275f8bc5di0",
+    "meta": {
+      "name": "Fractal HeroTrump #469"
+    }
+  },
+  {
+    "id": "5bcf31dbcfcc4dcbb571086f905730340357a03be2f3e5aebb37237bd06a6090i0",
+    "meta": {
+      "name": "Fractal HeroTrump #470"
+    }
+  },
+  {
     "id": "36366923bedb08da3eb8703a9e70c47fe5399338a6149fe1a0dba889f1f81a0di0",
     "meta": {
       "name": "Fractal HeroTrump #471"
     }
   },
   {
+    "id": "36e4e6211c2fc4dbf522a9cb41a3a35c75492c089e792b37aedf350c98bab5fei0",
+    "meta": {
+      "name": "Fractal HeroTrump #472"
+    }
+  },
+  {
+    "id": "57381ce072f414cf3a52f2668bdad20fa32716a9816c7b4119df4224ab4e661ai0",
+    "meta": {
+      "name": "Fractal HeroTrump #473"
+    }
+  },
+  {
+    "id": "4873b83bd2a917e2c5be0923dd5cd180dabfd72582aded5b4cb539fc3a7127c0i0",
+    "meta": {
+      "name": "Fractal HeroTrump #474"
+    }
+  },
+  {
+    "id": "b584c85c34168f674f6a31894376f405b3f8f8450c3984ece2f3ce0ddf565a29i0",
+    "meta": {
+      "name": "Fractal HeroTrump #475"
+    }
+  },
+  {
     "id": "706a78afddf3a2f1462e316598e4c7a497dd3cea31cd6f1482e664f6c9a9ecb0i0",
     "meta": {
       "name": "Fractal HeroTrump #476"
+    }
+  },
+  {
+    "id": "c5b7bbf0281b581b2dcb6a2f4a9e13325d45c20dd5c3fc182280c0161639d218i0",
+    "meta": {
+      "name": "Fractal HeroTrump #477"
     }
   },
   {
@@ -552,9 +1392,129 @@
     }
   },
   {
+    "id": "af146f0055bb92e5f07faa4832e96d5c87aad8a115ed2986ab73804ce9f63d25i0",
+    "meta": {
+      "name": "Fractal HeroTrump #480"
+    }
+  },
+  {
+    "id": "4255be19bb59068c4a4a2189045c2eccc8bb5628032f36cf58787434526ffc9di0",
+    "meta": {
+      "name": "Fractal HeroTrump #482"
+    }
+  },
+  {
+    "id": "bd4d8adf9094f48ea983ef47669f46a3261c45b8dc397d80ec48799c2a7fd1ebi0",
+    "meta": {
+      "name": "Fractal HeroTrump #483"
+    }
+  },
+  {
+    "id": "7a670b276a9b0e1d951bc29c629de46b13d5914dc2d7c8d0a158943a39614fd8i0",
+    "meta": {
+      "name": "Fractal HeroTrump #484"
+    }
+  },
+  {
+    "id": "eb86368415b1b72aa3f01b1a84064230803c6b982a484ab304e53683931946d8i0",
+    "meta": {
+      "name": "Fractal HeroTrump #486"
+    }
+  },
+  {
+    "id": "876ed8e970454f28f58beed331f1b2839bf7d2f3afb1a6e06e3529afa071140fi0",
+    "meta": {
+      "name": "Fractal HeroTrump #487"
+    }
+  },
+  {
     "id": "bc0a9614e9d7b3010a1560b3d49b7c2aa271775e2546f977aaa379106600c46ai0",
     "meta": {
       "name": "Fractal HeroTrump #488"
+    }
+  },
+  {
+    "id": "75e6e103e1dc27fd7b94d5b6d890117aeab6049ae6ea6711be1a6734e471d6a8i0",
+    "meta": {
+      "name": "Fractal HeroTrump #489"
+    }
+  },
+  {
+    "id": "98b3361630fcff2fd78f57c358c0027397c67d7fa48871338e448afadbcee31fi0",
+    "meta": {
+      "name": "Fractal HeroTrump #490"
+    }
+  },
+  {
+    "id": "99213e35af840b93e1044d9552a07e9ae000b4bd4090031ebd28198579b14f17i0",
+    "meta": {
+      "name": "Fractal HeroTrump #491"
+    }
+  },
+  {
+    "id": "6c3524e1910e2faae65318006d5ecdafae26c94d02919cc730e7b9e3ca7b5dbbi0",
+    "meta": {
+      "name": "Fractal HeroTrump #492"
+    }
+  },
+  {
+    "id": "8863d8638b33ac1be16b106f30fc58ac2ecaf03a8d5e198bba410fe872985858i0",
+    "meta": {
+      "name": "Fractal HeroTrump #493"
+    }
+  },
+  {
+    "id": "f167c279e1067c1ad05a01a626d8905498ff64d4782ccd7a2420cc1e98f252c0i0",
+    "meta": {
+      "name": "Fractal HeroTrump #494"
+    }
+  },
+  {
+    "id": "f2c5844b64086e3e4914add2386091342e8e45af301aa925d354587414fb2a65i0",
+    "meta": {
+      "name": "Fractal HeroTrump #495"
+    }
+  },
+  {
+    "id": "0daaa0cb929fc6ee8f82de633aeb3bf29b1fcb66ebd616dff4ae294e72672c97i0",
+    "meta": {
+      "name": "Fractal HeroTrump #496"
+    }
+  },
+  {
+    "id": "c256ffe7901f42eb155cdee47ee25c910845eea9b3293f7a9aa1619d40d2fa6ei0",
+    "meta": {
+      "name": "Fractal HeroTrump #497"
+    }
+  },
+  {
+    "id": "52376eaa884dcfc2edddf9f326a08a9b2302facfb636196b7006c73d4e15c6a7i0",
+    "meta": {
+      "name": "Fractal HeroTrump #498"
+    }
+  },
+  {
+    "id": "125c4bc7d9ad7304acad24dee148ec42cb407cad994c03e1c1e7451ccbe1df79i0",
+    "meta": {
+      "name": "Fractal HeroTrump #499"
+    }
+  },
+  {
+    "id": "9c6999ef982ac74afb17ecb68bd24ecd1c4ecdccb1d5081061de85110f353105i0",
+    "meta": {
+      "name": "Fractal HeroTrump #500"
+    }
+  },
+  {
+    "id": "f3daf375045fade52debb57b0e8cce44d101144facd37106c0f6154640a2374fi0",
+    "meta": {
+      "name": "Fractal HeroTrump #501"
+    }
+  },
+  {
+    "id": "5e44ac55cce0375cef8f3dda31dd4f51fa4af9c2c3fb100ef4e5665656936eeei0",
+    "meta": {
+      "name": "Fractal HeroTrump #502"
     }
   },
   {
@@ -564,15 +1524,285 @@
     }
   },
   {
+    "id": "7c1e207177b6c28578b5cf5cece0ad62ded5d5b24f0127cfd4f75c844769d7c0i0",
+    "meta": {
+      "name": "Fractal HeroTrump #504"
+    }
+  },
+  {
+    "id": "f1becf90d4de9380360a1ddae9f6c2ab93f4e7e060f92f03f4669f98d41bdffei0",
+    "meta": {
+      "name": "Fractal HeroTrump #505"
+    }
+  },
+  {
+    "id": "5170ad2e6902048a333e6e7edff4cf0b6c3ff7a7d01d3a530aef8d62ba162912i0",
+    "meta": {
+      "name": "Fractal HeroTrump #506"
+    }
+  },
+  {
+    "id": "198663711bc6fbd594117a2e1eecfbf2787deb14329d2fbd90218e1e775fc77ei0",
+    "meta": {
+      "name": "Fractal HeroTrump #507"
+    }
+  },
+  {
+    "id": "a2c8eaf16792885dd6e5e9065f74aa36a5e6e3d2cca1437db2680f9daf3388b0i0",
+    "meta": {
+      "name": "Fractal HeroTrump #508"
+    }
+  },
+  {
+    "id": "b98c9bb4569b6a7fb2892f09bc5ecd23e9378ce2f4d7d611e5d52d3868fb7342i0",
+    "meta": {
+      "name": "Fractal HeroTrump #509"
+    }
+  },
+  {
+    "id": "86228468f0c7ce78c7971b3bda81eca61791ffb956ff60734eaefda164d93e0ei0",
+    "meta": {
+      "name": "Fractal HeroTrump #510"
+    }
+  },
+  {
+    "id": "6d06bda391ea3063ed684b6a9732e0a41e5314c71cff6df53cb8796b43a2023ci0",
+    "meta": {
+      "name": "Fractal HeroTrump #511"
+    }
+  },
+  {
+    "id": "d8b7e7aac45f119d063ade3a2063ffef7c7f8f66ced90560666dec82105bb4ffi0",
+    "meta": {
+      "name": "Fractal HeroTrump #512"
+    }
+  },
+  {
+    "id": "e86c06d9245531a73b1b941d02f8635911a2fdfd3bc6c9a1b4dc24e274c3538ai0",
+    "meta": {
+      "name": "Fractal HeroTrump #513"
+    }
+  },
+  {
+    "id": "5eb9a1e6c37126566f1304d10fbcfa7cc1686f109e7691a897507e5988996189i0",
+    "meta": {
+      "name": "Fractal HeroTrump #514"
+    }
+  },
+  {
+    "id": "7dfaac12daf059992c23527f74c244a0bf836a81f7ff859327690191325aaaabi0",
+    "meta": {
+      "name": "Fractal HeroTrump #515"
+    }
+  },
+  {
+    "id": "f545f6eeee2b83f72b2fbb276ab319b39046b892c6e91c968b3c74e9306db3b2i0",
+    "meta": {
+      "name": "Fractal HeroTrump #516"
+    }
+  },
+  {
+    "id": "c7b942e0bfcfcd3fcb4269718252e1932a2570800384754c082821011e704effi0",
+    "meta": {
+      "name": "Fractal HeroTrump #517"
+    }
+  },
+  {
+    "id": "b59824ca0cdc00aa4583e3cf8345d78f76cf4ba79d5cf828ffdc57905ef4fe66i0",
+    "meta": {
+      "name": "Fractal HeroTrump #518"
+    }
+  },
+  {
+    "id": "3cb5243e5229690875831a737862c030cd154cc54b30f22a5293e69ea909505di0",
+    "meta": {
+      "name": "Fractal HeroTrump #519"
+    }
+  },
+  {
+    "id": "c79bbccd71da7dcba4e709dabee7f2aec48af8055a1a82a07c2cd8fa5e15f964i0",
+    "meta": {
+      "name": "Fractal HeroTrump #520"
+    }
+  },
+  {
+    "id": "86029765c248f1ff295cebb22236fed5facca213b74ac92bdc1953f2fc9f0eb8i0",
+    "meta": {
+      "name": "Fractal HeroTrump #521"
+    }
+  },
+  {
+    "id": "3323dfddac2a2a1275fb9d48cc2ad699b28107f68d418a4a94442f2d248b07b7i0",
+    "meta": {
+      "name": "Fractal HeroTrump #522"
+    }
+  },
+  {
+    "id": "703ed917d8e2f7e932e720d53a601fde0a291324be4dd166ba818ef349293f6ai0",
+    "meta": {
+      "name": "Fractal HeroTrump #523"
+    }
+  },
+  {
+    "id": "e7267f103a10097d43f484e3bc212de4e3ba28592569897b595e5ad07bc9864bi0",
+    "meta": {
+      "name": "Fractal HeroTrump #524"
+    }
+  },
+  {
+    "id": "889acac246ae30b5f7621d70224599edb718992c340952c00a8551e57a4bc617i0",
+    "meta": {
+      "name": "Fractal HeroTrump #525"
+    }
+  },
+  {
+    "id": "cfa65028e40e70797afbb65923afc316fcafd3545cae1b67dc3dbe7634e5c8a5i0",
+    "meta": {
+      "name": "Fractal HeroTrump #526"
+    }
+  },
+  {
+    "id": "8381b971ad3030d27891fb95ad5d5d1511f1b3475e455bb4ecfa09a4a6928fa3i0",
+    "meta": {
+      "name": "Fractal HeroTrump #527"
+    }
+  },
+  {
+    "id": "0c35d5e8b4352aa258773e4505104d18ff1b1c286af73fc4f0e1b800d617e51bi0",
+    "meta": {
+      "name": "Fractal HeroTrump #528"
+    }
+  },
+  {
+    "id": "25b73ba6bb86354c00fc7e93aa5fba22b25f9d51f7ccbf213045996dd0c33d36i0",
+    "meta": {
+      "name": "Fractal HeroTrump #529"
+    }
+  },
+  {
+    "id": "2d9b2ef6b1a9eee143b6b89570b672f72dacc75db63674cc94ea18e5d5a2f599i0",
+    "meta": {
+      "name": "Fractal HeroTrump #530"
+    }
+  },
+  {
+    "id": "5063af07fdd5e07f11e9c0f9d6e2f17727ca4bb6e3b4723fa6f2749f670bd77bi0",
+    "meta": {
+      "name": "Fractal HeroTrump #531"
+    }
+  },
+  {
+    "id": "79b5a3a4c321cfc5cdae5b647b2a2fd8bf86f31c623c5511cae4921954f8c6b1i0",
+    "meta": {
+      "name": "Fractal HeroTrump #532"
+    }
+  },
+  {
+    "id": "e191dbe25a5a408da01283c4deb9e3dcdc9fb246dcee71dbaabd635e3e943709i0",
+    "meta": {
+      "name": "Fractal HeroTrump #533"
+    }
+  },
+  {
+    "id": "78d2a561df9e40b96232ffafd92c0646d2293fa8a5caa41d825c114da7be55efi0",
+    "meta": {
+      "name": "Fractal HeroTrump #534"
+    }
+  },
+  {
+    "id": "a38ef3ea8e71b5e56ed49e6f31b7ce8b1f8072673fe1044accdd7c32e18b966di0",
+    "meta": {
+      "name": "Fractal HeroTrump #535"
+    }
+  },
+  {
+    "id": "3ca6e48ad0ad9e2abc9fdb20474e500c2dd19ad6d216109cc3b9403eb9b578eei0",
+    "meta": {
+      "name": "Fractal HeroTrump #536"
+    }
+  },
+  {
     "id": "c720d6bb7b6c54d854f1e2b446db19a5bcdc39bfc3d9d210dec91dd890538d61i0",
     "meta": {
       "name": "Fractal HeroTrump #537"
     }
   },
   {
+    "id": "62ee5ab3cc200319fa679c0486532b4736636b72e03706ef55a4181f3e873967i0",
+    "meta": {
+      "name": "Fractal HeroTrump #538"
+    }
+  },
+  {
+    "id": "a31c82f699f5092745d5d660cb841b908a520b43650494fbfd4df4443fca408di0",
+    "meta": {
+      "name": "Fractal HeroTrump #539"
+    }
+  },
+  {
+    "id": "ba473252e7979232c295ae0213ccbea25b68efa0c2b57cbc077aee18cc64aac0i0",
+    "meta": {
+      "name": "Fractal HeroTrump #540"
+    }
+  },
+  {
+    "id": "11e6be7b1d66f496470f280876e384ad45962200a27033817c221befa935c1d2i0",
+    "meta": {
+      "name": "Fractal HeroTrump #541"
+    }
+  },
+  {
+    "id": "de26dd6d7998f1fbd6fde3a0da442bce51b540709aefd82c8687f27ca6553042i0",
+    "meta": {
+      "name": "Fractal HeroTrump #542"
+    }
+  },
+  {
+    "id": "f1f35a59272206786c82a559fbd4900500d054925d1383c1ad0f416db202af18i0",
+    "meta": {
+      "name": "Fractal HeroTrump #543"
+    }
+  },
+  {
+    "id": "c9ae4fdbc80988380bde9b4666ad5a133da230aa0c08df875d4c85bb9708c598i0",
+    "meta": {
+      "name": "Fractal HeroTrump #544"
+    }
+  },
+  {
+    "id": "d74eb2cf50998adba0bc8026ac3b18a9c4e278d69480abbf59b9259ed72ce784i0",
+    "meta": {
+      "name": "Fractal HeroTrump #545"
+    }
+  },
+  {
+    "id": "66efe21d7ba1c6c3ad9d443b9b838c47d689e1a5d0025a59f30d38ab18366d36i0",
+    "meta": {
+      "name": "Fractal HeroTrump #546"
+    }
+  },
+  {
+    "id": "723bcf8959c72a3987ceb051604fb7d8cc0f8c0ecfc6ed1902c011e8b0232246i0",
+    "meta": {
+      "name": "Fractal HeroTrump #547"
+    }
+  },
+  {
+    "id": "8f751cd95089876e5ddb4772ddaf31d0521969251ebe7074f387abbafca2a5d8i0",
+    "meta": {
+      "name": "Fractal HeroTrump #548"
+    }
+  },
+  {
     "id": "2cbffb3da3d0b84c902b2416d3540252a893715a49415058053a21307bc74aebi0",
     "meta": {
       "name": "Fractal HeroTrump #549"
+    }
+  },
+  {
+    "id": "49b8a61d2707fa2b98ac744987930a044f94e8775ad0fe67212fdf73a9fcf36fi0",
+    "meta": {
+      "name": "Fractal HeroTrump #550"
     }
   },
   {
@@ -594,6 +1824,18 @@
     }
   },
   {
+    "id": "ab95bfd1b969b0e6c5376cfe1072ca3efc7255cfa9753353410f13d9f3b0a44ai0",
+    "meta": {
+      "name": "Fractal HeroTrump #554"
+    }
+  },
+  {
+    "id": "70fb2d2b8e9d49189a2f7ef562c4d1d5514195e89059e91f8d9378233a46af41i0",
+    "meta": {
+      "name": "Fractal HeroTrump #555"
+    }
+  },
+  {
     "id": "4d66a5e8ce72aac55eaa2540b6d95c2cff9a68b43fd02523f17547f1ce5083e1i0",
     "meta": {
       "name": "Fractal HeroTrump #556"
@@ -612,6 +1854,12 @@
     }
   },
   {
+    "id": "38e35493dc34967294762df176daedc17de1f8ac01de968b8cb5f9e145a15250i0",
+    "meta": {
+      "name": "Fractal HeroTrump #559"
+    }
+  },
+  {
     "id": "262b4dedb683cbac433a3c0400d36bf1e75ddc61382f8fcc45c8cfc1a7cefb1ai0",
     "meta": {
       "name": "Fractal HeroTrump #560"
@@ -624,9 +1872,21 @@
     }
   },
   {
+    "id": "04e85a20e180aab1f02fb6c845b71a618c6f8120a6e9e9757639b05ff03694d7i0",
+    "meta": {
+      "name": "Fractal HeroTrump #562"
+    }
+  },
+  {
     "id": "21e15f1568133108d2c040bd46046feb11b0938658f6d0d26e66663e5bdd23a5i0",
     "meta": {
       "name": "Fractal HeroTrump #563"
+    }
+  },
+  {
+    "id": "fb86666acdb72fda96ee5944c8eabb9e7bf3658a4793c080418cd8556f31ec53i0",
+    "meta": {
+      "name": "Fractal HeroTrump #564"
     }
   },
   {
@@ -645,6 +1905,18 @@
     "id": "e8c640ed7c8056fdae5bb27923db2dec2831b78b677394d1b933f9a3cdb61321i0",
     "meta": {
       "name": "Fractal HeroTrump #567"
+    }
+  },
+  {
+    "id": "c7997112e4ddea4896d9c8604ecf4d7891d06d69acf2397b29a6bf6e3f37e563i0",
+    "meta": {
+      "name": "Fractal HeroTrump #568"
+    }
+  },
+  {
+    "id": "cf84f16d5a5ce21fe80325ca877bdc21a6159fd801a15c7f1e9658e6afbfca12i0",
+    "meta": {
+      "name": "Fractal HeroTrump #569"
     }
   },
   {
@@ -672,6 +1944,12 @@
     }
   },
   {
+    "id": "88a01f03185f5c0e0a8fc5543cde483bdea574a86ccb24ba1980f8d33516c2e1i0",
+    "meta": {
+      "name": "Fractal HeroTrump #574"
+    }
+  },
+  {
     "id": "83c5d9700668af262eb7486101a7ab28f9f18aa87a352a5f57780d8c17c874c6i0",
     "meta": {
       "name": "Fractal HeroTrump #575"
@@ -696,6 +1974,12 @@
     }
   },
   {
+    "id": "3ee773a0eb9ce82889cb6f8623b0a8d67b43e5a275f9266fc8c359157d587417i0",
+    "meta": {
+      "name": "Fractal HeroTrump #579"
+    }
+  },
+  {
     "id": "e488ebb41247e4dace40b96eefed054207caeb57688cdd854bcbd6ad660ba77ci0",
     "meta": {
       "name": "Fractal HeroTrump #580"
@@ -705,6 +1989,18 @@
     "id": "a9f0a9ae51849f15e3c6f8ddd5576cfae33a418f82e11dcce6f2d84d1ffcd221i0",
     "meta": {
       "name": "Fractal HeroTrump #581"
+    }
+  },
+  {
+    "id": "1161eef6b060a48db457df82343d7f00d9c9614fe4bdb2830b272df56ba6a73fi0",
+    "meta": {
+      "name": "Fractal HeroTrump #582"
+    }
+  },
+  {
+    "id": "b442a167df632b9a75ae4208fae8714cfe81aa2bd3336379d546a50f8997c3ddi0",
+    "meta": {
+      "name": "Fractal HeroTrump #583"
     }
   },
   {
@@ -738,9 +2034,27 @@
     }
   },
   {
+    "id": "43e267ca4c1242304731aca612f1b3c57a513a08733daa25d6fbf5bf3b9e77cdi0",
+    "meta": {
+      "name": "Fractal HeroTrump #589"
+    }
+  },
+  {
     "id": "64e11222ae26920d3d6f3824bb2b6ec2caaba3e8756d3eb314a6de3907ff918bi0",
     "meta": {
       "name": "Fractal HeroTrump #590"
+    }
+  },
+  {
+    "id": "371b93415673ead8f8de79aac920cfb7b173fb55cf948105a30ad0f203640bc6i0",
+    "meta": {
+      "name": "Fractal HeroTrump #591"
+    }
+  },
+  {
+    "id": "bb9d448ab97947b191bd3b4a49c257e3b3d98a61f9b9a11992d14e9eaab9d691i0",
+    "meta": {
+      "name": "Fractal HeroTrump #592"
     }
   },
   {
@@ -753,6 +2067,12 @@
     "id": "0bf5620e2010cb7791f41a25d95eed26c277eb9d5d81dd0fed45c00eac2b8252i0",
     "meta": {
       "name": "Fractal HeroTrump #594"
+    }
+  },
+  {
+    "id": "e885e7bc1cdf88539f7057b2ef1fb7183b0685de17dab45781d716473429677di0",
+    "meta": {
+      "name": "Fractal HeroTrump #595"
     }
   },
   {
@@ -834,6 +2154,12 @@
     }
   },
   {
+    "id": "3a2f0fe787e29e8badad3b1efb62a2f629ad5ccb6cf02ab638d9b5d615eeb689i0",
+    "meta": {
+      "name": "Fractal HeroTrump #609"
+    }
+  },
+  {
     "id": "5af2304473670d4bda0441357eb8f5eaecd5fb1e54c6718c78c7d2adf436bad8i0",
     "meta": {
       "name": "Fractal HeroTrump #610"
@@ -846,15 +2172,33 @@
     }
   },
   {
+    "id": "4ddc2505fa735241806e19c57476a8cc9fad5fa1290de6e6b98da7e334346f44i0",
+    "meta": {
+      "name": "Fractal HeroTrump #612"
+    }
+  },
+  {
     "id": "8bb46ffb6d4dcaa0c31c5de74e66e4e9932d1fef88e3d603849f6cfbf3c711fci0",
     "meta": {
       "name": "Fractal HeroTrump #613"
     }
   },
   {
+    "id": "1d8ba4304b9eb85cabc013979059cd24674197c18396c05201b7e5131afe6287i0",
+    "meta": {
+      "name": "Fractal HeroTrump #614"
+    }
+  },
+  {
     "id": "946acc5b8dd27afa7b82078b8d49526e87fae3b98aca21ddadfdd2d569fb173bi0",
     "meta": {
       "name": "Fractal HeroTrump #615"
+    }
+  },
+  {
+    "id": "ee44c151308f351e85e89bb619945e128d12471190f471c7e349e917693b11f6i0",
+    "meta": {
+      "name": "Fractal HeroTrump #616"
     }
   },
   {
@@ -867,6 +2211,12 @@
     "id": "ab54d69c24966e5e82f6d07723a4204be98645bc8a6e498a22a768aa2ecf9852i0",
     "meta": {
       "name": "Fractal HeroTrump #618"
+    }
+  },
+  {
+    "id": "17b03f68f369ecd21fc6efedfccf07afbcadcac30823cbba5e35f2bc17959ac3i0",
+    "meta": {
+      "name": "Fractal HeroTrump #619"
     }
   },
   {
@@ -888,9 +2238,33 @@
     }
   },
   {
+    "id": "00e638100d6903056e8fed2000bb6a179f4257da55a87d267d3a99650b003252i0",
+    "meta": {
+      "name": "Fractal HeroTrump #623"
+    }
+  },
+  {
+    "id": "8ce0bfb04947244e8f73e6d6f0f1c1aa193ccbdc46b4eebd444e80477e0ed17ei0",
+    "meta": {
+      "name": "Fractal HeroTrump #624"
+    }
+  },
+  {
     "id": "1272043b63539f2742e2bf24b7e61f32bcace45b38f200c28705adaf038d97bbi0",
     "meta": {
       "name": "Fractal HeroTrump #625"
+    }
+  },
+  {
+    "id": "b4e48154eedba2dadd556d3192493f5744bf2258aa3e33937e4cafc6e1ec0dbei0",
+    "meta": {
+      "name": "Fractal HeroTrump #626"
+    }
+  },
+  {
+    "id": "d7e643f20512937d6485c9c2f4203899f5b2b3a6506fd0b9eaef4c146c997faai0",
+    "meta": {
+      "name": "Fractal HeroTrump #627"
     }
   },
   {
@@ -924,6 +2298,12 @@
     }
   },
   {
+    "id": "36a4af16cae9e3192355a03c661d4a089c4bc747628b3c9bf81009a114911f47i0",
+    "meta": {
+      "name": "Fractal HeroTrump #633"
+    }
+  },
+  {
     "id": "dc0419bde3b9e08e3633dc542f20b43d41e6f3d578c19d35510b7b613024edaai0",
     "meta": {
       "name": "Fractal HeroTrump #634"
@@ -933,6 +2313,12 @@
     "id": "104435d358ed1929d67608432b08b044f246ddddb3b556267d98b2208c7be608i0",
     "meta": {
       "name": "Fractal HeroTrump #635"
+    }
+  },
+  {
+    "id": "c008dcc918ad284d8e9f3ec470e6f9670867fa154af9f40555d837672328aa22i0",
+    "meta": {
+      "name": "Fractal HeroTrump #636"
     }
   },
   {
@@ -960,9 +2346,27 @@
     }
   },
   {
+    "id": "dad278a24d675fd0cf50d178b3f0ca5270a680d228c38a6f2d42712d6fd7cdbbi0",
+    "meta": {
+      "name": "Fractal HeroTrump #641"
+    }
+  },
+  {
     "id": "823ce167b4966a5a59895b3c018d3174b9fc98bee95f0cda2c9bdf9a030cc051i0",
     "meta": {
       "name": "Fractal HeroTrump #642"
+    }
+  },
+  {
+    "id": "048dc89f072da79bb5ba12b6ec7acd018a9e3d6305d197d1674d53d3f50d9a83i0",
+    "meta": {
+      "name": "Fractal HeroTrump #643"
+    }
+  },
+  {
+    "id": "339bacaaca9051566dac6743643d93dc3c1fc641064c15af840375344f8551fdi0",
+    "meta": {
+      "name": "Fractal HeroTrump #644"
     }
   },
   {
@@ -978,9 +2382,21 @@
     }
   },
   {
+    "id": "744925a5f4925ef772f5b6e6b46e1f47cfca7e702495cf95aef06e1254a9fdcfi0",
+    "meta": {
+      "name": "Fractal HeroTrump #647"
+    }
+  },
+  {
     "id": "c04a6c8074b319abd9438a4dbd6ef1b2b24af23ec6456431a56a7c16f1e4fa66i0",
     "meta": {
       "name": "Fractal HeroTrump #648"
+    }
+  },
+  {
+    "id": "170d134ebebffc7ce14fd76fdbd6760667fd2c1f62655f6447aa2c91a6509a5fi0",
+    "meta": {
+      "name": "Fractal HeroTrump #649"
     }
   },
   {
@@ -990,9 +2406,21 @@
     }
   },
   {
+    "id": "88ffa30fe784e0d0779b25801e4ef8f406f04ce4061fb9a49626d93a55fa6ec7i0",
+    "meta": {
+      "name": "Fractal HeroTrump #651"
+    }
+  },
+  {
     "id": "ec937da64dd3de0cead5306b93c16e4a3c7d7876fd988b925559d8c06d54fc59i0",
     "meta": {
       "name": "Fractal HeroTrump #652"
+    }
+  },
+  {
+    "id": "948c8309191d617b6772da975ae4f237700e545b8c8e8a5774956ea52684b168i0",
+    "meta": {
+      "name": "Fractal HeroTrump #653"
     }
   },
   {
@@ -1044,6 +2472,12 @@
     }
   },
   {
+    "id": "4143216e51913e10b6cc6aedf5ace2c461ef405951d0137e985ffa60202e24e0i0",
+    "meta": {
+      "name": "Fractal HeroTrump #662"
+    }
+  },
+  {
     "id": "d3b6930c448ad78dca0b3fda4f84574f66e676f512a3dc8f6ef6a65c0439ba42i0",
     "meta": {
       "name": "Fractal HeroTrump #663"
@@ -1059,6 +2493,312 @@
     "id": "515363ca19e1bdc9d8ca0f2b814260074f194cd55f60cbd73a055cba076daf5ci0",
     "meta": {
       "name": "Fractal HeroTrump #665"
+    }
+  },
+  {
+    "id": "a48fd844489fb93deeaabe0cf48c857f17a15cdf4b5827191d58f55bb564df12i0",
+    "meta": {
+      "name": "Fractal HeroTrump #666"
+    }
+  },
+  {
+    "id": "1421542f3ff17b0a85c3effc4b88527bd0db361f6aea16ddaa4f16f8fad920d9i0",
+    "meta": {
+      "name": "Fractal HeroTrump #667"
+    }
+  },
+  {
+    "id": "3e27be399dba65043e5c39164a6bbb456687bfd6079a653fb8b8e08b47d803c8i0",
+    "meta": {
+      "name": "Fractal HeroTrump #668"
+    }
+  },
+  {
+    "id": "5e8a0f724f3a98c34f8948274f08893fc5a46afc02cdef9125a4205baa73a6bei0",
+    "meta": {
+      "name": "Fractal HeroTrump #669"
+    }
+  },
+  {
+    "id": "fdc8b77107f7be86e34edd34f4043c0770113cfd750988258172e3733a284497i0",
+    "meta": {
+      "name": "Fractal HeroTrump #670"
+    }
+  },
+  {
+    "id": "bf10cee1445e2e1f22a0e7abddce8cad545fad72956ebb533f3176ddf81273b4i0",
+    "meta": {
+      "name": "Fractal HeroTrump #671"
+    }
+  },
+  {
+    "id": "c8267df929e91abe44c3de43332eb27bb44890796da5a2db2297ab691f870f58i0",
+    "meta": {
+      "name": "Fractal HeroTrump #672"
+    }
+  },
+  {
+    "id": "9f4e17c7f843448b60f1d02c1eae55217c31fa2049c5c25eb410d9443293281di0",
+    "meta": {
+      "name": "Fractal HeroTrump #673"
+    }
+  },
+  {
+    "id": "bdbf77aa0b3151b092dfa0a19e67609161e50844fc8650335395fde96216e6edi0",
+    "meta": {
+      "name": "Fractal HeroTrump #674"
+    }
+  },
+  {
+    "id": "4fc98092c1bbcb2ebfd93d7ab0dc6ef1ffa5a7885aa31cab0ec2584f35d078c4i0",
+    "meta": {
+      "name": "Fractal HeroTrump #675"
+    }
+  },
+  {
+    "id": "22e4e46cdaf9819f18f4e43194a33444c97c05243ce098a30ab877beaabe635ai0",
+    "meta": {
+      "name": "Fractal HeroTrump #676"
+    }
+  },
+  {
+    "id": "f52e754e547621f52ac1064af68d3637d99cae2c68b7fa5a8538df985d1a4e4fi0",
+    "meta": {
+      "name": "Fractal HeroTrump #677"
+    }
+  },
+  {
+    "id": "09db7b56ab7885e7a54d1fcd80641bdebffd5c3b26bce7cf3717b549efd83241i0",
+    "meta": {
+      "name": "Fractal HeroTrump #678"
+    }
+  },
+  {
+    "id": "303560871c0e5bc43c0baeeb904244f3093394a01383b84a69293112043769a9i0",
+    "meta": {
+      "name": "Fractal HeroTrump #679"
+    }
+  },
+  {
+    "id": "97d083539f8be8d6b777385ce9832776a15cd92c647e431c60a76747195eb40di0",
+    "meta": {
+      "name": "Fractal HeroTrump #680"
+    }
+  },
+  {
+    "id": "968881a3e6167b11cade263622c54ea7f9a6e7ce8f981065a6c86126ce5b0589i0",
+    "meta": {
+      "name": "Fractal HeroTrump #681"
+    }
+  },
+  {
+    "id": "c017de7f8d1a66879d314303b96e1bacd66df30e7c70326464cd2fb5a362667fi0",
+    "meta": {
+      "name": "Fractal HeroTrump #682"
+    }
+  },
+  {
+    "id": "24254f57f10d3e13540b5cc0c956e4977cc3c2f878eca37d37e8f0d766bb0c95i0",
+    "meta": {
+      "name": "Fractal HeroTrump #683"
+    }
+  },
+  {
+    "id": "84d4c87cf74f32edc7ba74bc75369723e6643f6dd98ee30fe5b1d04325d170dfi0",
+    "meta": {
+      "name": "Fractal HeroTrump #684"
+    }
+  },
+  {
+    "id": "c6451457a957e6eb4d7aedecd4e1a3355e92cb6e7af165e5b9fdbcf869961b20i0",
+    "meta": {
+      "name": "Fractal HeroTrump #685"
+    }
+  },
+  {
+    "id": "29a01873d0fc38507e75095de714fb6739e131c03d1bbfd3513257bfca0ae8b6i0",
+    "meta": {
+      "name": "Fractal HeroTrump #686"
+    }
+  },
+  {
+    "id": "2b26301b7c2b55192d6e48072b65e4dace8c8aed3c569c77bbd92af61093c3e1i0",
+    "meta": {
+      "name": "Fractal HeroTrump #687"
+    }
+  },
+  {
+    "id": "098f630c295061b1ff4f48571da5bacc3ec7d7599e5b20a1a488ac49570741e8i0",
+    "meta": {
+      "name": "Fractal HeroTrump #688"
+    }
+  },
+  {
+    "id": "f27a0c2c73ba5e3fa80968ff3cebf0c7793719339a7499f5a182bbbd23de5c11i0",
+    "meta": {
+      "name": "Fractal HeroTrump #689"
+    }
+  },
+  {
+    "id": "15df273957cb77d9b6829eab4e84d99f7a5a6a417f280874240e85fc0f6c4321i0",
+    "meta": {
+      "name": "Fractal HeroTrump #690"
+    }
+  },
+  {
+    "id": "d715b4e2d56c6560a6cc623027e28b546728e97227c8fa3e3b02ec68f8fd9601i0",
+    "meta": {
+      "name": "Fractal HeroTrump #691"
+    }
+  },
+  {
+    "id": "0728d945b852911e904a0cbc6245de1a0214e0d8029abb9386fa49f567e6f323i0",
+    "meta": {
+      "name": "Fractal HeroTrump #692"
+    }
+  },
+  {
+    "id": "3fb9abc4ed3195f5b0bcaa046cc4ad7ae1e1cacaf80da8068a175f6b758bf04ai0",
+    "meta": {
+      "name": "Fractal HeroTrump #693"
+    }
+  },
+  {
+    "id": "07c82b724f91e1989dd4973d3e4d6101260cb956c6ab28434d5f842cd6eb70f8i0",
+    "meta": {
+      "name": "Fractal HeroTrump #694"
+    }
+  },
+  {
+    "id": "18d815ea09dcef11f80f8e4f0e4e4447e630066030294a9f7aaf3b5e090e0851i0",
+    "meta": {
+      "name": "Fractal HeroTrump #695"
+    }
+  },
+  {
+    "id": "eb16abc25ca694b6874c3614dc8d565b142b2e082b418c5064bbb0813d35f067i0",
+    "meta": {
+      "name": "Fractal HeroTrump #696"
+    }
+  },
+  {
+    "id": "88058257ce9efaa637bafb94fa2d345cf7d903929508fb2f6fccb18e0f4b0da0i0",
+    "meta": {
+      "name": "Fractal HeroTrump #697"
+    }
+  },
+  {
+    "id": "a25ab022a8e72bba2a0fdbee4cce7a3f71b8a8dcd6206a0e16d3d063f888b823i0",
+    "meta": {
+      "name": "Fractal HeroTrump #698"
+    }
+  },
+  {
+    "id": "77f7c64b18d7ff82550c811520c15d49fdc49337b451a5117698e73f2db90f77i0",
+    "meta": {
+      "name": "Fractal HeroTrump #699"
+    }
+  },
+  {
+    "id": "8e50fc70cc9c5eb0e8c0aa3b2a3964b518ca226f1c9819bfb329c97fa4717220i0",
+    "meta": {
+      "name": "Fractal HeroTrump #700"
+    }
+  },
+  {
+    "id": "5527108b7652b6e0d6c6677097f98a9cf406c139d20b71d64b4f831da5a1c2b5i0",
+    "meta": {
+      "name": "Fractal HeroTrump #701"
+    }
+  },
+  {
+    "id": "b382990cbdd831df283a3fa3112fef4394f58a2c7b7a58368ee0f36a083e9248i0",
+    "meta": {
+      "name": "Fractal HeroTrump #702"
+    }
+  },
+  {
+    "id": "f3637d14bbd909d04de022534f062223ecc0a69f8d2188c5932fb96a74addb58i0",
+    "meta": {
+      "name": "Fractal HeroTrump #703"
+    }
+  },
+  {
+    "id": "36f65ca8193f0229a05fab09784ab1a96fc3deba5c2fea09e6bbc3bb8488ce77i0",
+    "meta": {
+      "name": "Fractal HeroTrump #704"
+    }
+  },
+  {
+    "id": "0659c12c7ac33f786d1cd865bcdc49b0d4ca747dcecd5dc384a07b5085f0db0fi0",
+    "meta": {
+      "name": "Fractal HeroTrump #705"
+    }
+  },
+  {
+    "id": "6c65bea50168fb8c68a4e12a45ad3da2a416ab3ea7c5bd4962ddd5b808de3ad0i0",
+    "meta": {
+      "name": "Fractal HeroTrump #706"
+    }
+  },
+  {
+    "id": "be1280f53f015f57a295062e98757efc2945197b4216eeb31502b5ab0f02a3f5i0",
+    "meta": {
+      "name": "Fractal HeroTrump #707"
+    }
+  },
+  {
+    "id": "e15ed4ca309dd4729284ef7a2a6a6bc797b4d97b1fda3c46eac0f83ad31443ffi0",
+    "meta": {
+      "name": "Fractal HeroTrump #708"
+    }
+  },
+  {
+    "id": "c9809ce1ff71b7fb27be241d3ab68a4d55e7674b3de1943ab6d9aa9cafb5f2a3i0",
+    "meta": {
+      "name": "Fractal HeroTrump #709"
+    }
+  },
+  {
+    "id": "3690eae929ff185f7ac4e2a915506f8fd4b40842b80785ca93dfd5d2bd5b61ddi0",
+    "meta": {
+      "name": "Fractal HeroTrump #710"
+    }
+  },
+  {
+    "id": "b490e582a4198cde8a71142c588da0ab4a82f479f59c38aae1126e0bce258845i0",
+    "meta": {
+      "name": "Fractal HeroTrump #711"
+    }
+  },
+  {
+    "id": "f9c1229fe6aa34f999e4f16e32604d734bc6e049b6488d59a9c80e48aea3a513i0",
+    "meta": {
+      "name": "Fractal HeroTrump #712"
+    }
+  },
+  {
+    "id": "942a37711da7fcfcbcde9fad41e661b382d04dca832fc714e0820873a20c53e2i0",
+    "meta": {
+      "name": "Fractal HeroTrump #713"
+    }
+  },
+  {
+    "id": "d2899e4aa8b90110c61ea8f40a9420eeb327639c2f235efa36bcdc25c8c8cf89i0",
+    "meta": {
+      "name": "Fractal HeroTrump #714"
+    }
+  },
+  {
+    "id": "9fcbf8bff4bf2dbc88faa1c814378b1e0d7cbd166eecb4b4805b9cf5576abdd9i0",
+    "meta": {
+      "name": "Fractal HeroTrump #715"
+    }
+  },
+  {
+    "id": "1bc181b78a78255cc6678eb9491fe33d663fc278dc4dd0bb5db63c352d67c5b3i0",
+    "meta": {
+      "name": "Fractal HeroTrump #716"
     }
   }
 ]
