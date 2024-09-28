@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fd159e8ed1967d98a4373567b2202f45da55a2f4f8bdeb6b5b6ead94ad2ea52di0",
+    "meta": {
+      "name": "Alien 1",
+      "attributes": [
+        {
+          "trait_type": "First of Its Kind",
+          "value": "Origin Alien"
+        }
+      ]
+    }
+  },
+  {
+    "id": "62176eb9187fd17626507dabafb2f177aa9925b1259f41b89e3942cf2e26f5c3i0",
+    "meta": {
+      "name": "Zylox",
+      "attributes": [
+        {
+          "trait_type": "Quote",
+          "value": "We are all stardust!"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d763a78e59d2918f741a31760063683c77a64d7c0f4ab64f3a983766844a42b8i0",
+    "meta": {
+      "name": "Gleeborp",
+      "attributes": [
+        {
+          "trait_type": "Quote",
+          "value": "Greetings from the void!"
+        }
+      ]
+    }
+  }
+]
