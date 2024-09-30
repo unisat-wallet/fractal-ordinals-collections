@@ -34,5 +34,41 @@
         }
       ]
     }
+    },
+  {
+    "id": "0154a9a93909703ee7827e8a2c90f4cabfc00fdbc1124076a5927d96516ff902i0",
+    "meta": {
+      "name": "Crystarion",
+      "attributes": [
+        {
+          "trait_type": "Xylox",
+          "value": "Crystal line Guardian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1cb96919e53dcfd7b18855fd7e2d835940f84173383d39bdb1c5959e0e052c88i0",
+    "meta": {
+      "name": "Nebulon",
+      "attributes": [
+        {
+          "trait_type": "Velarion",
+          "value": "Etherial Guardian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "229c88b22f94db4709de31cacecdb1d28409da39630bc71b42c2e51551f6bf0fi0",
+    "meta": {
+      "name": "Glacionis",
+      "attributes": [
+        {
+          "trait_type": "Crystallum",
+          "value": "Ice Crystal Guardian"
+        }
+      ]
+    }
   }
 ]
