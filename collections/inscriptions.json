@@ -36,7 +36,7 @@
     }
   },
 {
-    "id": 0e264db0c374f8f1631b43c69eb27e29bec513f1c0b482f7b64af07133ede81ei0",
+    "id": "0e264db0c374f8f1631b43c69eb27e29bec513f1c0b482f7b64af07133ede81ei0",
     "meta": {
       "name": "Ugly Degens #27"
     }
@@ -64,7 +64,6 @@
     "meta": {
       "name": "Ugly Degens #50"
     }
-  },
   },
 {
     "id": "c71c509fd24148ef906b7502d356a366c9a9566cc51a44017b28cc339e019994i0",
@@ -126,7 +125,6 @@
       "name": "Ugly Degens #93"
     }
   },
-  },
 {
     "id": "dbd1d4944360e1c0d549c55fa0560ae12c29a2b9508feae4080afa3330e007bei0",
     "meta": {
@@ -187,7 +185,6 @@
       "name": "Ugly Degens #223"
     }
   },
-  },
 {
     "id": "2b01fc45b2b00b8c404854b29f7dde2a6e2ed41c25ddc0c69fca15909ca0f7f9i0",
     "meta": {
@@ -247,7 +244,6 @@
     "meta": {
       "name": "Ugly Degens #307"
     }
-  },
   },
 {
     "id": "191eeb1aeb911283d9e8e341dd1b4f982a9239c91e3d0a6ec9b411404a8b035ci0",
@@ -314,7 +310,6 @@
     "meta": {
       "name": "Ugly Degens #429"
     }
-  },
   },
 {
     "id": "7af5e000dce78e43b2dff22cce415fef93902a3eb271b10df21286a4836e527di0",
@@ -437,7 +432,6 @@
       "name": "Ugly Degens #673"
     }
   },
-  },
 {
     "id": "703a1e6cb1318b706fe0a0832e8d3a1253bd663903ed697a1b2c89da8ca161ebi0",
     "meta": {
@@ -497,7 +491,6 @@
     "meta": {
       "name": "Ugly Degens #817"
     }
-  },
   },
 {
     "id": "6d56cad901daf512f0b287cd2349d9eed8a2ac934685abc85ab947ac7bf9daeai0",
@@ -572,8 +565,6 @@
     }
   },
 {
-  },
-  {
     "id": "ba71f5aa8056dc162562aeaebba54397c6ade35d3197131a9ec025aa60a49e43i0",
     "meta": {
       "name": "Ugly Degens #3"
