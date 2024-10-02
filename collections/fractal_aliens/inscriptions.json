@@ -14,7 +14,7 @@
         },
         {
           "trait_type": "Rarity",
-          "value": "Ultra Rare"
+          "value": "Rare"
         },
         {
           "trait_type": "Quote",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "id": "nyxaris-inscription-id",
+    "id": "b7328d77c60bffbcbdef92f18abd4dcfa4d804a78ea22840561e837ec80d8c8ai0",
     "meta": {
       "name": "Nyxaris",
       "attributes": [
@@ -38,7 +38,7 @@
         },
         {
           "trait_type": "Rarity",
-          "value": "Ultra Rare"
+          "value": "Rare"
         },
         {
           "trait_type": "Quote",
@@ -62,7 +62,7 @@
         },
         {
           "trait_type": "Rarity",
-          "value": "Epic"
+          "value": "Rare"
         },
         {
           "trait_type": "Quote",
@@ -134,7 +134,7 @@
         },
         {
           "trait_type": "Rarity",
-          "value": "Epic"
+          "value": "rare"
         },
         {
           "trait_type": "Quote",
@@ -182,7 +182,7 @@
         },
         {
           "trait_type": "Rarity",
-          "value": "Rare"
+          "value": "Common"
         },
         {
           "trait_type": "Quote",
@@ -206,11 +206,11 @@
         },
         {
           "trait_type": "Rarity",
-          "value": "Ultra Rare"
+          "value": "Epic"
         },
         {
           "trait_type": "Quote",
-          "value": "\"You will be part of the collective. Resistance is futile.\""
+          "value": "\"You will be part of the collective. Resistance is uselss.\""
         }
       ]
     }
@@ -230,7 +230,7 @@
         },
         {
           "trait_type": "Rarity",
-          "value": "Legendary"
+          "value": "Ultra Rare"
         },
         {
           "trait_type": "Quote",
@@ -302,7 +302,7 @@
         },
         {
           "trait_type": "Rarity",
-          "value": "Rare"
+          "value": "Epic"
         },
         {
           "trait_type": "Quote",
