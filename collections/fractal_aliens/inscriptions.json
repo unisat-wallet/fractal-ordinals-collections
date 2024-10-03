@@ -197,7 +197,7 @@
       "name": "Xyon",
       "attributes": [
         {
-          "trait_type": "Planet Mecharis",
+          "trait_type": "BORG",
           "value": "Unstoppable Assimilation"
         },
         {
@@ -206,11 +206,11 @@
         },
         {
           "trait_type": "Rarity",
-          "value": "Epic"
+          "value": "Legendary"
         },
         {
           "trait_type": "Quote",
-          "value": "\"You will be part of the collective. Resistance is uselss.\""
+          "value": "\"You will be part of the collective. Resistance is futile.\""
         }
       ]
     }
