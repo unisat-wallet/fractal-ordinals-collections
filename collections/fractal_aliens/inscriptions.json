@@ -86,7 +86,7 @@
         },
         {
           "trait_type": "Rarity",
-          "value": "Ultra Rare"
+          "value": "Epic"
         },
         {
           "trait_type": "Quote",
@@ -197,7 +197,7 @@
       "name": "Xyon",
       "attributes": [
         {
-          "trait_type": "Planet Mecharis",
+          "trait_type": "BORG",
           "value": "Unstoppable Assimilation"
         },
         {
@@ -206,11 +206,11 @@
         },
         {
           "trait_type": "Rarity",
-          "value": "Epic"
+          "value": "Legendary"
         },
         {
           "trait_type": "Quote",
-          "value": "\"You will be part of the collective. Resistance is uselss.\""
+          "value": "\"You will be part of the collective. Resistance is futile.\""
         }
       ]
     }
@@ -312,7 +312,7 @@
     }
   },
   {
-    "id": "547117c20ec5f68201a234b4f00605390379d083f41f60168a221ef317c92264i0",
+    "id": "74c3e659c41c51fc8508536b4e831865c3c2fe4658d5d67efbfea02b40953dd9i0",
     "meta": {
       "name": "Nyxion",
       "attributes": [
