@@ -314,7 +314,7 @@
     {
         "id": "74c3e659c41c51fc8508536b4e831865c3c2fe4658d5d67efbfea02b40953dd9i0",
         "meta": {
-            "name": "Nyxion",
+            "name": "Lyxion",
             "attributes": [
                 {
                     "trait_type": "Planet",
@@ -394,7 +394,7 @@
                 },
                 {
                     "trait_type": "Power",
-                    "value": "Manipulates light and cosmic forces."
+                    "value": "Harnesses cosmic light to heal wounds and create protective barriers."
                 },
                 {
                     "trait_type": "Rarity",
@@ -408,7 +408,7 @@
         }
     },
     {
-        "id": "179ef7c1eefce332e6871133ca77c4bb74cc8a0de8a6c437bc675460961a26a5i0",
+        "id": "d5b19e0976b0946e4f82af7fea9b06812c8d270d6dca1279cb9f43a9dd3df415i0",
         "meta": {
             "name": "Sovrin",
             "attributes": [
