@@ -218,7 +218,7 @@
     {
         "id": "da34d311c34d25642a10d79fad9d80cd28c4ff281dfffca34fd4955226add9eei0",
         "meta": {
-            "name": "Fractalite",
+            "name": "Elynos",
             "attributes": [
                 {
                     "trait_type": "Planet",
@@ -235,30 +235,6 @@
                 {
                     "trait_type": "Quote",
                     "value": "\"Infinity within, energy without.\""
-                }
-            ]
-        }
-    },
-    {
-        "id": "9415e862e56c2ecea3817dfb4df26f727fbf028e5147840b288342bb0c77e78ci0",
-        "meta": {
-            "name": "Zylar",
-            "attributes": [
-                {
-                    "trait_type": "Planet",
-                    "value": "Astralos"
-                },
-                {
-                    "trait_type": "Power",
-                    "value": "Can manipulate light and cosmic forces."
-                },
-                {
-                    "trait_type": "Rarity",
-                    "value": "Rare"
-                },
-                {
-                    "trait_type": "Quote",
-                    "value": "\"Serenity is the key to the cosmos.\""
                 }
             ]
         }
@@ -355,6 +331,30 @@
                 {
                     "trait_type": "Quote",
                     "value": "\"From the void, I rise.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "9415e862e56c2ecea3817dfb4df26f727fbf028e5147840b288342bb0c77e78ci0",
+        "meta": {
+            "name": "Zylar",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Astralos"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Can manipulate light and cosmic forces."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"Serenity is the key to the cosmos.\""
                 }
             ]
         }
@@ -551,4 +551,5 @@
             ]
         }
     }
+
 ]
