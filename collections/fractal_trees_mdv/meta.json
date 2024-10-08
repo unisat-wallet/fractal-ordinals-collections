@@ -1,0 +1,9 @@
+{
+  "description": "Each Fractal Tree uses a symmetric binary tree equation to generate a tree structure using geometry. The pieces are time-of-day aware, with lighting and colors changing from the day/night cycle. THREE.js and other 3d inscription libraries have been migrated to Fractal to make this possible! ~ Created by MDV (Creator of BTC Substance, Vessels, GenSkullz, & more)",
+  "discord_link": "https://discord.gg/euDp5jaMma",
+  "icon": "https://fractal.inscribenow.io/uploads/f2a7c079b0a86f096c31..gif",
+  "name": "Fractal Trees 3D ~ MDV",
+  "slug": "fractal_trees_mdv",
+  "twitter_link": "https://twitter.com/btc_substance",
+  "website_link": "https://btcsubstance.com"
+}

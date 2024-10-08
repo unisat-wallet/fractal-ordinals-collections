@@ -1,0 +1,146 @@
+[
+  {
+    "id": "eec4181ebd7a4aeacdeeafa3d4dd1c81da2815fd79df487bd50146138ee6f66ci0",
+    "meta": {
+      "name": "Fractal UFO #1",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Gold"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8b434a228f16490f29b22642363878d05b883b7bd24ce43612caccba1a2afbd6i0",
+    "meta": {
+      "name": "Fractal UFO #93",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Chrome"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aa2e346a7c1296f53677c0155dfaee503b219d35f61e6a3463940f0e360857afi0",
+    "meta": {
+      "name": "Fractal UFO #111",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Chrome"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bcbb95b52264c8a69f92c814864b8083e083b017e19e4bc7c82a1025acf41cb5i0",
+    "meta": {
+      "name": "Fractal UFO #156",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f3e626b95f98104b883d006cc08afbf6c77894df85cd2850a12b9790f4410fffi0",
+    "meta": {
+      "name": "Fractal UFO #211",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6002d48d98d5509bfd5556b6d27d0856e33715938585c6161fc61a24132a9c92i0",
+    "meta": {
+      "name": "Fractal UFO #333",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Green"
+        }
+      ]
+    }
+  },
+  {
+    "id": "db5e07cf8479e9671439e9fbefa259aaa55769b8d21e4858b83949af7f1ad09bi0",
+    "meta": {
+      "name": "Fractal UFO #700",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Green"
+        }
+      ]
+    }
+  },
+  {
+    "id": "556e61252813f350771802d384988f73096aaa58c3423838910414a9588257efi0",
+    "meta": {
+      "name": "Fractal UFO #1111",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "631549ea2c45879cfc4bd9a4cc1588e9d3cd6aeec7e413caa28c62b7ffc21aabi0",
+    "meta": {
+      "name": "Fractal UFO #1947",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Red"
+        }
+      ]
+    }
+  }
+]
