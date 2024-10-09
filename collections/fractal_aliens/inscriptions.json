@@ -182,7 +182,7 @@
                 },
                 {
                     "trait_type": "Rarity",
-                    "value": "Common"
+                    "value": "Rare"
                 },
                 {
                     "trait_type": "Quote",
@@ -314,7 +314,7 @@
     {
         "id": "74c3e659c41c51fc8508536b4e831865c3c2fe4658d5d67efbfea02b40953dd9i0",
         "meta": {
-            "name": "Lyxion",
+            "name": "Nyxion",
             "attributes": [
                 {
                     "trait_type": "Planet",
@@ -394,7 +394,7 @@
                 },
                 {
                     "trait_type": "Power",
-                    "value": "Harnesses cosmic light to heal wounds and create protective barriers."
+                    "value": "Manipulates light and cosmic forces."
                 },
                 {
                     "trait_type": "Rarity",
@@ -408,7 +408,7 @@
         }
     },
     {
-        "id": "d5b19e0976b0946e4f82af7fea9b06812c8d270d6dca1279cb9f43a9dd3df415i0",
+        "id": "179ef7c1eefce332e6871133ca77c4bb74cc8a0de8a6c437bc675460961a26a5i0",
         "meta": {
             "name": "Sovrin",
             "attributes": [
@@ -550,6 +550,437 @@
                 }
             ]
         }
+    },
+    {
+        "id": "e118842606cd37bc4b8d9f5ea43100ce4c832ea864611a0eef8538151ba8cc0bi0",
+        "meta": {
+            "name": "Okloni",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Nocturnis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates shadows, create spatial illusions, blend into darkness, and teleport through shadowy portals."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In the shadows, I am unseen. In the light, I am unstoppable"
+                }
+            ]
+        }
+    },
+    {
+        "id": "7517179f998c0d895d4f18a6acfd77c25883946d0ea2e966f2a2f3eada9fa756i0",
+        "meta": {
+            "name": "Obenyl",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Nyxara"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Blends into shadows, reshape their form, and harness dark energy to phase in and out of existence."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Ultra Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "From the darkness, I emerge, unseen yet ever present."
+                }
+            ]
+        }
+    },
+    {
+        "id": "c36121801351f9307830589eebd85dab7d487d2bb3f92563fcbcb436f49d83dfi0",
+        "meta": {
+            "name": "Clisto",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Xylox"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls crystals, refract light into energy beams, and harness crystal energy to amplify powers."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the prism through which light becomes power."
+                }
+            ]
+        }
+    },
+    {
+        "id": "aecb50448ae111abdf228b77fb9057a070ed4029928ad86ba0e1c798a20bea7ai0",
+        "meta": {
+            "name": "Linst",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Glacirian"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates ice and snow, create structures, summon blizzards, and absorb cold energy to control frozen elements."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Ultra Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In the cold, I find strength. In the frost, I am reborn."
+                }
+            ]
+        }
+    },
+    {
+        "id": "4c1f77948e921317546530534f3704b43ffb6264ce5ae92f5029b97473beb1d0i0",
+        "meta": {
+            "name": "Blios",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Velarion"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls nebula gases, phase in and out, create illusions, and travel through space by merging with nebula clouds."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the nebula, ever-shifting, ever-present."
+                }
+            ]
+        }
+    },
+    {
+        "id": "621e77b6229fd4c855d7d3ac334e658e1ba1c38d02bf9bf7bcae32a8060fd329i0",
+        "meta": {
+            "name": "Xylaris",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Velarion"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls cosmic energy, bends nebula gases and stardust, creates energy fields, and forms light illusions."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "The cosmos flows through me, as boundless as the stars."
+                }
+            ]
+        }
+    },
+    {
+        "id": "e8ef878a467da6d103e5354dffb5d18d4ef745fe11beeaca7e0b55a83570cabei0",
+        "meta": {
+            "name": "Tireos",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Mecharis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls machines, adapt its form, and optimize technology for protection and efficiency."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Ultra Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Innovation is the path to dominance."
+                }
+            ]
+        }
+    },
+    {
+        "id": "652edf7b97efac32f86307362b0acac2a5f39f2c40f1ed06810a1b7be6aa11b1i0",
+        "meta": {
+            "name": "El\u2019Anaa",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Spectralis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates light and shadows, creating illusions, shifting between visibility and invisibility, and blending into the mists of Spectralis."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Epic"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Where light fades, I rise."
+                }
+            ]
+        }
+    },
+    {
+        "id": "5fec883dd4ad4ede40f009e9c08775943bc27c816ae424bcbcf315bb719db807i0",
+        "meta": {
+            "name": "Lixyro",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Floralis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates and control plant life."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Ultra Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the bloom that guards the forest."
+                }
+            ]
+        }
+    },
+    {
+        "id": "cecf36d8bfc7f25a78a1eb76ffc93db3487a5bb0d522031f385a747ecb097192i0",
+        "meta": {
+            "name": "Sylthar",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Floralis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Corrupts planetary life, manipulating vines and roots to ensnare and destroy."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Where beauty once thrived, only destruction remains."
+                }
+            ]
+        }
+    },
+    {
+        "id": "d6c9da1ff2ffe479d743e841a07c66b56e2a2024a18b0d6797cc3130d6ad6b09i0",
+        "meta": {
+            "name": "Korsiro",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Obscurium"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates dark matter"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Ultra Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "In the void, I am limitless!"
+                }
+            ]
+        }
+    },
+    {
+        "id": "674fb7930dbb7eeb9de09ca12a589ecd3dc5a31242f5961574e03a13178d7e0fi0",
+        "meta": {
+            "name": "Vorpax",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Subterra"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates energy to create nightmares."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Ultra Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Fear The Void !"
+                }
+            ]
+        }
+    },
+    {
+        "id": "75e93471d2ed9c7ac5b57f736fba7bd4ea006cd7d61b590e4bf1680adae1ff54i0",
+        "meta": {
+            "name": "Lord Vextran",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Subterra"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Ruler of Subterra, Controls cosmic energy and dark matter."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Epic"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Subterra Shall Prevail. under my rule !"
+                }
+            ]
+        }
+    },
+    {
+        "id": "8ac32e4a67e1dcf6a91e4a45985a2eee90e57ca5ba92bc101bf2c2c6d164075fi0",
+        "meta": {
+            "name": "Mokhtar",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Nocturnis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Swift scout, protector of Nocturnis sacred tomb."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "There are shadows in the desert ."
+                }
+            ]
+        }
+    },
+    {
+        "id": "c36121801351f9307830589eebd85dab7d487d2bb3f92563fcbcb436f49d83dfi0",
+        "meta": {
+            "name": "Amira",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Nocturnis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates shadow energy, dissolving into darkness and creating powerful shadow constructs for defense or attack."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Epic"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"In shadows, I find my strength.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "267494a7fa602b31c100f83976c13a46a25221b567f1747a9ed190b65f2d7ffai0",
+        "meta": {
+            "name": "Lomira",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Luminex"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Controls radiant energy for healing and defense."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "I am the light that guides through the void."
+                }
+            ]
+        }
+    },
+    {
+        "id": "3dc4b20a8cad1381a07be2a9c5620fb2eeb52c01c23db53264ec84527536cf66i0",
+        "meta": {
+            "name": "Lyrith",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Volturis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates energy to control chaos and reshape reality."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Rare"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Through chaos, I shape destiny."
+                }
+            ]
+        }
+    },
+    {
+        "id": "ff7940d82deac2f10da5ab2621dcf5d047871775dd6c58b126cd492763f23187i0",
+        "meta": {
+            "name": "Unite 13",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Mecharis"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Excels in precision, adapting and executing tasks with flawless efficiency."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Epic"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "Perfection is my directive; failure is not an option."
+                }
+            ]
+        }
     }
-
 ]
