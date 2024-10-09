@@ -1,0 +1,442 @@
+[
+  {
+    "id": "73d68c604655db4c545b752f60a3a68088db1e390af4f6d8e166849012734118i0",
+    "meta": {
+      "name": "BORG_Cube #1",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Technara Nexus"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Collective intelligence and adaptive shielding."
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9a36dfff4358d55f79bbe441adb98c45b717f3a5715f65fa6e4a476bbc859adai0",
+    "meta": {
+      "name": "BORG #1",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Technara Nexus"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Assimilation and drone control, able to adapt to any threat."
+        },
+        {
+          "trait_type": "Quote",
+          "value": "\"Resistance is futile.\""
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c3dcbaf8a74955bffb9f3c9c1a6413650f723e222224e442e792ee48a63f88cfi0",
+    "meta": {
+      "name": "BORG_Cube #2",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Alpha Quadrant"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Assimilation and technology integration."
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f2df3e9601c4d340f04311952a406fc5b8f6d8dc5416648f682f392f69d26a44i0",
+    "meta": {
+      "name": "BORG #2",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Alpha Quadrant"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Nanotechnology allows for rapid healing and adaptation to new environments."
+        },
+        {
+          "trait_type": "Quote",
+          "value": "\"We will add your biological and technological distinctiveness to our own.\""
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "97992a1d662dbf586248ed2d2dc93b111eb8bf7692c401cb39d61acacf72db8ci0",
+    "meta": {
+      "name": "BORG_Cube #3",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Gamma Quadrant"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Adaptive armor and quantum torpedoes."
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5dc629e656cfdba37b49d6b468686fd9eea0d69a2c5bf771c560a77032dab990i0",
+    "meta": {
+      "name": "BORG #3",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Gamma Quadrant"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Highly specialized drone, capable of extreme tactical analysis."
+        },
+        {
+          "trait_type": "Quote",
+          "value": "\"You will be assimilated.\""
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b0ce54260438f6348ed03753b8fb77e2e41b8a331efc41f0a16626bfe552b15ci0",
+    "meta": {
+      "name": "BORG_Cube #4",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Beta Quadrant"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Self-regeneration and subspace travel."
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8816ce2b57107bd4565231e5d0c4f0ad45b5d20755b86f5fa12b63343226d274i0",
+    "meta": {
+      "name": "BORG #4",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Beta Quadrant"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Can disrupt enemy subspace communications and navigation."
+        },
+        {
+          "trait_type": "Quote",
+          "value": "\"We will adapt.\""
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0e63d2af40258cf10fad5122211461fb38d445c4b646c2c0e29d18e7532e0210i0",
+    "meta": {
+      "name": "BORG_Cube #5",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Uncharted Space"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Interstellar assimilation and tactical drones."
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eb0e52c1c2a6369545730b39a90559e42c574c18d314d3af28b05c8c1fe26772i0",
+    "meta": {
+      "name": "BORG #5",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Uncharted Space"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Can manipulate and hack alien technology during assimilation."
+        },
+        {
+          "trait_type": "Quote",
+          "value": "\"We are the Borg. Prepare to be assimilated.\""
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "76fe374407b3cd9f0758b25727ac19f54cd5c48dcd2d4c1b7312f7bdcd8812f1i0",
+    "meta": {
+      "name": "BORG_Cube #6",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Technara Nexus"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Nanoprobes and transwarp drive."
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "249dc1c3a4790899675a5a61a027ddd0b3e97f8e4063bfd2b4294c7023111f6bi0",
+    "meta": {
+      "name": "BORG #6",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Technara Nexus"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Advanced nanoprobes allow for instantaneous repair and adaptation."
+        },
+        {
+          "trait_type": "Quote",
+          "value": "\"We exist to serve the collective.\""
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0c16d165038330f6a240fc6c1ed0d9398f8f061154b81f149e99be82c83a5cbfi0",
+    "meta": {
+      "name": "BORG_Cube #7",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Gamma Quadrant"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Borg alcoves and tactical cubes."
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b360d3fc42de037578b81dc6c50902843d5b3b12a895eb0efb14b3b46b33bfd6i0",
+    "meta": {
+      "name": "BORG #7",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Gamma Quadrant"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Tactical drone specialized in combat and ship defense."
+        },
+        {
+          "trait_type": "Quote",
+          "value": "\"The Borg will endure.\""
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c252aa9f6da8f6507ea05abb0153c18d9fe73baf08a8a793e81f6f83fb95521bi0",
+    "meta": {
+      "name": "BORG_Cube #8",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Alpha Quadrant"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Transdimensional assimilation and rapid adaptation."
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aba4e6fe2e78f4e189c566aec672b3b209a0b53f40109f4fed11bb057185a6a5i0",
+    "meta": {
+      "name": "BORG #8",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Alpha Quadrant"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Master of transdimensional travel and cross-dimensional assimilation."
+        },
+        {
+          "trait_type": "Quote",
+          "value": "\"The collective knows no boundaries.\""
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ad1178975bd1db66a2c2df3c619834d1b813bb65efc81a8e701bc17e7c9a07b1i0",
+    "meta": {
+      "name": "BORG_Cube #9",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Beta Quadrant"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Multidimensional sensors and subspace disruption."
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "57169d2c5acfaf67e24141d5cf023273d30c1087049e29e72f64e39b5e951786i0",
+    "meta": {
+      "name": "BORG #9",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Beta Quadrant"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Can detect enemy fleets across subspace dimensions and disrupt their technology."
+        },
+        {
+          "trait_type": "Quote",
+          "value": "\"We are one.\""
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8bd0dee2a1feb6fa72b1c518938d03799bfef0ba311ab7ed109f9789dd6ea335i0",
+    "meta": {
+      "name": "BORG_Cube #10",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Uncharted Space"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Transwarp conduit generation and decentralized intelligence."
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  },
+  {
+    "id": "92ecd750d54c4f482e5c8ff23dbf1412ab9fd5c5a0f9df0514a2b79ffe96ae21i0",
+    "meta": {
+      "name": "BORG #10",
+      "attributes": [
+        {
+          "trait_type": "Origin",
+          "value": "Uncharted Space"
+        },
+        {
+          "trait_type": "Power",
+          "value": "Operates independent of the collective for secret missions, can open transwarp conduits."
+        },
+        {
+          "trait_type": "Quote",
+          "value": "\"We exist to perfect.\""
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Limited Edition/Unique"
+        }
+      ]
+    }
+  }
+]
