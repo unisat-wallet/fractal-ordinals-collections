@@ -60,9 +60,21 @@
     }
   },
   {
+    "id": "b4fb2a01e88b4229793327cdb2546ce7735d9bf18b5d8b9f69a90846c1773da1i0",
+    "meta": {
+      "name": "Fractal Satoshis #194"
+    }
+  },
+  {
     "id": "7cbcaf561aeb37fef01969635eeec0cca4c5953c7cd8d04b91a21be69ba2e7bai0",
     "meta": {
       "name": "Fractal Satoshis #203"
+    }
+  },
+  {
+    "id": "74c2f5c77ec3cd04325a3a4b6affe8d3ae230f62ed5a19f86ad7db4767bad939i0",
+    "meta": {
+      "name": "Fractal Satoshis #225"
     }
   },
   {
@@ -105,6 +117,12 @@
     "id": "d7e387bba8ee9e137973570d8dc05841d42069160773b90a2237e8cc2cc75929i0",
     "meta": {
       "name": "Fractal Satoshis #378"
+    }
+  },
+  {
+    "id": "378bd080433c24a68053715782b5a27b8fc63ee54edd48e3a1db42902a2a05d9i0",
+    "meta": {
+      "name": "Fractal Satoshis #393"
     }
   },
   {
