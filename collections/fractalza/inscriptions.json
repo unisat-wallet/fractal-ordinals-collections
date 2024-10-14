@@ -398,5 +398,92 @@
                 }
             ]
         }
+        [
+    {
+        "id": "8e213903df28325c52a5d3e7cbf765d37c7c16349478076efc2ca028f09f84b5i0",
+        "meta": {
+            "name": "XXXTENTACION Memorial #1",
+            "attributes": [
+                {
+                    "trait_type": "Legacy",
+                    "value": "Pioneer of Soundcloud Rap"
+                },
+                {
+                    "trait_type": "Cultural Symbol",
+                    "value": "Voice of the Lost Souls"
+                },
+                {
+                    "trait_type": "Memorial Quote",
+                    "value": "I gave her everything, she took my heart and left me lonely."
+                },
+                {
+                    "trait_type": "Charity Contribution",
+                    "value": "15% to Suicide Prevention"
+                },
+                {
+                    "trait_type": "Artwork Variation",
+                    "value": "Dark-themed background with blue and purple tones, featuring abstract broken hearts."
+                }
+            ]
+        }
+    },
+    {
+        "id": "f5292f868cd889c758cc191c78819e5015d17faa57bb20a5413cd89e0fec5138i0",
+        "meta": {
+            "name": "XXXTENTACION Memorial #2",
+            "attributes": [
+                {
+                    "trait_type": "Legacy",
+                    "value": "Inspiration for the Youth"
+                },
+                {
+                    "trait_type": "Cultural Symbol",
+                    "value": "The Rebel"
+                },
+                {
+                    "trait_type": "Memorial Quote",
+                    "value": "The pain in my heart just won’t end."
+                },
+                {
+                    "trait_type": "Charity Contribution",
+                    "value": "10% to Mental Health Support"
+                },
+                {
+                    "trait_type": "Artwork Variation",
+                    "value": "Dark storm clouds with flashes of lightning, symbolizing life struggles and hope."
+                }
+            ]
+        }
+    },
+    {
+        "id": "508b1c422afdfb80d248e5c7e0264d1bcbdc18c9ed5e5f8cf2a494cbb5ef5c4ei0",
+        "meta": {
+            "name": "XXXTENTACION Memorial #3",
+            "attributes": [
+                {
+                    "trait_type": "Legacy",
+                    "value": "Emotional Icon"
+                },
+                {
+                    "trait_type": "Cultural Symbol",
+                    "value": "Messenger of Hope"
+                },
+                {
+                    "trait_type": "Memorial Quote",
+                    "value": "Make out hill, rest in peace to all the kids that lost their lives."
+                },
+                {
+                    "trait_type": "Charity Contribution",
+                    "value": "20% to Youth Empowerment Initiatives"
+                },
+                {
+                    "trait_type": "Artwork Variation",
+                    "value": "Rising sun with abstract hands reaching up, symbolizing hope and renewal."
+                }
+            ]
+        }
+    }
+]
+
     }
 ]
