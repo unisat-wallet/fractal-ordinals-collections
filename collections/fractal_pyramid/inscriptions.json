@@ -1,50 +1,66 @@
 [
-    {
-        "id": "93b76c860e606806aec16cdd9380dad3e03e7093f06c91eca4b3ecb678a2b94ai0",
-        "meta": {
-            "name": "FRACTAL PYRAMID #1",
-            "attributes": [
-                {
-                    "trait_type": "Rarity",
-                    "value": "Divine"
-                },
-                {
-                    "trait_type": "Type",
-                    "value": "Gold"
-                }
-            ]
+  {
+    "id": "93b76c860e606806aec16cdd9380dad3e03e7093f06c91eca4b3ecb678a2b94ai0",
+    "meta": {
+      "name": "Fractal Pyramid #1",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Divine"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gold"
         }
-    },
-    {
-        "id": "8b8e1d9d50123583c25121e0a867871f9b98acf503c7acae0fae1cf0a23139aai0",
-        "meta": {
-            "name": "FRACTAL PYRAMID #4",
-            "attributes": [
-                {
-                    "trait_type": "Rarity",
-                    "value": "Divine"
-                },
-                {
-                    "trait_type": "Type",
-                    "value": "Gold"
-                }
-            ]
-        }
-    },
-    {
-        "id": "c1cd702dbeeb9425e57c348ea235e590765f53eec99a4f1e11e4201475639b9di0",
-        "meta": {
-            "name": "FRACTAL PYRAMID #7",
-            "attributes": [
-                {
-                    "trait_type": "Rarity",
-                    "value": "Divine"
-                },
-                {
-                    "trait_type": "Type",
-                    "value": "Gold"
-                }
-            ]
-        }
+      ]
     }
+  },
+  {
+    "id": "8b8e1d9d50123583c25121e0a867871f9b98acf503c7acae0fae1cf0a23139aai0",
+    "meta": {
+      "name": "Fractal Pyramid #4",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Divine"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gold"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c1cd702dbeeb9425e57c348ea235e590765f53eec99a4f1e11e4201475639b9di0",
+    "meta": {
+      "name": "Fractal Pyramid #7",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Divine"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gold"
+        }
+      ]
+    }
+  },
+  {
+    "id": "07d63783daceb7d86cec080754055c24fc60d0b814fd4828639ea1e6020efc88i0",
+    "meta": {
+      "name": "Fractal Pyramid #153",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common+"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Blue"
+        }
+      ]
+    }
+  }
 ]
