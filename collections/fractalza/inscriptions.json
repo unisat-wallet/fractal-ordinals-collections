@@ -1,0 +1,486 @@
+[
+    {
+        "id": "29ccdcb0a31ed643f33b734b96c1fb32a7df5773cf9bf40fd2ceafe11cf9a753i0",
+        "meta": {
+            "name": "FractalZa#1",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "dfa34c63415a085d16ade9d106934508c8c4805c6ff06d09e8adb54dbbd04729i0",
+        "meta": {
+            "name": "FractalZa#2",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "04392771a59b2a20a9f02a258b8c5c0dead524a12974af73693b644869a45a79i0",
+        "meta": {
+            "name": "FractalZa#3",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2bb8df58043fe5da26edab669e66ea9496bd18d5d740392a44f171e5f86ab16ai0",
+        "meta": {
+            "name": "FractalZa#4",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "02bfda5a0cc2b60b6f90f7f014b60c326eef8d128f33f488ee686ffa50179dadi0",
+        "meta": {
+            "name": "FractalZa#5",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "24a626ca52538ac165025b062255c9cedcab370eccc1b64cd9742ddbed1ff6a4i0",
+        "meta": {
+            "name": "FractalZa#6",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2c0c5674d61bb453849794cff8a460bd6b6e026d66794fc2ea8f55c5b6822442i0",
+        "meta": {
+            "name": "FractalZa#7",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2657a27ee99b1621959673bc5104623ced89187beb79f2558817ef51fc62b734i0",
+        "meta": {
+            "name": "FractalZa#8",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "0fb36c91e84b7e68db67a4aee360eaa9dba2d8720dd0b630aca7b5989c3a94c9i0",
+        "meta": {
+            "name": "FractalZa#9",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "66df143ae35000cad40e6bba8b26d83d61e6a253ca79d18c43245b1b2ce5a770i0",
+        "meta": {
+            "name": "FractalZa#10",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "e2ece34fc52a312c9f48749fedfdd38e870f71c7fb3f3cb743db9ab99819a368i0",
+        "meta": {
+            "name": "FractalZa#11",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6cca019a3ffcf822670b9a9b06a94cc87a654fee2af50c04e06715ae02699917i0",
+        "meta": {
+            "name": "FractalZa#12",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2c4f50378abf0e79fccd5484fe075723914a496b05dc0e4de63e70941ce8eebbi0",
+        "meta": {
+            "name": "FractalZa#13",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "4ef73276167d17a3026734c6d1a33e8644155087d0debe503a510ee05ab93873i0",
+        "meta": {
+            "name": "FractalZa#14",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "f2c4502a637e98956484140067b51b176b1c236e33d1e4d5aa248901c763e9cci0",
+        "meta": {
+            "name": "FractalZa#15",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "314c73b97835e4462e20d4d6f3484eef56d21ba241682c24f9ba1b35ed7bb0dfi0",
+        "meta": {
+            "name": "FractalZa#16",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "54d0f5e2133ff79fa92d5555a08cfe9dcb436027cefe99abf0676344e85c3c82i0",
+        "meta": {
+            "name": "FractalZa#17",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "daf97641ac076e5e61af0e3ca32be8aad3f71c19381fd049941eb53c8622db5fi0",
+        "meta": {
+            "name": "FractalZa#18",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6dd405f445dc56cb5d4b887b30249dfd4287e92221a7c3b8d83c462907e7e482i0",
+        "meta": {
+            "name": "FractalZa#19",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "5af5ca541a9d042b4eb3b9470f3342cecf7e186393201a24ff361630d18c4b7di0",
+        "meta": {
+            "name": "FractalZa#20",
+            "attributes": [
+                {
+                    "trait_type": "Plant Type",
+                    "value": "Marijuana"
+                },
+                {
+                    "trait_type": "Growth Stage",
+                    "value": "Mature"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Always High"
+                }
+            ]
+        }
+    },
+    {
+        "id": "8e213903df28325c52a5d3e7cbf765d37c7c16349478076efc2ca028f09f84b5i0",
+        "meta": {
+            "name": "XXXTENTACION Memorial #1",
+            "attributes": [
+                {
+                    "trait_type": "Legacy",
+                    "value": "Pioneer of Soundcloud Rap"
+                },
+                {
+                    "trait_type": "Cultural Symbol",
+                    "value": "Voice of the Lost Souls"
+                },
+                {
+                    "trait_type": "Memorial Quote",
+                    "value": "I gave her everything, she took my heart and left me lonely."
+                },
+                {
+                    "trait_type": "Charity Contribution",
+                    "value": "15% to Suicide Prevention"
+                },
+                {
+                    "trait_type": "Artwork Variation",
+                    "value": "Dark-themed background with blue and purple tones, featuring abstract broken hearts."
+                }
+            ]
+        }
+    },
+    {
+        "id": "f5292f868cd889c758cc191c78819e5015d17faa57bb20a5413cd89e0fec5138i0",
+        "meta": {
+            "name": "XXXTENTACION Memorial #2",
+            "attributes": [
+                {
+                    "trait_type": "Legacy",
+                    "value": "Inspiration for the Youth"
+                },
+                {
+                    "trait_type": "Cultural Symbol",
+                    "value": "The Rebel"
+                },
+                {
+                    "trait_type": "Memorial Quote",
+                    "value": "The pain in my heart just won’t end."
+                },
+                {
+                    "trait_type": "Charity Contribution",
+                    "value": "10% to Mental Health Support"
+                },
+                {
+                    "trait_type": "Artwork Variation",
+                    "value": "Dark storm clouds with flashes of lightning, symbolizing life struggles and hope."
+                }
+            ]
+        }
+    },
+    {
+        "id": "508b1c422afdfb80d248e5c7e0264d1bcbdc18c9ed5e5f8cf2a494cbb5ef5c4ei0",
+        "meta": {
+            "name": "XXXTENTACION Memorial #3",
+            "attributes": [
+                {
+                    "trait_type": "Legacy",
+                    "value": "Emotional Icon"
+                },
+                {
+                    "trait_type": "Cultural Symbol",
+                    "value": "Messenger of Hope"
+                },
+                {
+                    "trait_type": "Memorial Quote",
+                    "value": "Make out hill, rest in peace to all the kids that lost their lives."
+                },
+                {
+                    "trait_type": "Charity Contribution",
+                    "value": "20% to Youth Empowerment Initiatives"
+                },
+                {
+                    "trait_type": "Artwork Variation",
+                    "value": "Rising sun with abstract hands reaching up, symbolizing hope and renewal."
+                }
+            ]
+        }
+    }
+]
