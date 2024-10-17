@@ -1,0 +1,596 @@
+[
+  {
+    "id": "99ca9d03cb32d52b2d12e3b68944e01e6459e841ae118a7c986bdf5d42e10b2fi0",
+    "meta": {
+      "name": "Fractal Coin #1.glb"
+    }
+  },
+  {
+    "id": "b9a76f2b96a055e24bf5f624323660951ebd428e4fdd2c026c1813514463e3b6i0",
+    "meta": {
+      "name": "Fractal Coin #2.glb"
+    }
+  },
+  {
+    "id": "e735b80264522391b591879d361ff82183410876c3aafb24a3731ee8b82e5d75i0",
+    "meta": {
+      "name": "Fractal Coin #3.glb"
+    }
+  },
+  {
+    "id": "2ee44218e0551add652d5de13a33ea8e51c73917a7d1ade3f09c591cf5c2d28ei0",
+    "meta": {
+      "name": "Fractal Coin #4.glb"
+    }
+  },
+  {
+    "id": "013e09c219c5cca19bb80a91cf3ad43a67ef3c2894d7ee7c048be5114c3856a5i0",
+    "meta": {
+      "name": "Fractal Coin #5.glb"
+    }
+  },
+  {
+    "id": "1cc378d89c496f25cc56ba297f07e149f6a3c27f9620c6f30c58429de1ba946di0",
+    "meta": {
+      "name": "Fractal Coin #6.glb"
+    }
+  },
+  {
+    "id": "c40ce548781357e530a30ccc2cf03b000131e5ab9fd568d7fb462da6557f111bi0",
+    "meta": {
+      "name": "Fractal Coin #7.glb"
+    }
+  },
+  {
+    "id": "40cd66fb68b75e8dd4e4a7f5aa6d65de90e427ebda0546c222543259137b5e40i0",
+    "meta": {
+      "name": "Fractal Coin #8.glb"
+    }
+  },
+  {
+    "id": "33a07239662167a3affafd9b9a5ba4cfaf75f72f3d2bba2168c168cd429ea74di0",
+    "meta": {
+      "name": "Fractal Coin #9.glb"
+    }
+  },
+  {
+    "id": "429dd26474a3560243879f2f5f2640679888af2b3808243dc1ae34c0cbdfe9c4i0",
+    "meta": {
+      "name": "Fractal Coin #10.glb"
+    }
+  },
+  {
+    "id": "6764230eea7a249544f7fd0a5cfc967d3b9384b75b28bbf8fc80e29ba7ba9ea0i0",
+    "meta": {
+      "name": "Fractal Coin #11.glb"
+    }
+  },
+  {
+    "id": "85a0f9acb0cfe3ba576958006e181a61de90eb891240194b2824227ba008efa8i0",
+    "meta": {
+      "name": "Fractal Coin #12.glb"
+    }
+  },
+  {
+    "id": "46f24da9f4eb5e2341e6d2697035e0c11af5e048566fdbd71eadb8bf87b8ce1ei0",
+    "meta": {
+      "name": "Fractal Coin #13.glb"
+    }
+  },
+  {
+    "id": "4b6a65dc2ce01ba8f5765b956b20205c551a3533f5a2258da9479fda4ad58effi0",
+    "meta": {
+      "name": "Fractal Coin #14.glb"
+    }
+  },
+  {
+    "id": "7ba2ae8127f994c8a88ac02be2ba64eb816e8f98f94413149462f466bb9931b4i0",
+    "meta": {
+      "name": "Fractal Coin #15.glb"
+    }
+  },
+  {
+    "id": "bfc4aa5a91ec4996f1023d07c593fd8a84b0ee36a8af75cbb6bdfe146c3c2aaci0",
+    "meta": {
+      "name": "Fractal Coin #16.glb"
+    }
+  },
+  {
+    "id": "90033a746705b713a9580e2e73407f1b77664ffd04c124100a74808e244a5bcci0",
+    "meta": {
+      "name": "Fractal Coin #17.glb"
+    }
+  },
+  {
+    "id": "1ae8d2ee00784bfa0ffa26a22d888f2af995d69fb103e8330484fb12944bb043i0",
+    "meta": {
+      "name": "Fractal Coin #18.glb"
+    }
+  },
+  {
+    "id": "7de54d363db44e946475593784790c86e2244388f4eb446dfacbe312405b2624i0",
+    "meta": {
+      "name": "Fractal Coin #19.glb"
+    }
+  },
+  {
+    "id": "028043bdc18ac4c57fb9a5bd169b882ee254310bcc70dfe838a11dc30c37fc16i0",
+    "meta": {
+      "name": "Fractal Coin #20.glb"
+    }
+  },
+  {
+    "id": "8ced3f36e461bf9c320fbd46e8ba0354f859ca89dde476b7fb26604c79d2b49fi0",
+    "meta": {
+      "name": "Fractal Coin #21.glb"
+    }
+  },
+  {
+    "id": "1c2defe1750501b9173a6b40c83107388b7bca9e359ba53e6e3db2d478a1d592i0",
+    "meta": {
+      "name": "Fractal Coin #22.glb"
+    }
+  },
+  {
+    "id": "f2d2a8a989c26c625334c9cd232f5dd9cc8c3cbfcf0b5eda02f098ebe213f2a6i0",
+    "meta": {
+      "name": "Fractal Coin #23.glb"
+    }
+  },
+  {
+    "id": "2809e338c9509a221c5d6c298a12ae5d87f545ea5a14d9bbc04bf3d961e6d345i0",
+    "meta": {
+      "name": "Fractal Coin #24.glb"
+    }
+  },
+  {
+    "id": "a9378b9df1ae0a97b265cd2ab5ae00daf5d9ab4bc5043ca7f3e746143c5e350ai0",
+    "meta": {
+      "name": "Fractal Coin #25.glb"
+    }
+  },
+  {
+    "id": "2dc6f9889a89a291d6e6a2963e93f3fad30d9d1d5c8455a787c219c3ed4a5f98i0",
+    "meta": {
+      "name": "Fractal Coin #26.glb"
+    }
+  },
+  {
+    "id": "27808e9a68a4a622f57eb4de138efdb439ba12422362e92c325abef4d68e2f60i0",
+    "meta": {
+      "name": "Fractal Coin #27.glb"
+    }
+  },
+  {
+    "id": "e0c154f7c97ed8c32e58ec68113dd4ef689665ea943eea852add24834c962e70i0",
+    "meta": {
+      "name": "Fractal Coin #28.glb"
+    }
+  },
+  {
+    "id": "b3676beba13c4ce906b18b69db4214888e946005ca7a91f7cd1286dced723ad4i0",
+    "meta": {
+      "name": "Fractal Coin #29.glb"
+    }
+  },
+  {
+    "id": "af6fb5da1de08ae027ffde1a0a1e246c601577d70b0914944183992c679f5b9bi0",
+    "meta": {
+      "name": "Fractal Coin #30.glb"
+    }
+  },
+  {
+    "id": "e4a2a6dd9a1ce45506f031d2d00bb88a21c3a1601cc5775f2a686660f6273786i0",
+    "meta": {
+      "name": "Fractal Coin #31.glb"
+    }
+  },
+  {
+    "id": "e72818b03ad4b67a91ce2c39e700297a11d984555204a2a6eb07e9f3d2483f30i0",
+    "meta": {
+      "name": "Fractal Coin #32.glb"
+    }
+  },
+  {
+    "id": "24bd05f621984350e98b151dc2ad52b102ab6ebac326c16b80326333ed1ae195i0",
+    "meta": {
+      "name": "Fractal Coin #33.glb"
+    }
+  },
+  {
+    "id": "949084ea85504bc8203553a25847d72f991867fa40548f7a5e2c834e9f7ad007i0",
+    "meta": {
+      "name": "Fractal Coin #34.glb"
+    }
+  },
+  {
+    "id": "5c8b1625181f22e091c6bbd64e371c24b18383fa7cc90c06909b555583fd5f2fi0",
+    "meta": {
+      "name": "Fractal Coin #35.glb"
+    }
+  },
+  {
+    "id": "117a421c9b2337f26286cc96bb1a33a29f241795fc0b9227efea37129e94bf5fi0",
+    "meta": {
+      "name": "Fractal Coin #36.glb"
+    }
+  },
+  {
+    "id": "bfcd26dd275ad732292314072a8f2a4ecead8769e93de4847ac88bd8b954528ci0",
+    "meta": {
+      "name": "Fractal Coin #37.glb"
+    }
+  },
+  {
+    "id": "2ff45545dc1434fd04d8a325d1680aee2cd6bb998ffb8760e36b39198612a29ei0",
+    "meta": {
+      "name": "Fractal Coin #38.glb"
+    }
+  },
+  {
+    "id": "fe1a04ecd9dc103fa5bc89096c873b3a413771a60352dfdf1890e5dd570e389fi0",
+    "meta": {
+      "name": "Fractal Coin #39.glb"
+    }
+  },
+  {
+    "id": "8a7dd2c69fad56bcce9dddce6cb227e62b63be6e802e37d851f0ec7c5d8aaa52i0",
+    "meta": {
+      "name": "Fractal Coin #40.glb"
+    }
+  },
+  {
+    "id": "4b69d0e65aaa006783a43cadf922267d7d1df7dc4573e37ca8c9e01a8750de70i0",
+    "meta": {
+      "name": "Fractal Coin #41.glb"
+    }
+  },
+  {
+    "id": "80a100db64068a62d65d9174e634981c419d704f028624c65d2cd28716951cdbi0",
+    "meta": {
+      "name": "Fractal Coin #42.glb"
+    }
+  },
+  {
+    "id": "23924101c3859c32835401bef1be01489aeb3ef2c697dae192afe3bbd317c659i0",
+    "meta": {
+      "name": "Fractal Coin #43.glb"
+    }
+  },
+  {
+    "id": "cbe41d8b372f7615b4598a359b8be3e4aa841a560d6e90267be2622d55c9e18fi0",
+    "meta": {
+      "name": "Fractal Coin #44.glb"
+    }
+  },
+  {
+    "id": "afff45ea1bb39bb4a358c413d92b25aecee9abab42430246f7b3eed8e5c5f7aai0",
+    "meta": {
+      "name": "Fractal Coin #45.glb"
+    }
+  },
+  {
+    "id": "894ca581eab12ac824eec0cb8b7df2ca8c8faaf06550fea835cac5c7fa0245dei0",
+    "meta": {
+      "name": "Fractal Coin #46.glb"
+    }
+  },
+  {
+    "id": "b3956d6c7ee8fa5952149f7ceb39720e7554abb595c20ccb4824d8cc7f1e7031i0",
+    "meta": {
+      "name": "Fractal Coin #47.glb"
+    }
+  },
+  {
+    "id": "5ddfce65fda853e355d4c486bda509e3450082442a9864991b4a359379593dbci0",
+    "meta": {
+      "name": "Fractal Coin #48.glb"
+    }
+  },
+  {
+    "id": "6e2c4a38722821539f7049e02c1d329f499aa7b403c44c4e70e7148868aeffbdi0",
+    "meta": {
+      "name": "Fractal Coin #49.glb"
+    }
+  },
+  {
+    "id": "839b8b03630f0f762c54da2e87278e340ef7b960833916f27396435856815ba3i0",
+    "meta": {
+      "name": "Fractal Coin #50.glb"
+    }
+  },
+  {
+    "id": "e051fac92a3f23ea20bc044ee8d904abebd1c8555b36fccbfed8170941381740i0",
+    "meta": {
+      "name": "Fractal Coin #51.glb"
+    }
+  },
+  {
+    "id": "e22a8c21871bb82832cc9eb4b4c5c8a574946ab0dd3359fbd2078bb68f94ff60i0",
+    "meta": {
+      "name": "Fractal Coin #52.glb"
+    }
+  },
+  {
+    "id": "73e2f496e04ed955f13c8f980d20c9f6a9ca27ab2c216c3009941e2091f20ea7i0",
+    "meta": {
+      "name": "Fractal Coin #53.glb"
+    }
+  },
+  {
+    "id": "3d334b1e3166007468512c837918476697471eb89edff95cda822880dce250b3i0",
+    "meta": {
+      "name": "Fractal Coin #54.glb"
+    }
+  },
+  {
+    "id": "aaaa7de51b80a275446305aba37f9123d0b4dccea167aad94fb5b7cfe23ab09bi0",
+    "meta": {
+      "name": "Fractal Coin #55.glb"
+    }
+  },
+  {
+    "id": "b045a260251ce420412680798da517f9af35b011b71ca5b49fb6de34962e7b70i0",
+    "meta": {
+      "name": "Fractal Coin #56.glb"
+    }
+  },
+  {
+    "id": "eb27bb1f35dbb97e1461f67b4b59b7ead418756d3c3cc9de1765681cffffabfei0",
+    "meta": {
+      "name": "Fractal Coin #57.glb"
+    }
+  },
+  {
+    "id": "328ffbe5ee28b12288304fc02022846b309c5f885f45a25374a778c1d78c7cfai0",
+    "meta": {
+      "name": "Fractal Coin #58.glb"
+    }
+  },
+  {
+    "id": "08c4df71299639dc30751584cd75ddd5ee24f92ad43ae5ffbd99b7bb05c85b8bi0",
+    "meta": {
+      "name": "Fractal Coin #59.glb"
+    }
+  },
+  {
+    "id": "3ccaef708226aa1c2a7b97b67415cab11b14c4b1b8939c618dc3f310395dac0ci0",
+    "meta": {
+      "name": "Fractal Coin #60.glb"
+    }
+  },
+  {
+    "id": "1ee14015a04db9df73d462cf792bc72ce81d8519dd1171abe7ddd8d21e35d161i0",
+    "meta": {
+      "name": "Fractal Coin #61.glb"
+    }
+  },
+  {
+    "id": "152dbb1847b4934cc3c28b87ae9913c05c600ff7b3758ef3a7e6d13dd5121b4di0",
+    "meta": {
+      "name": "Fractal Coin #62.glb"
+    }
+  },
+  {
+    "id": "ae23eac746a4c786932a0d9b4209ee6e815f9219f7b4a7e3fc800bb2dc5708dfi0",
+    "meta": {
+      "name": "Fractal Coin #63.glb"
+    }
+  },
+  {
+    "id": "066b41e801397adf896f5d7488963e9870a6751d2eb51b712c1849f2c57f12dei0",
+    "meta": {
+      "name": "Fractal Coin #64.glb"
+    }
+  },
+  {
+    "id": "6bfc702effe5689521f7a1b9a786621d674b1fb51c74d758b67bba5d6952708di0",
+    "meta": {
+      "name": "Fractal Coin #65.glb"
+    }
+  },
+  {
+    "id": "addc73821a4f08dc4f4e5c90f671848f4c6e7a942844242a324aa719dc9aedb5i0",
+    "meta": {
+      "name": "Fractal Coin #66.glb"
+    }
+  },
+  {
+    "id": "301b8f60b9ed9a7387d06aeabf52e4bc1b716bae25b2f2529158f48a2485aaf7i0",
+    "meta": {
+      "name": "Fractal Coin #67.glb"
+    }
+  },
+  {
+    "id": "52d0dea6dcc2dd8918ef007ca70116ea5434bfe0d984eb9be8c201be2874b9bai0",
+    "meta": {
+      "name": "Fractal Coin #68.glb"
+    }
+  },
+  {
+    "id": "118ca8c27bfcc9c10c5e392de98c44f0b5dcb0f18a66f2a6afdd4ec9a83e7c13i0",
+    "meta": {
+      "name": "Fractal Coin #69.glb"
+    }
+  },
+  {
+    "id": "1d6b8a740670578a1e32593677ac39ce8e476f4a4107dc9565691eab664b6f0fi0",
+    "meta": {
+      "name": "Fractal Coin #70.glb"
+    }
+  },
+  {
+    "id": "fbf358a0bcf798d27274631c7c3ea4406d36a4f5e55384fe4c880e4d577e99fdi0",
+    "meta": {
+      "name": "Fractal Coin #71.glb"
+    }
+  },
+  {
+    "id": "f9f71813d2c475895f50fb2c952cd2feea2bfa5159d730a3ff21d4f65ae0deb0i0",
+    "meta": {
+      "name": "Fractal Coin #72.glb"
+    }
+  },
+  {
+    "id": "61cce2bb4f6aec5246ef1a45ae3f7f563fb56b39135308a89d191cc2ba888513i0",
+    "meta": {
+      "name": "Fractal Coin #73.glb"
+    }
+  },
+  {
+    "id": "85e61d72d961c59d6306a9e5af451f3f43f60b63d60bbd97775eb0c67c5271fci0",
+    "meta": {
+      "name": "Fractal Coin #74.glb"
+    }
+  },
+  {
+    "id": "17108496fdbbd46dc4dcb648dd0bbf3a1b5748c4e8edd970853e9973cb50910ai0",
+    "meta": {
+      "name": "Fractal Coin #75.glb"
+    }
+  },
+  {
+    "id": "b542f457579b88f047af0826b31114fcac7f7473aaa5c53d91d9725b06f07843i0",
+    "meta": {
+      "name": "Fractal Coin #76.glb"
+    }
+  },
+  {
+    "id": "fd4d6b346135d2392ef9451fd352e7d83d8dc95c89f8e5fe99cdbe04b44899fai0",
+    "meta": {
+      "name": "Fractal Coin #77.glb"
+    }
+  },
+  {
+    "id": "62188ef25c28b4c7c1f0294dce3eba2aa6366d2a27e5c81d56339563d719b060i0",
+    "meta": {
+      "name": "Fractal Coin #78.glb"
+    }
+  },
+  {
+    "id": "c405eca70856fbf588f3d1197bdfab9d224f98134a8e9aadee2faf29da2ae37di0",
+    "meta": {
+      "name": "Fractal Coin #79.glb"
+    }
+  },
+  {
+    "id": "4a9ba9be06e171deb5c03643cd75daa6698e03c5030611040b42de0a198ef1edi0",
+    "meta": {
+      "name": "Fractal Coin #80.glb"
+    }
+  },
+  {
+    "id": "66e77269d0b8a95ba075608ccefe17f79b08028858133ae4c39152f64c81271ci0",
+    "meta": {
+      "name": "Fractal Coin #81.glb"
+    }
+  },
+  {
+    "id": "f19559a30aa1faac35689763544d4f5bdab20472c4dae1844fa0d28638db7d28i0",
+    "meta": {
+      "name": "Fractal Coin #82.glb"
+    }
+  },
+  {
+    "id": "28753412725f8c2957a5b015cadc63a87606bc5b383feafc51d6f69e73d284a1i0",
+    "meta": {
+      "name": "Fractal Coin #83.glb"
+    }
+  },
+  {
+    "id": "0c3804ab109abc7adf84bc38734053cffcadfc539deb130dd49c46eb303e91d7i0",
+    "meta": {
+      "name": "Fractal Coin #84.glb"
+    }
+  },
+  {
+    "id": "71c77cfdd55c81e859bd3c6aec5a785442ee5407d1567ad5b91de1da844d8e12i0",
+    "meta": {
+      "name": "Fractal Coin #85.glb"
+    }
+  },
+  {
+    "id": "6e486f3a80f2483d7a8163226521e71584251752ccea8e5b8dce19fbf67f0c22i0",
+    "meta": {
+      "name": "Fractal Coin #86.glb"
+    }
+  },
+  {
+    "id": "45527bb83327580a7bf5781bfa58515a644e5c99e5471eeee19bc280c020fb11i0",
+    "meta": {
+      "name": "Fractal Coin #87.glb"
+    }
+  },
+  {
+    "id": "4c6e55e75c0036f79623a147791fcddb05cea7448a03aaf15663ad74e6693b5ai0",
+    "meta": {
+      "name": "Fractal Coin #88.glb"
+    }
+  },
+  {
+    "id": "5443c3d8e935d794de09f6d4d7be8baf77ce1ac44f41dca480d8dbdde13a85d8i0",
+    "meta": {
+      "name": "Fractal Coin #89.glb"
+    }
+  },
+  {
+    "id": "3f594191a964867ef1f089d95294e6b4754a5bd1615bd5c3eff6348e7a4e847ei0",
+    "meta": {
+      "name": "Fractal Coin #90.glb"
+    }
+  },
+  {
+    "id": "21c941e46fe3de925c0926c82d107735a68ea90c8d52bf9f16d2e3ab71060f1ai0",
+    "meta": {
+      "name": "Fractal Coin #91.glb"
+    }
+  },
+  {
+    "id": "20b4daa9a5bf3e08657ca31cd9859f40287ba1014857679a826624de33a94201i0",
+    "meta": {
+      "name": "Fractal Coin #92.glb"
+    }
+  },
+  {
+    "id": "e87204ee7ab87f29e1b6938989dc1e8867a5d61d50e69615cb1e80d5fb7a384bi0",
+    "meta": {
+      "name": "Fractal Coin #93.glb"
+    }
+  },
+  {
+    "id": "21413ef912435ffb82331385b254b89a5578703c05d258b959f4d25588e57feci0",
+    "meta": {
+      "name": "Fractal Coin #94.glb"
+    }
+  },
+  {
+    "id": "78554c008beb1a25a52098ee5c5f169f23cfba6b36540bf8b6e5f362eb7bccc0i0",
+    "meta": {
+      "name": "Fractal Coin #95.glb"
+    }
+  },
+  {
+    "id": "563a1f695dd91bd21b995c8d1fc18e041cc1997a8d9814dc8702d5a58b9a5266i0",
+    "meta": {
+      "name": "Fractal Coin #96.glb"
+    }
+  },
+  {
+    "id": "af39583af52962370689bfb7b0798720e8bd7b18b809ec44beb167afd6fc786bi0",
+    "meta": {
+      "name": "Fractal Coin #97.glb"
+    }
+  },
+  {
+    "id": "13c5ac33e16a5bf21cf2abe1a314fff112824c68693611cb9e670b94a2dbad42i0",
+    "meta": {
+      "name": "Fractal Coin #98.glb"
+    }
+  },
+  {
+    "id": "98845d28b485744220a3b980ff4c3c0fb3c22df8c3bf0922abdbc528c676bad4i0",
+    "meta": {
+      "name": "Fractal Coin #99.glb"
+    }
+  }
+]
