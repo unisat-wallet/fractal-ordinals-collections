@@ -1,0 +1,34 @@
+[
+  {
+    "id": "016a6b435ef01dfef922fab92b501bab9d0c2d7ece9fe80b856b6fe50992c450i0",
+    "meta": {
+      "name": "Fractal Pyramid #127",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "07d63783daceb7d86cec080754055c24fc60d0b814fd4828639ea1e6020efc88i0",
+    "meta": {
+      "name": "Fractal Pyramid #153",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common+"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Blue"
+        }
+      ]
+    }
+  }
+]
