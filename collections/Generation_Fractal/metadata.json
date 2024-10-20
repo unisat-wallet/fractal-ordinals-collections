@@ -3,7 +3,7 @@
     "discord_link": "",
     "inscription_icon": "7d0ee7e56e8f78014a9ab43c4d79a372506723df6c0d4a8119ae43d1ebe59f5ci0",
     "name": "Generation Fractal",
-    "slug": "Generation_Fractal", # all lowercase or underscore hyphen, consistent with the directory name
+    "slug": "Generation_Fractal",
     "twitter_link": "https://x.com/BochukovRumen",
     "website_link": "https://"
   }
