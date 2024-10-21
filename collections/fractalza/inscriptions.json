@@ -482,5 +482,206 @@
                 }
             ]
         }
-    }
-]
+    },
+        {
+            "id": "15e39a30d9a18d411bb94d699d8b773c8e2da25722b743abf8e425d11c5fa1bei0",
+            "meta": {
+                "name": "Indica#1",
+                "attributes": [
+                    {
+                        "trait_type": "Strain",
+                        "value": "Indica"
+                    },
+                    {
+                        "trait_type": "Potency",
+                        "value": "High THC"
+                    },
+                    {
+                        "trait_type": "Effect",
+                        "value": "Relaxation"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "5278c0b02a4365aed41fb5775c78afcda78043817d6996bea437533ccb09aedbi0",
+            "meta": {
+                "name": "Indica#2",
+                "attributes": [
+                    {
+                        "trait_type": "Strain",
+                        "value": "Indica"
+                    },
+                    {
+                        "trait_type": "Potency",
+                        "value": "Very High THC"
+                    },
+                    {
+                        "trait_type": "Effect",
+                        "value": "Euphoria"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "34a20ff4818d4eab047b55f4716e0c4c1c6c1a768d3c2cee6495f1ba82d4459ei0",
+            "meta": {
+                "name": "Indica#3",
+                "attributes": [
+                    {
+                        "trait_type": "Strain",
+                        "value": "Indica"
+                    },
+                    {
+                        "trait_type": "Potency",
+                        "value": "Max THC"
+                    },
+                    {
+                        "trait_type": "Effect",
+                        "value": "Tranquility"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "3fa5e6f79e1af4928d9db24054c05c2e6648ae01335d7c11fcc319999c997289i0",
+            "meta": {
+                "name": "Indica#4",
+                "attributes": [
+                    {
+                        "trait_type": "Strain",
+                        "value": "Indica"
+                    },
+                    {
+                        "trait_type": "Potency",
+                        "value": "High CBD"
+                    },
+                    {
+                        "trait_type": "Effect",
+                        "value": "Healing"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "aa2dc433072fb0128fa4cecb26747d5edd668752d462e7ebadac1ccc481854f9i0",
+            "meta": {
+                "name": "Indica#5",
+                "attributes": [
+                    {
+                        "trait_type": "Strain",
+                        "value": "Indica"
+                    },
+                    {
+                        "trait_type": "Potency",
+                        "value": "Balanced THC/CBD"
+                    },
+                    {
+                        "trait_type": "Effect",
+                        "value": "Calming"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "e0517cada6e936f4391a7b0331c68d370b7ae7e4d478204cb7c4a74bd6955063i0",
+            "meta": {
+                "name": "Indica#6",
+                "attributes": [
+                    {
+                        "trait_type": "Strain",
+                        "value": "Indica"
+                    },
+                    {
+                        "trait_type": "Potency",
+                        "value": "Very High THC"
+                    },
+                    {
+                        "trait_type": "Effect",
+                        "value": "Sleep Aid"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ac16b285143cd9dfc371537712d2d4431b54e6f602e456c2ae90199012f5a62ei0",
+            "meta": {
+                "name": "Indica#7",
+                "attributes": [
+                    {
+                        "trait_type": "Strain",
+                        "value": "Indica"
+                    },
+                    {
+                        "trait_type": "Potency",
+                        "value": "Max THC"
+                    },
+                    {
+                        "trait_type": "Effect",
+                        "value": "Deep Relaxation"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ef513a7e3fc3a17ea4387bc2ce9160946882b20f726b2d1061185ebf19d874bdi0",
+            "meta": {
+                "name": "Indica#8",
+                "attributes": [
+                    {
+                        "trait_type": "Strain",
+                        "value": "Indica"
+                    },
+                    {
+                        "trait_type": "Potency",
+                        "value": "High THC"
+                    },
+                    {
+                        "trait_type": "Effect",
+                        "value": "Body High"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "543857b16e893741886d9492a401e055542a02ec17eac791e0117596f55a615di0",
+            "meta": {
+                "name": "Indica#9",
+                "attributes": [
+                    {
+                        "trait_type": "Strain",
+                        "value": "Indica"
+                    },
+                    {
+                        "trait_type": "Potency",
+                        "value": "Very High CBD"
+                    },
+                    {
+                        "trait_type": "Effect",
+                        "value": "Pain Relief"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "a48cc30be0af38cf514cb8d186ac5a9502d3e30050c61866604b2a014ea4b0f1i0",
+            "meta": {
+                "name": "Indica#10",
+                "attributes": [
+                    {
+                        "trait_type": "Strain",
+                        "value": "Indica"
+                    },
+                    {
+                        "trait_type": "Potency",
+                        "value": "Max THC"
+                    },
+                    {
+                        "trait_type": "Effect",
+                        "value": "Stress Relief"
+                    }
+                ]
+            }
+        }
+    ]
+       
