@@ -2,6 +2,7 @@
   "description": "Fractal Pyramid is a limited 3D collection inspired by the iconic Sierpiński pyramid on Fractal Bitcoin.",
   "icon": "https://fractal.inscribenow.io/uploads/6fca722cbb5b4c47b01d..gif",
   "name": "Fractal Pyramid",
-  "slug": "fractal_pyramid",  
+  "slug": "fractal_pyramid",
+  "twitter_link": "https://x.com/SatBuilder",  
   "website_link": "https://fractal.inscribenow.io/collections/7f7c6b1675788c92"
 }
