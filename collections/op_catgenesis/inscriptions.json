@@ -496,6 +496,38 @@
     }
   },
   {
+    "id": "08a89e5c3f0a7b91d752480ea19845e9fbff6abe9e36add338abec73bf7b0be9i0",
+    "meta": {
+      "name": "OP_CAT GENESIS 💾 #158",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gold"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a70c1cf5b77acf0f659232e3ee77330b94d074ef5f84669e670bdebdb7e844e7i0",
+    "meta": {
+      "name": "OP_CAT GENESIS 💾 #172",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gold"
+        }
+      ]
+    }
+  },
+  {
     "id": "84695290526383de0406fc6b0c8b0d2121a9ddf36bc1d66dc7cf82053e42b5ddi0",
     "meta": {
       "name": "OP_CAT GENESIS 💾 #176",
