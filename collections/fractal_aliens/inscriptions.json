@@ -1798,5 +1798,133 @@
                 }
             ]
         }
+    },
+    {
+        "id": "cedaa73e2b8d11ed151e4e42ed449f6d4ac6fbf7b78e4bfdb185a3beb6280cd7i0",
+        "meta": {
+            "name": "Baron of Hell",
+            "traits": {
+                "character": "Baron of Hell",
+                "color": "Fiery Red",
+                "size": "Giant",
+                "weapon": "Clawed Hands",
+                "special_ability": "Hellfire Blast",
+                "environment": "Lava Pits",
+                "rarity": "Legendary",
+                "background": "Hellscape"
+            }
+        }
+    },
+    {
+        "id": "f6aaf6db7d5043ba7474203e91cf73b2276fef90dbb8692c302cc7ae4924abb5i0",
+        "meta": {
+            "name": "Cyberdemon",
+            "traits": {
+                "character": "Cyberdemon",
+                "color": "Rusty Bronze",
+                "size": "Titan",
+                "weapon": "Rocket Launcher Arm",
+                "special_ability": "Missile Barrage",
+                "environment": "Metallic Fortress",
+                "rarity": "Epic",
+                "background": "Techno Hellscape"
+            }
+        }
+    },
+    {
+        "id": "5d1794d7d8c1bf13d3236cae33d9bdf6fd558f05c5de1e07619863e462dd3cdbi0",
+        "meta": {
+            "name": "Spidermastermind",
+            "traits": {
+                "character": "Spidermastermind",
+                "color": "Pale Gray",
+                "size": "Enormous",
+                "weapon": "Chaingun",
+                "special_ability": "Neural Command",
+                "environment": "Webbed Lair",
+                "rarity": "Legendary",
+                "background": "Bio-Mechanical Chambers"
+            }
+        }
+    },
+    {
+        "id": "7dcb28eb36f3bdd3058fccbfbe8c720adc3888aab3767339ee7e4ff9fb86ae07i0",
+        "meta": {
+            "name": "Arch Vile",
+            "traits": {
+                "character": "Arch Vile",
+                "color": "Ghostly White",
+                "size": "Tall",
+                "weapon": "Inferno Magic",
+                "special_ability": "Resurrection",
+                "environment": "Sacrificial Altar",
+                "rarity": "Mythical",
+                "background": "Cursed Temple"
+            }
+        }
+    },
+    {
+        "id": "78f3f97e14eb4c33c0513c8738b48186b54efceb7271a3003cd52f3a04bff7cci0",
+        "meta": {
+            "name": "Mancubus",
+            "traits": {
+                "character": "Mancubus",
+                "color": "Fleshy Pink",
+                "size": "Hulking",
+                "weapon": "Flame Cannons",
+                "special_ability": "Area of Effect Fire",
+                "environment": "Molten Pools",
+                "rarity": "Rare",
+                "background": "Infernal Furnace"
+            }
+        }
+    },
+    {
+        "id": "4d72000d6a49847d5be7a81718a4ee55dc5b0f3466508e12e2748b326caaaa11i0",
+        "meta": {
+            "name": "Revenant",
+            "traits": {
+                "character": "Revenant",
+                "color": "Bone White",
+                "size": "Tall and Lanky",
+                "weapon": "Shoulder-Mounted Rockets",
+                "special_ability": "Homing Missiles",
+                "environment": "Graveyard",
+                "rarity": "Epic",
+                "background": "Ruined Cathedral"
+            }
+        }
+    },
+    {
+        "id": "d24288cc527e84b4ca426f8de82b3f20c48809407808207c3ed912073c533edci0",
+        "meta": {
+            "name": "Pinky Demon",
+            "traits": {
+                "character": "Pinky Demon",
+                "color": "Fuchsia",
+                "size": "Stocky",
+                "weapon": "Massive Jaws",
+                "special_ability": "Charging Attack",
+                "environment": "Dark Corridors",
+                "rarity": "Uncommon",
+                "background": "Shadowed Caverns"
+            }
+        }
+    },
+    {
+        "id": "44b9921754be36b515a86d2b04be9fdb0d55752de5d23b02c332c136c46bc3e5i0",
+        "meta": {
+            "name": "Imp",
+            "traits": {
+                "character": "Imp",
+                "color": "Dark Brown",
+                "size": "Medium",
+                "weapon": "Fireball Claws",
+                "special_ability": "Fireball Toss",
+                "environment": "Rocky Outcrops",
+                "rarity": "Common",
+                "background": "Crumbling Cliffside"
+            }
+        }
     }
 ]
