@@ -1008,6 +1008,22 @@
     }
   },
   {
+    "id": "1a009359632c7d3defcfc8b76b76ffaac7c57f0ec6808dfda8383cc9e8448a82i0",
+    "meta": {
+      "name": "OP_CAT GENESIS 💾 #418",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Commun"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        }
+      ]
+    }
+  },
+  {
     "id": "8ec280200e1eb583550deedf8f45dda0abd6db5fc33d3d929b45a9b256252ef9i0",
     "meta": {
       "name": "OP_CAT GENESIS 💾 #422",
