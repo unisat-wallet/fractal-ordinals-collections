@@ -1926,4 +1926,413 @@
                 "background": "Crumbling Cliffside"
             }
         }
-v
+    },
+    {
+        "id": "59587b205919dd07794353ef0ff8ad24d667d042e8684f55c7a9eb37645b3a03i0",
+        "meta": {
+            "name": "Inferno Jack",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Gourdlok"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Summons firestorms that incinerate everything in his path."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"From the ashes, I bring terror.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "61ddd5f34efba13929ab504191e2a92ccc06cd6424a81bbc0f59a2eaa30f4a34i0",
+        "meta": {
+            "name": "Cinder Wraith",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Gourdlok"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates flames to create illusions, confusing enemies in a fiery haze."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"Fear the warmth of my flames, for it\u2019s the last you'll feel.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "f24e396d7b27287b90c6b9608ce739a89dacc4c5eb2c60246d5f2f05c9354fa6i0",
+        "meta": {
+            "name": "Flame Reaper",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Gourdlok"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": " Can drain warmth from his surroundings, leaving his foes shivering and vulnerable"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"I come with embers that whisper of despair.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "54ded225a9e50160509964322919cba221f14d4edf05594e9c321c0226e70a25i0",
+        "meta": {
+            "name": "Ember King",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Gourdlok"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Commands an army of flame minions, each capable of igniting intense, supernatural fires."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"Bow before the king of fire, or burn in my fury.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "cb1a5b0a81e1ac96211368c5449a7eab14acbad3512fdd764429afc31ea0807di0",
+        "meta": {
+            "name": "Zyrrath",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Jacktus"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Can harness starlight to blind foes or reveal hidden pathways through the cosmos"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"From the endless night, I emerge, bearer of starfire.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "977574441d8cd08c3d0499afbffe6b859f909a0b9b65861c20c1ddf6eb131fe7i0",
+        "meta": {
+            "name": "Xariq",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Jacktus"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Manipulates gravitational forces, creating cosmic storms and bending space to his will."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"All that orbits bows to my eternal reign.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "59bdd9816d65482bc87e05c0596398ffbb4ab7bdddea82660baefe7f6ae32939i0",
+        "meta": {
+            "name": "Nyriis",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Jacktus"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": " Phases through dimensions, bending dark matter to pass undetected."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"I am the silent watcher between worlds.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "52f087411fa62706ac3e97f5025ad27da2893da367ed341cd68d0b2d00ced9a9i0",
+        "meta": {
+            "name": "Oriska",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Jacktus"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Can foresee cosmic events, interpreting celestial patterns to predict outcomes."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"The stars speak; I am their voice.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "81dcc435f3aa9b46845ee858593fc4b176cf5a319f9291e02531d241f9c722dei0",
+        "meta": {
+            "name": "Vyrkaal",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Phantasmos"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Can phase through solid matter, moving undetected in any environment."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"I drift between realms, a silent shadow in the night.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "7ba34f5d452a622484a52d534a8bc6331f92c2b6fa05722cd9c388eb9479eee6i0",
+        "meta": {
+            "name": "Nyxahar",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Phantasmos"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Absorbs and manipulates energy, allowing him to wield powerful shockwaves."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"From the void, I summon the secrets of forgotten worlds.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "9f5b93cf41df6798a8918a17d6663d418424c204cc9841545837c46f33dc8b5ci0",
+        "meta": {
+            "name": "Drail",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Phantasmos"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Can manipulate fear, creating illusions that weaken the resolve of his enemies."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"Fear is the darkness that fuels my power.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "eb9651311f2f5197247457028d78bff392f7ad9da71e6065ef369e60335fa72ei0",
+        "meta": {
+            "name": "Zetheron",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Phantasmos"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Commands a constellation of energy orbs, capable of releasing destructive bursts of cosmic energy."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"The stars obey my call, and with them, I bring the night.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "f16a067d5d81c8a8262bfa5aedff2f3e79a996ec62c31150e801c464d67a7cbfi0",
+        "meta": {
+            "name": "Mor\u2019gath",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Necrofera"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Can siphon life energy from surroundings, empowering himself while weakening foes."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"Death is but a gateway to my dominion.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "590358a4a3ff4e7caeb26ac2175db73f119241136035caccfd8696092bb30bdai0",
+        "meta": {
+            "name": "Xy\u2019rathor",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Necrofera"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Generates shockwaves of pure dread, paralyzing all who dare approach."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"From ashes, I rise, eternal and unyielding.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "9cb5f8b38b5428098715c2d912daa5b3d30c3b185598ba48a86c22f2e8139e19i0",
+        "meta": {
+            "name": "Vak\u2019raxx",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Necrofera"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "Commands a murder of spectral crows that scout and siphon life energy."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"I am the harbinger; my wings shadow your fate.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "446752fade53c83d7e95acf2371565d7453414ac7876133e2b2cc87e8f56feffi0",
+        "meta": {
+            "name": "Letox",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Necrofera"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "A Centaur that dissolve into mist, silently stalking prey across vast distances."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"I am the harbinger; my wings shadow your fate.\""
+                }
+            ]
+        }
+    },
+    {
+        "id": "59b2597c427443614207094803373ef0fd85eed056b0a829fd42aeef8ca5c718i0",
+        "meta": {
+            "name": "Pick A Name Chief Magician !",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Gourdlok"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "we can give it an amazing power"
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "One Of A Kind"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\u201cFor The Chief Magician Lorenzo\u201d"
+                }
+            ]
+        }
+    }
+]
