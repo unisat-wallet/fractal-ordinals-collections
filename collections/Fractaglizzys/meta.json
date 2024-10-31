@@ -3,7 +3,7 @@
   "discord_link": "",
   "icon": "https://fractal.inscribenow.io/uploads/06aa66a604e7e09c02f9..gif",
   "name": "Fractaglizzys",
-  "slug": "fractaglizzys", # all lowercase or underscore hyphen, consistent with the directory name
+  "slug": "fractaglizzys", 
   "twitter_link": "https://x.com/Fractaglizzys",
   "website_link": "https://fractal.inscribenow.io/collections/35b4a4314a1f06c4"
 }
