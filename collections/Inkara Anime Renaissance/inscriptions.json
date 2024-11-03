@@ -1,0 +1,896 @@
+[
+    {
+        "id": "029ab77a4920f0ceaa2c2719058c626d1ceb73f2f59a00713f2e6b154a6c8da1i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #1"
+        }
+    },
+    {
+        "id": "66995aa0e1c7273db8278c36e0f40b2391df6c187405974e387cd7c3cf8ea87ai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #2"
+        }
+    },
+    {
+        "id": "14e3efc5b5750aaaa35876dfb333f90716ec9bd7a70fa7853a08b5c47cd6ae0ci0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #3"
+        }
+    },
+    {
+        "id": "2d6514718ee8d8a560c3f0449e72327fe9edd0cd36876f0223ce38f9a80f80aei0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #4"
+        }
+    },
+    {
+        "id": "5de0f11ec0dda6749336a044b82a5f4dd9b49bd8adc5dc5549e9661c29c2e3f6i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #5"
+        }
+    },
+    {
+        "id": "827e71e607a34701acb3654ca982c03a75c5faf7f306a03c1b3674817556c0d0i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #6"
+        }
+    },
+    {
+        "id": "3e238a1c4000f507bfee4cb76767c96ec22c2933b7cf6fd30d5bc037cbe711f7i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #7"
+        }
+    },
+    {
+        "id": "9e1f53ab90666a8bdd21567fdcedb65c35530ecc935601e69302371055c899e8i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #8"
+        }
+    },
+    {
+        "id": "98f7d0c0d2fb72efd949516b4ba04e17f5eb23265e03d1784b51a1b2afd5dd39i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #9"
+        }
+    },
+    {
+        "id": "5e34101d3d43227b2f2ced9570aece3ce04a8adcdd7f535ca69ec0c7f61b15a4i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #10"
+        }
+    },
+    {
+        "id": "3152f114398fe426d40db28b20da7d9897ad1f271692b042f960c65173213d22i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #11"
+        }
+    },
+    {
+        "id": "854bdd77f1f623d31ae4ca50a4d5a6895d733bfbe954b3e0e885ba97ed43b819i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #12"
+        }
+    },
+    {
+        "id": "59e9677038e752a82027b7e528d8cb01cdb9646f9851900e2a263075d0affb3bi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #13"
+        }
+    },
+    {
+        "id": "56a7104b37695c84a8c6bf35cc354ccfad6b54ab4a7d1fa7d3036a0622f7398ci0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #14"
+        }
+    },
+    {
+        "id": "72e6b708e85fe7ef11ddb37b54ed8b118fe748c8f5d3c68944074a31e1322b43i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #15"
+        }
+    },
+    {
+        "id": "aa3d8b9dcc2f8f96aba282a8da3c76bb8808c2b69a249ac637fe9419890bace8i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #16"
+        }
+    },
+    {
+        "id": "a30aa3897d1387f687e93c08236385622a9386b41805bcd00088f898385b5ceai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #17"
+        }
+    },
+    {
+        "id": "42c91723fd720930d493df5253d9850834f05da963b8dbde105d44bc377abaf3i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #18"
+        }
+    },
+    {
+        "id": "5215dcc049c28d319637fc437d58cbb1bab255edf115f8970727fe789d92a481i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #19"
+        }
+    },
+    {
+        "id": "51f6daebf15ff740eedf06b8470d2c8a38a28f56a75bb048ed50cd113af57af8i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #20"
+        }
+    },
+    {
+        "id": "47c86cf815b47be66635552ffad6ecac536c14efd5921548da20819731129edfi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #21"
+        }
+    },
+    {
+        "id": "4deb8ec98f3a8f31771a4d137a5405186ce44f9a757033c509e61c083af7cb2ei0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #22"
+        }
+    },
+    {
+        "id": "84e555efe0e1f92a3a654da129c27d079209ed8ec4f72386f7249205e147c444i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #23"
+        }
+    },
+    {
+        "id": "70e758ec8bd15383e3dfda2beb824d9afcfb87a239613d78ddf14028f06a96e3i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #24"
+        }
+    },
+    {
+        "id": "7b0e915299649352fdce8b5e4c162aeeb3b01b53121b489eac1eee3ad01fd550i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #25"
+        }
+    },
+    {
+        "id": "f5f8fe8d06a60ebaca4b44c0874522b16e71d18b2ac0570891b2b77e45f6f2d7i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #26"
+        }
+    },
+    {
+        "id": "519ee39fff54c5f8f6ddb00d9e9dcc11f4098740a4bdf82e8ff0113591cf4d0fi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #27"
+        }
+    },
+    {
+        "id": "c297915995fc47cb0c87ead605b850436850dd1ece0019eb4bed8adf79233db2i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #28"
+        }
+    },
+    {
+        "id": "e849dd1703b337f6925cde120648c975b82726d572eda5a9abdf4a3d5df65a2di0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #29"
+        }
+    },
+    {
+        "id": "13954ea9ccbbf57a9eb9399beac1b594b793b9857b477901875085a7584b0ce6i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #30"
+        }
+    },
+    {
+        "id": "11b1baa23dd4321d23ef682d65cefcff27b5b47844c7f12f4fe73f99b142f359i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #31"
+        }
+    },
+    {
+        "id": "35f94fbaf9cefdf1995d82a7763b85db04fa6b30bac3681ea7325ad55e330d1ai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #32"
+        }
+    },
+    {
+        "id": "5e68c7ac05f3de5d1ff6d451acf935d33a990cc51849e1525f8b4e704d7d3500i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #33"
+        }
+    },
+    {
+        "id": "68da61ff06a70d6dc83191a566efbd655361e2e73eba72ed3cfe64352cb65ac7i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #34"
+        }
+    },
+    {
+        "id": "73670ea396b928b40dc8b3c86c1134d3b82a99d6d9efe8765e388ad7c5b60288i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #35"
+        }
+    },
+    {
+        "id": "dfc54b6a1ddfb50ecc80cd053f68e579cddd3e424a996e5d71e306c79b60d598i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #36"
+        }
+    },
+    {
+        "id": "c87566034ce89ba9a7a50ca9710deaf1a241dfaad709f9a7f9e64e0bd2c2978ai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #37"
+        }
+    },
+    {
+        "id": "cc8dcf6bb814c90a6b59c9df03edeff3ce9cc1f5086f74091c0a25b4d095b221i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #38"
+        }
+    },
+    {
+        "id": "539dc094653eb9a2aa9371d72759ea8133c6a2f3f4a4d59dd3b76426055bf532i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #39"
+        }
+    },
+    {
+        "id": "5d65a95dec43594e877336effaf7a084205d342980d775f1dc4ad9f7b7a6be9fi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #40"
+        }
+    },
+    {
+        "id": "f1bb222ade74ac620a0380a9835475af680c4bf2274aa5c189cc363fa2ad8fa4i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #41"
+        }
+    },
+    {
+        "id": "db5b9fd284cf213adb1a0a59eb6f93c00ec58d741afb5ae41c48326e5c01e96fi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #42"
+        }
+    },
+    {
+        "id": "72831537437d7c4ece7ff1a76b2fed7dfce310b19ff8abc46e9d3532def7ee6fi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #43"
+        }
+    },
+    {
+        "id": "cb2f0e11c3950464444dc3bbcd404e8060f0de06140bb7713fd18757c4775261i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #44"
+        }
+    },
+    {
+        "id": "589fd1d6507bdc78671fdd526e090462b101ad4afe9d11692604ba70d969e4aci0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #45"
+        }
+    },
+    {
+        "id": "a0bd2fed8a96440f32bcffa96ef7feef822bb12480620a82fce562d1471a5070i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #46"
+        }
+    },
+    {
+        "id": "b01c3b28febb6e3d9721cf6902b45e0ac6158178c2b68188ee748b8df657bf49i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #47"
+        }
+    },
+    {
+        "id": "e06a9bb06133cc7275f4030c6fa299a2027d56b83217802679d16282747e3a16i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #48"
+        }
+    },
+    {
+        "id": "564ecb2ebf92ee03ec7a9255ce2de45a368389be4e2abfcebe7664a4f3100d57i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #49"
+        }
+    },
+    {
+        "id": "cbe14a855c606c4ad0b92fd36c34be19158063311528d3e4f1677806159c7333i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #50"
+        }
+    },
+    {
+        "id": "9f281485e02e64437fe41720b5157c9cac49babbf83a9dd04eb8a01d2fdfb12ci0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #51"
+        }
+    },
+    {
+        "id": "75bb26a47faf45e67724f1645a8aa079a19c35b44adfe6e93cec5dd76fc4e7e3i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #52"
+        }
+    },
+    {
+        "id": "0f857889a930eae63a52c28538aad9b547a797159a797cc455997e09d9b81d85i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #53"
+        }
+    },
+    {
+        "id": "d993d5d64ae422a9e6881a5578ecced89f5124f00b453fcd64f604b3e0132a6ai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #54"
+        }
+    },
+    {
+        "id": "c666b358c2181c1475460cb33c3f895b5b19ee600527b0f68d6a9167eaf8c62ai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #55"
+        }
+    },
+    {
+        "id": "6990db673aa409e9cfcb44edb550b5a1017867dd9f4e2272f3a5a2c4b7ebbfcei0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #56"
+        }
+    },
+    {
+        "id": "53142af0b09dd3b049d351df11e24fb1d613a505415cefa20eb2d4d339dec2c5i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #57"
+        }
+    },
+    {
+        "id": "8c0ae3b42d89da8e87f549d7e17e33c5b119cc22b3a16fa9ebd34e842d87c792i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #58"
+        }
+    },
+    {
+        "id": "84233b875f1be5fa0f702b5b43a35804dd5373ba2418c63559d38d81f984012bi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #59"
+        }
+    },
+    {
+        "id": "c49d51613b237ef93589c18a6e0df7a251668855a4e07b422e7011be69eec135i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #60"
+        }
+    },
+    {
+        "id": "82dd0c01ece953154a4f0a5ccc9a4c4f69bd6d50d67aec84a5bb4a98c78d2fe7i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #61"
+        }
+    },
+    {
+        "id": "bd59e7ae6e110fcb7e11e198dc0b928547fc0b5081493225c09c0b22a4e124b7i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #62"
+        }
+    },
+    {
+        "id": "feb1a984d15141b7ee1018d80857cd930d5fe29236470057e95523ae066abddbi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #63"
+        }
+    },
+    {
+        "id": "57e80bb720681510a55c87fb711332ac811743a7dbbbf39e6ea72934c8762ba0i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #64"
+        }
+    },
+    {
+        "id": "78df84a7e66cd4fe3952fa6624544dd716408f47a41e7fa51bb4db656590907di0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #65"
+        }
+    },
+    {
+        "id": "7a8006d1219052472eb4e02c7a2865c70b60fe710a8bc6205b0e31ad07b3587ai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #66"
+        }
+    },
+    {
+        "id": "9a96e9952d8037f6f96347c309dca01b3e9639fd8ade3828e051e84e915f3d92i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #67"
+        }
+    },
+    {
+        "id": "c28698ef4e9edc53a9ffec5f327ce79efe73684c7f35d1012027dcf229ddd628i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #68"
+        }
+    },
+    {
+        "id": "fa9d934c9f42720440fead837957ddf70faf9807498e790395a17245ec613769i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #69"
+        }
+    },
+    {
+        "id": "ff2cd6a7b228b5c9b25c82e049b24f068e2a1383997f20431d0f3dfb4fed4704i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #70"
+        }
+    },
+    {
+        "id": "091be5493da029ef6ec59997ad02387ee050c6c89855bc179ec38f3f375465c9i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #71"
+        }
+    },
+    {
+        "id": "414a4e227a9343549ceb25b0c82f773d484fad7db20508af47cf9d28cca21216i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #72"
+        }
+    },
+    {
+        "id": "f2c86672bd1e5dc83db243c152c0fed295e4d4c2c658cd90fe9df010029424d2i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #73"
+        }
+    },
+    {
+        "id": "0df600ef6b90fc6f845855fc220e390f5068171370a2d7ef056bff17c5d4e9bdi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #74"
+        }
+    },
+    {
+        "id": "7f054ec38d7052ead463485e527b285f1bbc5e5206043d68a95391f2b5952407i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #75"
+        }
+    },
+    {
+        "id": "a3725964e1e6ec7f4a1d698c9b27ddd0d3febe961295eb2161a71deb1ecb0971i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #76"
+        }
+    },
+    {
+        "id": "1d272afba5ce5ac9ba3e55e66400cefe1317ed2f903ca932afd46ab9a735ce00i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #77"
+        }
+    },
+    {
+        "id": "520f31c2ddf20ba6b1e7cc9bcdd3dd02b733d9738895b66fd585b23ca74c3263i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #78"
+        }
+    },
+    {
+        "id": "5e04c3debc6f72dc110eedcaab8d9549df7e5edbf11d9458df949978ce5c427ai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #79"
+        }
+    },
+    {
+        "id": "d40c4847758d0073e85c67f7eb8b942619d5ab1c60adddc92e697f56b9d79079i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #80"
+        }
+    },
+    {
+        "id": "4f3d48737c1966e9ac7491a99c65bb90691972e8b08b8074f026cec6bd937dbdi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #81"
+        }
+    },
+    {
+        "id": "1f2afdef1af1bac2174b9adffd10e0b5db06235dd35e8a4448413ad8821f8182i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #82"
+        }
+    },
+    {
+        "id": "cef643f18093f3fa52ae1f64c2b3c6b80706a9bffcebaa94aa29c343b3a3cb1bi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #83"
+        }
+    },
+    {
+        "id": "b8a6262603595f7db49800af71d52a31442eeca1d2bf57ad85fa24e3bd132cf0i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #84"
+        }
+    },
+    {
+        "id": "e72d047d6f41e0ad23e28918d7f494c832d135bc8bb12144e21bd3a2a07290cbi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #85"
+        }
+    },
+    {
+        "id": "34de4de63cccdffde5ef6bfdd3d3a71da73b1664a85fce3360ad8d85a608d049i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #86"
+        }
+    },
+    {
+        "id": "2868accb965acf4e603e5155b2fa6ee3182a5e5978f5d71c5ab008d04829053ci0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #87"
+        }
+    },
+    {
+        "id": "68016b910b6fd441ac1490b24e9e76859eb5a00aae20dafef5b5a12e1265bb10i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #88"
+        }
+    },
+    {
+        "id": "e3e1fd3999ee4c9206a0074c4ecf09172c2dc425383ba3db33c92e9c2e00536ai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #89"
+        }
+    },
+    {
+        "id": "1af88641b56a26aa7e491ef6705c5126c01d2257a459e4200fffb9ce1d19805di0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #90"
+        }
+    },
+    {
+        "id": "761ae585079b6911b78b5cdac1eb1758b6e38b10f628161ea4d5e5c867662822i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #91"
+        }
+    },
+    {
+        "id": "197f51527e2db27c4fe45d09a943c03df5d5cf05c7a2bdbb855b2f87d686eaadi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #92"
+        }
+    },
+    {
+        "id": "83660b37727efc84286980569667591a0b1a42f1b6a7f4c5a8b32b84a8dfba48i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #93"
+        }
+    },
+    {
+        "id": "45da99ef5cc265a1bf85f573c1eedce61084b89c919daffcbb7b167eb16ba8bci0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #94"
+        }
+    },
+    {
+        "id": "7246a4a404bafd31d257a46a82552dfdb5a9808a386c6fe6e72a7790d1316c60i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #95"
+        }
+    },
+    {
+        "id": "72a693be6d2fc73b84f0871636a0dc82bcf73034407c89bb61255f0de6f16443i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #96"
+        }
+    },
+    {
+        "id": "c01820b422220711aa694080fb58cb9c2fb62763e1c5ce8277f1c130cf1ca3fbi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #97"
+        }
+    },
+    {
+        "id": "00f6bf5aa8fedef899e699769cb4728476e74884a0bfcfe849811dbb24b66216i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #98"
+        }
+    },
+    {
+        "id": "ad57d976423ad93afa5baa5473a5a871a55c1baed265a92b08e41caa2256740fi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #99"
+        }
+    },
+    {
+        "id": "50d2bf47c4a95ee82e83593d129efc0af9badf291bff024519a0ad3cb2ba12c6i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #106"
+        }
+    },
+    {
+        "id": "ee4135beff7c5a7d3794597546845dfce2c7eb679f12aa3742596c3bd3ae159ai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #110"
+        }
+    },
+    {
+        "id": "32349e5aed09f04f82d4a32deb0afe2f399cb3bb56f16bb6fb81e792dd2e6d4ai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #111"
+        }
+    },
+    {
+        "id": "723251744ca41df6151ae9ce9e6f5b08436f56b2092c1a5b24fee8a25d183d43i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #112"
+        }
+    },
+    {
+        "id": "8bdf2d14aaa167952b0faa4b5584d6cd80f8f2a34c84a2921b140351c1e387d0i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #114"
+        }
+    },
+    {
+        "id": "5f777c1624422b5670173fafb931de03b5de0955c67f8948f67c13ec6859c6c8i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #119"
+        }
+    },
+    {
+        "id": "82289b572c49b1a8e930b9edbc7c543c50e3bbe2c66c3ff76c91d522d513da3ai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #120"
+        }
+    },
+    {
+        "id": "9b21c7a67235a65c96827856f43be00554e6eb5c24f6ff6e6cac5c88dcc7b706i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #122"
+        }
+    },
+    {
+        "id": "cc3d5168279c79619452274f1c02d8d61d2cf6547f2befe5981b469f0a5c0584i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #129"
+        }
+    },
+    {
+        "id": "8412d883b4f8239cb8e4f0395e5169fb7548527ec3e022b478ac059f6965edc8i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #138"
+        }
+    },
+    {
+        "id": "84628122d38156e24065d5745073f5d456f46c016312c48052e6f11395374ce5i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #148"
+        }
+    },
+    {
+        "id": "537bf3347eb491c346685c34de45b9590dd971f954c9e97c4a94d56538532bb5i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #150"
+        }
+    },
+    {
+        "id": "f775c92b1c33f7def368beb8c45f0b58f8c591b730d2dd0139e804f493402782i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #153"
+        }
+    },
+    {
+        "id": "81c502d9eeac96a55161139531af617d9530563115f2e546761da2147237c7a2i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #161"
+        }
+    },
+    {
+        "id": "9d7369cfac4cf8bba39514081f7f6c6d455b01e65f1b42aaf41827476bcbf9f0i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #168"
+        }
+    },
+    {
+        "id": "3d4dc1c2fa50d80f9091352429dd4bc8abdc9eaa54128ba60366db3836801df8i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #169"
+        }
+    },
+    {
+        "id": "a6d10c9268fb5308690d19572d18feffc8eda0820ec983a577c09f64638d67b6i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #173"
+        }
+    },
+    {
+        "id": "0e26152dabc3603a4fb8e006413934a22396bb38babede8cba05ee8d5276738ai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #175"
+        }
+    },
+    {
+        "id": "2c2e71db5dbea0ae2a4594aa8c4c5c11ac1968bc9c90a4750c44ba732adb3423i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #178"
+        }
+    },
+    {
+        "id": "f2f1f6490ebca6a4d2f3af791f44c0d3754c885aef30ce5f38744a1497e58831i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #182"
+        }
+    },
+    {
+        "id": "ac358d903139367619c5a32bb0414cb2a3ca391fa8319a65b6e223a71d09db6di0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #184"
+        }
+    },
+    {
+        "id": "e71cec087bd3084823386e874f81225eba5e3d6884e7ba66468247d1c2811862i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #186"
+        }
+    },
+    {
+        "id": "eb8cd9aba96961bc2adba010e5231f8b14ca1dc7c3dd6daae0761c77271f261bi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #187"
+        }
+    },
+    {
+        "id": "d72cba55241eac9b4d53973aed7b2302119cf1388a4f4c99ac261a258ef76f4ei0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #189"
+        }
+    },
+    {
+        "id": "ae4237db69c89afb9f56d7d034510e3941e929f8817a5f64fe10b4f75a6a42aai0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #191"
+        }
+    },
+    {
+        "id": "c7ded3f8501bcda448dfd8da5c1069c144b7a30a93dd48db1f5ecaa9f1ebc751i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #192"
+        }
+    },
+    {
+        "id": "c28859ed27f9f76a96751b233801b641e93f6fb9ca3170f3d6c332fd6df071d5i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #194"
+        }
+    },
+    {
+        "id": "9895a81eb8b0583a4e4aace4368a9e0b15a2b0cd70f72b3de4e4647bf1c622cdi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #197"
+        }
+    },
+    {
+        "id": "c3928fc784a344fcb67a258a7a10c241eaac794fe8996c3bbf19686ec785ecf1i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #199"
+        }
+    },
+    {
+        "id": "86c5440d7494f3603845ee173af8d44fe4f257a7850df9316305d5c4d76c4f1bi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #202"
+        }
+    },
+    {
+        "id": "1cb37785cb3a0ee6933d08d0c761dd62634dc11010cdb9332dc4e1848944c9f6i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #203"
+        }
+    },
+    {
+        "id": "fe0f6901b8f7906d8be1113a623addd4f652f71b2bfd799df4416a4e4c74fb90i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #207"
+        }
+    },
+    {
+        "id": "4dc5c95ed0a7f120f8dd59155774a33f24ee99cfa0fb93176043cc47f9958fd2i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #212"
+        }
+    },
+    {
+        "id": "16eb47d4aa271026711727ee44247fb257d4b66933e17e1d3de33c42cb538e6bi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #213"
+        }
+    },
+    {
+        "id": "e488c35ef5968b2d874a6084c593dfa7499b0e356a9ac2ca9a0e055ee9440907i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #217"
+        }
+    },
+    {
+        "id": "cac9492a8a534ea9ae71c00fd11e94996f31f99e9c6ba37e850153d9ebb9924ei0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #218"
+        }
+    },
+    {
+        "id": "500b8b4d8c9073c04f745a8bcebe8c9541608976a03c32c9ed17cb44e3452d24i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #220"
+        }
+    },
+    {
+        "id": "1cf074edf41422f67aae2fb9c8013c64f70aa437dab6b1b24498e66865868954i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #225"
+        }
+    },
+    {
+        "id": "06ba054aaec854c15efbe424cd441e9b1fbdb488d85cc31068c6587e4a3ea2dbi0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #228"
+        }
+    },
+    {
+        "id": "3bc89ad86a9ab4ec8868d91895f9913521468bf4ba4691d7126f64b7e66a5914i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #230"
+        }
+    },
+    {
+        "id": "2de31718fcda24b2de830550419d9557bb20cd33c4573e9325be770e726c4a86i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #232"
+        }
+    },
+    {
+        "id": "6d1fcfced010c12c942f902d2d08582628567643f4e4027aedad290f9921684ei0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #233"
+        }
+    },
+    {
+        "id": "76f2ca475ab56d79477781423b94b56e9808597471fd5918aec5dfd050a42d09i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #234"
+        }
+    },
+    {
+        "id": "d994261d75571e80a017224e932e104f492302ac2c8f5563b38a8cbf639a9d6ci0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #238"
+        }
+    },
+    {
+        "id": "51fb3ebb41eb14abe295c1f40014999c154a6ad011ef763eb66ae7a5a790e574i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #244"
+        }
+    },
+    {
+        "id": "f752bbda798fd8d1a0a0aa4b0aa34e5a079f356b7cbf1d86d1d5b9f14195d524i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #247"
+        }
+    },
+    {
+        "id": "00f9f091a74828932c369a720ad3d18c693fdc8248b774952d2632bddab02205i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #249"
+        }
+    },
+    {
+        "id": "b0b2311e6a40ce19dec5d44774194e42f7399c85a657a98bbb4c0e507f625187i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #339"
+        }
+    },
+    {
+        "id": "d21e17a5922145cc8194b380a3e746c657ecd65f2f282d33115cb4e138c9f7f3i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #438"
+        }
+    },
+    {
+        "id": "8b1d573ec5cc3561504550938346ff8de2a47ec841fa223500bd4ca8ab968c96i0",
+        "meta": {
+            "name": "Inkara: Anime Renaissance #455"
+        }
+    }
+]
