@@ -2218,7 +2218,7 @@
     {
         "id": "f16a067d5d81c8a8262bfa5aedff2f3e79a996ec62c31150e801c464d67a7cbfi0",
         "meta": {
-            "name": "Mor\u2019gath",
+            "name": "Morgath",
             "attributes": [
                 {
                     "trait_type": "Planet",
@@ -2242,7 +2242,7 @@
     {
         "id": "590358a4a3ff4e7caeb26ac2175db73f119241136035caccfd8696092bb30bdai0",
         "meta": {
-            "name": "Xy\u2019rathor",
+            "name": "Xyrathor",
             "attributes": [
                 {
                     "trait_type": "Planet",
@@ -2266,7 +2266,7 @@
     {
         "id": "9cb5f8b38b5428098715c2d912daa5b3d30c3b185598ba48a86c22f2e8139e19i0",
         "meta": {
-            "name": "Vak\u2019raxx",
+            "name": "Vakraxx",
             "attributes": [
                 {
                     "trait_type": "Planet",
@@ -2288,7 +2288,7 @@
         }
     },
     {
-        "id": "446752fade53c83d7e95acf2371565d7453414ac7876133e2b2cc87e8f56feffi0",
+        "id": "06a517cc6e3ad4480aead0e5fd9d6920287630b9c7a83504d40a64008cc0a005i0",
         "meta": {
             "name": "Letox",
             "attributes": [
@@ -2311,6 +2311,30 @@
             ]
         }
     },
+        {
+        "id": "06a517cc6e3ad4480aead0e5fd9d6920287630b9c7a83504d40a64008cc0a005i0",
+        "meta": {
+            "name": "Msal",
+            "attributes": [
+                {
+                    "trait_type": "Planet",
+                    "value": "Necrofera"
+                },
+                {
+                    "trait_type": "Power",
+                    "value": "the Wraith Serpent, a spectral predator with a skeletal visage and glowing eyes, drifting through crimson skies, haunting desolate realms with its deadly silence."
+                },
+                {
+                    "trait_type": "Rarity",
+                    "value": "Check OpenRarity Rank"
+                },
+                {
+                    "trait_type": "Quote",
+                    "value": "\"I am the harbinger; my wings shadow your fate.\""
+                }
+            ]
+        }
+    },
     {
         "id": "59b2597c427443614207094803373ef0fd85eed056b0a829fd42aeef8ca5c718i0",
         "meta": {
@@ -2318,7 +2342,7 @@
             "attributes": [
                 {
                     "trait_type": "Planet",
-                    "value": "Gourdlok"
+                    "value": "Jacktus"
                 },
                 {
                     "trait_type": "Power",
