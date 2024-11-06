@@ -592,6 +592,22 @@
     }
   },
   {
+    "id": "2dcced02473012bbab227e444329afa4efb7a8057f91946edae0b659cffae214i0",
+    "meta": {
+      "name": "OP_CAT GENESIS 💾 #177",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gold"
+        }
+      ]
+    }
+  },
+  {
     "id": "882abb032688fce59891fc25df6e03e976da8322ef2d98606dab6c8249a1b3e8i0",
     "meta": {
       "name": "OP_CAT GENESIS 💾 #178",
@@ -819,6 +835,22 @@
     "id": "8f1b63d713b896f33dcc3821c0eac15d21faeb05db047f18d3d62295b2e92625i0",
     "meta": {
       "name": "OP_CAT GENESIS 💾 #321",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Commun"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f227ad8b3142d2e5b19a48ab34a44abdb85eb54c52c8307578f808c9eba9d393i0",
+    "meta": {
+      "name": "OP_CAT GENESIS 💾 #322",
       "attributes": [
         {
           "trait_type": "Rarity",
@@ -1072,6 +1104,22 @@
     }
   },
   {
+    "id": "8400639e0540e05204a3d0dfb8e3866d81d43dfe352ca65e53ab8553db276e14i0",
+    "meta": {
+      "name": "OP_CAT GENESIS 💾 #421",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Commun"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        }
+      ]
+    }
+  },
+  {
     "id": "8ec280200e1eb583550deedf8f45dda0abd6db5fc33d3d929b45a9b256252ef9i0",
     "meta": {
       "name": "OP_CAT GENESIS 💾 #422",
@@ -1091,6 +1139,22 @@
     "id": "8a7e514536fdc80635641f211035d163fd295c3faae671faec64f825c364951ei0",
     "meta": {
       "name": "OP_CAT GENESIS 💾 #426",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Commun"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d58801fb4099ab0b18c750124f9755ef4e701bc99761517475ec7536014b5f4bi0",
+    "meta": {
+      "name": "OP_CAT GENESIS 💾 #427",
       "attributes": [
         {
           "trait_type": "Rarity",
