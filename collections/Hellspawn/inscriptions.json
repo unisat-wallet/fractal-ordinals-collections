@@ -122,7 +122,7 @@
   {
     "id": "2408082cd4ea0ff218e65cc2cfc67f0e48a89f3d24a83d733ea35b0517cc5792i0",
     "meta": {
-      "name": "the Shy Guy"
+      "name": "The Shy Guy"
     }
   },
   {
@@ -183,6 +183,90 @@
     "id": "5bed92155db61beb7d77a64ea03c2c42aefcde9a46905f0f68c83a5402b9d480i0",
     "meta": {
       "name": "Tengu"
+    }
+  },
+  {
+    "id": "d712ab2de40fed51a0853e5d79f35f9b52740ef4e659d3e807a117db31f40e00i0",
+    "meta": {
+      "name": "Piasa Bird"
+    }
+  },
+  {
+    "id": "dce96a7ede50691b904f3d9f75cde659477c26dd40bf9b24a22adcc7c56b0754i0",
+    "meta": {
+      "name": "Flying polyp"
+    }
+  },
+  {
+    "id": "700d87b7c17cd41cf934a0451b812e8e69add435c1d873049986a549da8a6504i0",
+    "meta": {
+      "name": "Kushtaka"
+    }
+  },
+  {
+    "id": "38e82418b141f5d0da144e3331a56390a35bbbbc8921adf7888fec9b9db96f50i0",
+    "meta": {
+      "name": "Caim"
+    }
+  },
+  {
+    "id": "9ea336a7982211bcce9e44e9c49c356ed654a917815991439e7872e8681a9334i0",
+    "meta": {
+      "name": "Shuten-dōji"
+    }
+  },
+  {
+    "id": "00ca6a09e224c310719ae1487986082ab1bef32eedc265bd31d19e2d7ef4ff5fi0",
+    "meta": {
+      "name": "Old AI"
+    }
+  },
+  {
+    "id": "2abedfd31d1d0cee7e2c6b5d34ac30927131ee6f990568dd69c7ad2167378392i0",
+    "meta": {
+      "name": "Lilith"
+    }
+  },
+  {
+    "id": "c9a2a74c13bde08a34be62c5ac5f0e8693e080c36d196b6d13c071512d9be9e8i0",
+    "meta": {
+      "name": "The Loveland Frog"
+    }
+  },
+  {
+    "id": "1f7d55bb623797d00ba126fb766ab9d341d35b19804dcf14c41ff9464d2a513fi0",
+    "meta": {
+      "name": "Amanojaku"
+    }
+  },
+  {
+    "id": "c325e1c39ee7301ec8a65071d58a56be0f9e75e190fd398377dc903ddac51041i0",
+    "meta": {
+      "name": "Andras"
+    }
+  },
+  {
+    "id": "0d501b291fa9f6131694ac4976d082b40b93daaf3536227c92d7188ba71b42a5i0",
+    "meta": {
+      "name": "Cthulhu"
+    }
+  },
+  {
+    "id": "7e687ff179f2d67e6991ccd608993cd067ad9711f1a5ebc200ac6ec7704339f2i0",
+    "meta": {
+      "name": "Tsathoggua"
+    }
+  },
+  {
+    "id": "b265a5f392749ce48185f5dd5adf3685e1fb3924eea2bf1c1d1bb96f2d1e2aaei0",
+    "meta": {
+      "name": "Onryo"
+    }
+  },
+  {
+    "id": "408f75df2a4b67199fa20ebc8b83a026e77ffa87375a7eb1a1884534b5f6ee10i0",
+    "meta": {
+      "name": "bodysnatchers"
     }
   }
 ]
