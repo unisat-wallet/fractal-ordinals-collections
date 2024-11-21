@@ -1,9 +1,7 @@
 [
   {
     "id": "3fc4c8accc077fb7ff1294ed5f40aa9f839adc34a4db06ae5aabe97260634dfei0",
-    "meta": {
-      "name": "NFT #40014"
-    }
+    "meta": {"name": "NFT #40014"}
   },
   {
     "id": "aee6a06e24a60aceac78439cb18b6a615814cff02d7800f3a6caffba70837f09i0",
@@ -331,14 +329,10 @@
   },
   {
     "id": "7df55cc2a90027d50c1f117ef0f9b66dfa4d4afee9e81f96c61819603dc55d4ai0",
-    "meta": {
-      "name": "NFT #63497"
-    }
+    "meta": {"name": "NFT #63497"}
   },
   {
     "id": "18ae4989037def548d2ac95c10d5e59f7327640ee535909d083be9089677d0c8i0",
-    "meta": {
-      "name": "NFT #95908"
-    }
+    "meta": {"name": "NFT #95908"}
   }
 ]
