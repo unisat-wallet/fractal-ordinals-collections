@@ -1,8 +1,9 @@
 {
-  "name": "Latin Sub100K",
-  "inscription_icon": "https://i.postimg.cc/fL7G6ZjS/Mono-Bitcoin.jpg",
+  "name": "LatinSub100K",
+  "icon": "https://i.postimg.cc/fL7G6ZjS/Mono-Bitcoin.jpg",
   "slug": "LatinSub100K",
   "description": "Latin Art Sub100k, this collection was organized by Mexi. He helped onboard artists and helped them mint their art before we crossed the first100k ordinals created."
   "twitter_link": "https://x.com/meximalist",
+  "discord_link": "",
   "website_link": "https://mexi.wtf"
 }
