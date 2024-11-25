@@ -1,5 +1,23 @@
 [
   {
+    "id": "e9bf09eef9604e5b0d123303bad9f10e7cd90096cfec63a444ca78929fdc5a7ai0",
+    "meta": {
+      "name": "Fractaglizzys #1"
+    }
+  },
+  {
+    "id": "fadd9adcbc067810c7930abaef000e6e74b17a84056bc3ad4240ebe0fa016b58i0",
+    "meta": {
+      "name": "Fractaglizzys #2"
+    }
+  },
+  {
+    "id": "e84eaa3c5903fce717536f539c7d21d3c98e9a9f83ffed22636587ac5e620de4i0",
+    "meta": {
+      "name": "Fractaglizzys #3"
+    }
+  },
+  {
     "id": "2d72b65b79e27d5a510fd13730066b901f2667709b3cb788d3110041bbf83e8ci0",
     "meta": {
       "name": "Fractaglizzys #4"
@@ -15,6 +33,12 @@
     "id": "1f78862ea9439f7e82520caf6a005fa0cac85e141bafd2452e013d063080ea41i0",
     "meta": {
       "name": "Fractaglizzys #6"
+    }
+  },
+  {
+    "id": "666efeb4c921985edafbcce3d01006ced4ebdc8bdc0f0abf7c461d2ccadc3bf2i0",
+    "meta": {
+      "name": "Fractaglizzys #7"
     }
   },
   {
@@ -42,6 +66,42 @@
     }
   },
   {
+    "id": "f98550506f381353199ac12233399b9c71ced6a68f8dc296ffec9f17df240bd0i0",
+    "meta": {
+      "name": "Fractaglizzys #12"
+    }
+  },
+  {
+    "id": "6d12da5ee501a9196c35e371c0a28efa7cbd379da9170d9bd1be302300863fc6i0",
+    "meta": {
+      "name": "Fractaglizzys #13"
+    }
+  },
+  {
+    "id": "57114d0baf1cc61790ad58e9adf7d7cb99391669f5e97a74e412b1900599cc2fi0",
+    "meta": {
+      "name": "Fractaglizzys #14"
+    }
+  },
+  {
+    "id": "b0f4e141ed4ca48dccb9bd92708eadb1df80ccd30d6f906a66295727d7a4e39fi0",
+    "meta": {
+      "name": "Fractaglizzys #15"
+    }
+  },
+  {
+    "id": "3d8e724bf1fe019aeadcc52c978ede724d3c93401ad5dbf3885ec9bb48ffae7bi0",
+    "meta": {
+      "name": "Fractaglizzys #16"
+    }
+  },
+  {
+    "id": "a6215bae16ed5406f5cb4ae846f950b3e869d55519b903f10c5af5bb57506027i0",
+    "meta": {
+      "name": "Fractaglizzys #17"
+    }
+  },
+  {
     "id": "accd927019fe6186e1e9744ad8c605e8089ea5284596b556230106b56dd552dbi0",
     "meta": {
       "name": "Fractaglizzys #18"
@@ -66,6 +126,12 @@
     }
   },
   {
+    "id": "197fcc05367c82fdaf76aeb0f660885e5821e8b6fa564f992d029c9cca3d22f0i0",
+    "meta": {
+      "name": "Fractaglizzys #22"
+    }
+  },
+  {
     "id": "3b736954530a159836acd087e6107b8de35080ee14d7c24f9decca0fb064a050i0",
     "meta": {
       "name": "Fractaglizzys #23"
@@ -78,9 +144,63 @@
     }
   },
   {
+    "id": "2606052bffd978788d881bcd4b2225b01a0c3f056f0d0c56cd833b11f0e1f558i0",
+    "meta": {
+      "name": "Fractaglizzys #25"
+    }
+  },
+  {
+    "id": "c677182837659a5e128d4dc99cc9914cd9538a5e2205d352e14e02f4498fed9di0",
+    "meta": {
+      "name": "Fractaglizzys #26"
+    }
+  },
+  {
     "id": "8d6786ec0989fdbaf3d6aec2515618b86c9852dc99f7566ca9fbcad1b9602cf5i0",
     "meta": {
       "name": "Fractaglizzys #27"
+    }
+  },
+  {
+    "id": "567b80b103eff439bca9d6ee2caf067a144b60229f8d7a6de8cab9687e33b0aei0",
+    "meta": {
+      "name": "Fractaglizzys #28"
+    }
+  },
+  {
+    "id": "45a0705843db22460c131598a891373be86bbbff92ce8cb37e6d358ca165cc07i0",
+    "meta": {
+      "name": "Fractaglizzys #29"
+    }
+  },
+  {
+    "id": "f5758d4ad050419c9ff379cd6c79264441baec34033393a6c61384602c7f7bd2i0",
+    "meta": {
+      "name": "Fractaglizzys #30"
+    }
+  },
+  {
+    "id": "1d5bb9299477f017d33e50e96688ffbb544175b7d6b51da869b7622796c42813i0",
+    "meta": {
+      "name": "Fractaglizzys #31"
+    }
+  },
+  {
+    "id": "cd2fa9ae3debddd6e6e8c96106e0157b1b02e095bc133111685e918100d67d02i0",
+    "meta": {
+      "name": "Fractaglizzys #32"
+    }
+  },
+  {
+    "id": "32bd7c555e33c0e6f3ed2b61f4d5c795b56a134aba0dfe3087e3b4f9fa0d4f20i0",
+    "meta": {
+      "name": "Fractaglizzys #33"
+    }
+  },
+  {
+    "id": "fdbcfa7b0dbc21eaef9a082873583821547ec707eb0fa90f2c65e01bf094a8a6i0",
+    "meta": {
+      "name": "Fractaglizzys #34"
     }
   },
   {
@@ -96,15 +216,51 @@
     }
   },
   {
+    "id": "80f9a1915408f734e073beb5f9078fe23e648b4d2571104bd05d9afef19f2438i0",
+    "meta": {
+      "name": "Fractaglizzys #37"
+    }
+  },
+  {
+    "id": "20d3a2722e6b70f5ec2d2e86ec8dea849e645ecf18e013404f16f35f1ef0de48i0",
+    "meta": {
+      "name": "Fractaglizzys #38"
+    }
+  },
+  {
     "id": "c6fa203d00132b4b42e0ec1fcbd9f90e441e9cc616f2bc31f4a4ff313e33ff52i0",
     "meta": {
       "name": "Fractaglizzys #39"
     }
   },
   {
+    "id": "97687d7ab23c53d162465bd3c8a99aabc09de0e872ef1fb2d391665bcb099abei0",
+    "meta": {
+      "name": "Fractaglizzys #40"
+    }
+  },
+  {
+    "id": "db9c78027fa7c254e34c966c4f2489c961c7584018b8fc40f2633671c9b5bd52i0",
+    "meta": {
+      "name": "Fractaglizzys #41"
+    }
+  },
+  {
     "id": "b839e7327cb9d5878c172fa9e09b8dba405da6ea8a0baf99a51f9f1b6a2c5580i0",
     "meta": {
       "name": "Fractaglizzys #42"
+    }
+  },
+  {
+    "id": "ed8037715f254f1e79cf99fe351b12078b25d0c4ca7c67503c57b6c7f53d05bci0",
+    "meta": {
+      "name": "Fractaglizzys #43"
+    }
+  },
+  {
+    "id": "75018a40dd927b5b518164afd9ec90e6ede75a0fc9ddcf12657b1e58730eddb0i0",
+    "meta": {
+      "name": "Fractaglizzys #44"
     }
   },
   {
@@ -120,6 +276,30 @@
     }
   },
   {
+    "id": "771fb3afad3d98d59d4171d7e0e683676217c8dd35fe7959e6e48fb19da04764i0",
+    "meta": {
+      "name": "Fractaglizzys #47"
+    }
+  },
+  {
+    "id": "6f328402dc370b0502237ceebe693933adf33371167ed7d66285e68ad47a36d4i0",
+    "meta": {
+      "name": "Fractaglizzys #48"
+    }
+  },
+  {
+    "id": "b60c957359f2da1d170c0252eafbab3768bcc06efe6535e017eac8e79cf972b6i0",
+    "meta": {
+      "name": "Fractaglizzys #49"
+    }
+  },
+  {
+    "id": "6ca67c6bc9061fd6043f15ffeeec84e8b10c8839dfbea926eea43782b4111a53i0",
+    "meta": {
+      "name": "Fractaglizzys #50"
+    }
+  },
+  {
     "id": "7002e3d1fe99af8550ff8fcd320df337654e63be0b54f9bff2202c3bdfa8ec6fi0",
     "meta": {
       "name": "Fractaglizzys #51"
@@ -132,9 +312,21 @@
     }
   },
   {
+    "id": "49fc30365288e99a93afd769b00409a18724798ca1a061d243ff8bf5a665227di0",
+    "meta": {
+      "name": "Fractaglizzys #53"
+    }
+  },
+  {
     "id": "b74e8eedf5f4ab7edb0ea630df5c6bbc0cb8279f3c95e9b580528d03c7828f05i0",
     "meta": {
       "name": "Fractaglizzys #54"
+    }
+  },
+  {
+    "id": "39f3b1f81ecf30ddf770d31fed9c20a9f36bced5535583264363c38f00d6ed0di0",
+    "meta": {
+      "name": "Fractaglizzys #55"
     }
   },
   {
@@ -150,6 +342,18 @@
     }
   },
   {
+    "id": "46de76b43ffba02ff53b6a0a7e20ed3701ee37f2a90fae6d5e3a2589f42a3ec8i0",
+    "meta": {
+      "name": "Fractaglizzys #58"
+    }
+  },
+  {
+    "id": "99c8dc079db3daa3f9ae70a2a2ffde0e8143deb47704eec457f3613886b8f026i0",
+    "meta": {
+      "name": "Fractaglizzys #59"
+    }
+  },
+  {
     "id": "e2e82fa5e18755ab2fc1c51e2431b8666ce1e3eca63bd7cf76c313c5a4e80ee0i0",
     "meta": {
       "name": "Fractaglizzys #60"
@@ -159,6 +363,12 @@
     "id": "53dfabf445d8e222da65d61814f1eb9d44bece9fb95c57715977e36dc727ba09i0",
     "meta": {
       "name": "Fractaglizzys #61"
+    }
+  },
+  {
+    "id": "88f17bf8242f745c96a0d40cb7777e453c25e807205a08d4fb6b3dde8ea11ec4i0",
+    "meta": {
+      "name": "Fractaglizzys #62"
     }
   },
   {
@@ -174,6 +384,12 @@
     }
   },
   {
+    "id": "9414d7bda88df4d1e9f0a0185e6008194f9d3bd467f63b29f07bc593262d506ai0",
+    "meta": {
+      "name": "Fractaglizzys #65"
+    }
+  },
+  {
     "id": "254b21e5458d2d025e47cbe399d748c710cf31cc02325af6ffac2335e9a2fafbi0",
     "meta": {
       "name": "Fractaglizzys #66"
@@ -186,6 +402,12 @@
     }
   },
   {
+    "id": "13e03632725104b268f7fc23bf848613862a95887f4f08b2cbe824acf8c73228i0",
+    "meta": {
+      "name": "Fractaglizzys #68"
+    }
+  },
+  {
     "id": "9f59973a319d871834787b92846a211d967d7d382be7322100af17d75380737di0",
     "meta": {
       "name": "Fractaglizzys #69"
@@ -195,6 +417,12 @@
     "id": "1e176f49c6d440e9c08e27c3ade709855dbf070aa858ddfbad7c50b582d17de0i0",
     "meta": {
       "name": "Fractaglizzys #70"
+    }
+  },
+  {
+    "id": "bc6975af37651080cd0c155363e680dc40b8bedbc135bdc54d515b6030b77c23i0",
+    "meta": {
+      "name": "Fractaglizzys #71"
     }
   },
   {
@@ -234,9 +462,21 @@
     }
   },
   {
+    "id": "c8efe80c8393dd884d56e4344ba7a0f2cd92c45ca00fcf49fb4fb0fc6b22f527i0",
+    "meta": {
+      "name": "Fractaglizzys #78"
+    }
+  },
+  {
     "id": "dddd18c0ef990c6f851d5478bb3de8945214166e1c1256f0acff13ef6eb771bai0",
     "meta": {
       "name": "Fractaglizzys #79"
+    }
+  },
+  {
+    "id": "775a15e08a8097e66d4f6533e38ecc7823d87c350398fd1ec8ff953dfcd38618i0",
+    "meta": {
+      "name": "Fractaglizzys #80"
     }
   },
   {
@@ -294,6 +534,24 @@
     }
   },
   {
+    "id": "e2a3d3beccc6aa26b296e0dfe5aae8fb2dadcf9ce24a808a1d92aa081eee2120i0",
+    "meta": {
+      "name": "Fractaglizzys #90"
+    }
+  },
+  {
+    "id": "bd2ecda77c0e9a1312ef5e482a7d7f4f8b548ff4a98547d0ea038345e56386d0i0",
+    "meta": {
+      "name": "Fractaglizzys #91"
+    }
+  },
+  {
+    "id": "2e02776ec00ccd21ac6b9672ebc6b4e0b57c6a4e09f7d3151b4045c4ee1f3124i0",
+    "meta": {
+      "name": "Fractaglizzys #92"
+    }
+  },
+  {
     "id": "a5ebc42317339eca5418fa0961005c591a3ce9412c99fd63ce62e5c2ff8fb17ei0",
     "meta": {
       "name": "Fractaglizzys #93"
@@ -303,6 +561,18 @@
     "id": "cd36586a90f48096b1345762810b02f059c4794d15b68f88945cd8d282376ebei0",
     "meta": {
       "name": "Fractaglizzys #94"
+    }
+  },
+  {
+    "id": "3580961611b0610d139d241ee46a62d791fe7a9a83987ef68ca9000e4e27a69ei0",
+    "meta": {
+      "name": "Fractaglizzys #95"
+    }
+  },
+  {
+    "id": "a425e7bd1cd9590949bfb860fdd0bcf841105bcd8d096b6c740b32ef96c238c4i0",
+    "meta": {
+      "name": "Fractaglizzys #96"
     }
   },
   {
