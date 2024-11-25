@@ -1090,7 +1090,7 @@
                 },
                 {
                     "trait_type": "Power",
-                    "value": "-"
+                    "value": "Controls shaping it into deadly streams or solidifying it into powerful traps."
                 },
                 {
                     "trait_type": "Rarity",
@@ -2184,7 +2184,7 @@
         }
     },
     {
-        "id": "59b2597c427443614207094803373ef0fd85eed056b0a829fd42aeef8ca5c718i0",
+        "id": "0b5f0c5307d653e13825335ddefb43cef0f6feaff733d6d85aaa01a7967d15dci0",
         "meta": {
             "name": "UniHell",
             "attributes": [
@@ -2214,7 +2214,7 @@
             "attributes": [
                 {
                     "trait_type": "Planet",
-                    "value": ""
+                    "value": "Necrofera"
                 },
                 {
                     "trait_type": "Power",
@@ -2234,7 +2234,7 @@
     {
         "id": "b4b822da336debad7d3478f0197bbbb765df161eaf9990009de772c2b3d33713i0",
         "meta": {
-            "name": "Norisar ",
+            "name": "Norisar",
             "attributes": [
                 {
                     "trait_type": "Planet",
