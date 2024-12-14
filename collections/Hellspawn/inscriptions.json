@@ -656,7 +656,295 @@
   {
     "id": "9d2da7b3383001b1357c851bd562327d820b1f587c308a4a6d9a8e55990c6384i0",
     "meta": {
-      "name": "Hellspawn #29"
+      "name": "Centaur"
+    }
+  },
+  {
+    "id": "55ea5a25cd9a49c07b90ac8c33d616c60b93c4349e8f6a8158b0b8741ec44434i0",
+    "meta": {
+      "name": "Ben Drowned"
+    }
+  },
+  {
+    "id": "e4f8103c36363fa0d761d17e1f238f488044ccd4abfdf455b8fcc03c820fbd1di0",
+    "meta": {
+      "name": "Sekhmet"
+    }
+  },
+  {
+    "id": "f4c58dd280944b91ee9742e3be84c216f1fc0b27425db248cd5c2a11ba6bf403i0",
+    "meta": {
+      "name": "Kongamato"
+    }
+  },
+  {
+    "id": "89a30b156f94bfa9875028d035e9e54654a1361245e38a95938583abeabf4682i0",
+    "meta": {
+      "name": "Dingonek"
+    }
+  },
+  {
+    "id": "338a9690671503542011379008f465302977c85ef4423cd87fcab5dd29f48cd8i0",
+    "meta": {
+      "name": "The Fates"
+    }
+  }, 
+  {
+    "id": "dc9681e7523241fc80f396821bb0466c0c8bd4754984621b4b6d2ba332df3598i0",
+    "meta": {
+      "name": "Baba Yaga"
+    }
+  },
+  {
+    "id": "0fdbba4b5a1a81bcd280cf741a982e20ee151952f5c6eeed261f1d46a6359f13i0",
+    "meta": {
+      "name": "Ithaqua"
+    }
+  },
+  {
+    "id": "785908d6e8dbd6fbd0b24895b887bcbcdc09ad907028a32ee8c2deec4258879ai0",
+    "meta": {
+      "name": "El Silbón"
+    }
+  },
+  {
+    "id": "e88521f0f87f8a4320bdf552e4d08fe9839d45f3fb6fb890543f4fe91f48d554i0",
+    "meta": {
+      "name": "Hungry Ghosts"
+    }
+  },
+  {
+    "id": "a1101ea5e5e1d000cdcc286d6abeb9281074e7cfa482867211896419627869a0i0",
+    "meta": {
+      "name": "MalO"
+    }
+  },
+  {
+    "id": "938e24516aeed28417bfcf1842ebe5321fd83802be72099030eb3a9ad62e7624i0",
+    "meta": {
+      "name": "Globster"
+    }
+  },
+  {
+    "id": "d31bf7ba75deb0541bc6d94d0fcc7eb8d3d523f345fbff4534fd7b3ad43838fbi0",
+    "meta": {
+      "name": "Kali"
+    }
+  },
+  {
+    "id": "9696f99a8e32bab6d0e169fd52f387fa1978020b10e5fa074ff16130450d922ci0",
+    "meta": {
+      "name": "Namtar"
+    }
+  },
+  {
+    "id": "761add866df439c2585f0213cc804ed8995d7aaf9c5a05dfa62a8aeea669724ei0",
+    "meta": {
+      "name": "The Char Man"
+    }
+  },
+  {
+    "id": "222b31f3bfd2aa0c796b290e00523a3aee47ef8383243a110562403c112ee1a6i0",
+    "meta": {
+      "name": "Ah Puch"
+    }
+  },
+  {
+    "id": "5271b153f39b2693f59626a372656d917575d455b5a0ddd572269e6b2d23be8ei0",
+    "meta": {
+      "name": "Kraken"
+    }
+  },
+  {
+    "id": "46e592c7c658fc1f08e52e93c750e2bebe83a5992a9bddb542cf87bbbb552067i0",
+    "meta": {
+      "name": "Bune"
+    }
+  },
+  {
+    "id": "af58dd2ecae31c33d81eb75ae4c427e2d4244f66404a393e49f21c0e623a06abi0",
+    "meta": {
+      "name": "Akateko"
+    }
+  },
+  {
+    "id": "365391e5c853c93c2c3d6ac7646d358daade8b931b02975e2c2f3b1e347221a1i0",
+    "meta": {
+      "name": "Kawa-no-kami"
+    }
+  },
+  {
+    "id": "baffe2987d82ea27534a192115c43e0fa19c5dbb346c5666507959526ce7d752i0",
+    "meta": {
+      "name": "Nosferatu"
+    }
+  },
+  {
+    "id": "8ebe644762e8edff4231fdd90deb1b44202f6791812753a8bb1961b3e4206cffi0",
+    "meta": {
+      "name": "Asmodeus"
+    }
+  },
+  {
+    "id": "dcbdc8a8e81d0842b2c65827224ed8af2d8ea0e8907bf2d6a77ff42af18a9869i0",
+    "meta": {
+      "name": "The Red Room Curse"
+    }
+  },
+  {
+    "id": "0737a1b94cf3191d2d65453c48fe85664b1afd299785f7f3a2ecbf4f0f0d00d7i0",
+    "meta": {
+      "name": "Selkies"
+    }
+  },
+  {
+    "id": "0ee2119ad5d0eda5b41241423b5365b0ab5f22179b7cce85be3d646b923232f4i0",
+    "meta": {
+      "name": "Flauros"
+    }
+  },
+  {
+    "id": "8da34983f0d6e65020f53672ccbbcef61a61ffe0bda4931c8b51f82622c41e5ci0",
+    "meta": {
+      "name": "The Curse of El Muerto"
+    }
+  },
+  {
+    "id": "0dfadb03cf718b13ec74a90e0bd295b60f337ffd1a52a67553f903c8a147edc1i0",
+    "meta": {
+      "name": "Koschei the Deathless"
+    }
+  },
+  {
+    "id": "fdf7971980706f2b62396be06b199f599527b7711c0129d7156d347a60f36a59i0",
+    "meta": {
+      "name": "The Devil's Footsteps"
+    }
+  },
+  {
+    "id": "b043b99cb2998ae6b4d378fe224b128465d14b126c698eaf1edcead643fef39fi0",
+    "meta": {
+      "name": "The Winchester Mystery House"
+    }
+  },
+  {
+    "id": "bdb2f38b565ddf1a5361c7bdd4494c094d7fbaefbfea6102ec701aa9c6d38072i0",
+    "meta": {
+      "name": "Kalpavriksha"
+    }
+  },
+  {
+    "id": "da14d8b2cf14f42695c02066246d5ab8d9fb46eefc3269b597e4e90055f12217i0",
+    "meta": {
+      "name": "Akhlut"
+    }
+  },
+  {
+    "id": "7efee5d88ba2af9885f6d148d675afb9ba2b3eaa2ec2d31575a4f379da0452aci0",
+    "meta": {
+      "name": "The Bunny Man"
+    }
+  },
+  {
+    "id": "640433af8ffe7e6fbcd01d2d5b69072dd4daffb37d7079627a6caa2b7ae27987i0",
+    "meta": {
+      "name": "Laughing Jack"
+    }
+  },
+  {
+    "id": "81b9bd6680f3b188e8f1e3371f1ad781a5b1bb5f4894bc34e8f19b008bd456fei0",
+    "meta": {
+      "name": "Leviathan"
+    }
+  },
+  {
+    "id": "37ac65e767d7585e2e87b1a4e165475c9e76499db63dc155c7d2ea9fbcc706cfi0",
+    "meta": {
+      "name": "La Llorona"
+    }
+  },
+  {
+    "id": "1b284f976399fd64d9c1115f53500898e33d959192510f020207700564d12840i0",
+    "meta": {
+      "name": "Rokurokubi"
+    }
+  },
+  {
+    "id": "32e25b733d214c5c3453b414f1448ad6928a0e3ca9628f9097524c2dd33c069fi0",
+    "meta": {
+      "name": "Stolas"
+    }
+  },
+  {
+    "id": "bffed1207b2e6115aa886c38c883f3bed703265ce5fde39dafd03a9a4cb7a027i0",
+    "meta": {
+      "name": "Duke Eligos"
+    }
+  },
+  {
+    "id": "5ec3e598d5342cb064d35d8a31d2f420ffd6cfd5f6fdf4001fcbcce6d45fe574i0",
+    "meta": {
+      "name": "Ropen"
+    }
+  },
+  {
+    "id": "6ed21a597bb5a8816c140cb660c157b4469a4bbc107fc2bfbaf0186b919e5e33i0",
+    "meta": {
+      "name": "Raum"
+    }
+  },
+  {
+    "id": "6e2546b5ae17b7949c305f6afc85926202d5a2c628782a693ac55d6398240dc7i0",
+    "meta": {
+      "name": "Bus 375"
+    }
+  },
+  {
+    "id": "e3fbcddf0e351b139e9180a68ce6991ed3fa5d9c10c183fa710590e20f123b35i0",
+    "meta": {
+      "name": "Yokia"
+    }
+  },
+  {
+    "id": "af1dff6dba74626d71ce0db85b8156dce8186d40065d2105f8c5623a3e319c2ai0",
+    "meta": {
+      "name": "Yog-Sothoth"
+    }
+  },
+  {
+    "id": "9117b32e7f8903499cb273584eeb23d6398c12df0f85be635b1e184c3d126729i0",
+    "meta": {
+      "name": "Manticore"
+    }
+  },
+  {
+    "id": "c769bc4d218113414f96ad852879bd98c3cdaeb187b1fca1b00b2b048e58a132i0",
+    "meta": {
+      "name": "The Black Shuck"
+    }
+  },
+  {
+    "id": "af19822941ebefb5d5486b0a1f08757cce850c687802e20aef7a57aa6cc88a27i0",
+    "meta": {
+      "name": "Marchosias"
+    }
+  },
+  {
+    "id": "84b29d982f963c32203a30d709e1ba9af80dabfc23ffea25e9ab7cb075607491i0",
+    "meta": {
+      "name": "Atlach-Nacha"
+    }
+  },
+  {
+    "id": "86cece48a793825b67f3ac83c95835ff1f514ae9c739758d5bfe505bf407dac8i0",
+    "meta": {
+      "name": "Gremory"
+    }
+  },
+  {
+    "id": "cd2c89e7a5355bee701d0ea41d9c520d0d91129352e1d31faf808993238a0ab1i0",
+    "meta": {
+      "name": "Morvarc'h"
     }
   }
 ]
