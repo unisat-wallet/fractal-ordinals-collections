@@ -1,0 +1,602 @@
+[
+  {
+    "id": "508d3e3c20db65e6fc10e6c25dc10ace38781571753550225e05b869fc14e15ci0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #1"
+    }
+  },
+  {
+    "id": "7a0ad7a3f5ac2914192ac04e355eaa55e31ddecc8dd55d121cec4f243d9d3c45i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #2"
+    }
+  },
+  {
+    "id": "8644264c45f50380387ff4cf8a7951ec4c6096598202224bfd7f6aaba7f4e48ci0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #3"
+    }
+  },
+  {
+    "id": "d6d67623af08b7e503a27e7522cbd68c29eba0baf8092f31ec01001c5773025ei0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #4"
+    }
+  },
+  {
+    "id": "1829692edede36d8d4e70c488c5d31f87328221984b19e04e49efc37c12b8676i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #5"
+    }
+  },
+  {
+    "id": "1cd8701228227a93cd4967d669a06b0a9a5bc278a9883c4ea6332839d441607bi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #6"
+    }
+  },
+  {
+    "id": "e3e9c75b05cb381112d34ec20022dfc56cc18b6792e949eb132ae925c36ba2a4i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #7"
+    }
+  },
+  {
+    "id": "a35fd8a0922a96a5abb9d40587f564731f70caa98d11f43c3919045a79c23227i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #8"
+    }
+  },
+  {
+    "id": "2b0d0eee1d5c821c9d413ad0b99b464915330a0c3e6571fb58f090903bcca2c5i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #9"
+    }
+  },
+  {
+    "id": "cf28533c2c0e769626cb99e20e1499f9be9ccbc27d7ced83cd25a432bf871b5ai0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #10"
+    }
+  },
+  {
+    "id": "783b068807cfe2b39f496e78ccd34bdd7f66c7be212c932047cdceadec846f2fi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #11"
+    }
+  },
+  {
+    "id": "2ff947fe0ce17d28179555577f4e5071a4d3f1de6fac448f9a49eb6aa572bd51i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #12"
+    }
+  },
+  {
+    "id": "a620fb6aefd9a086807f2d864a5656e8e405aae79a89511a20cd190475e27c88i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #13"
+    }
+  },
+  {
+    "id": "8e52595813c8828e34c33b4c82b666509f84fddebcd81218d6654d60dfb91acci0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #14"
+    }
+  },
+  {
+    "id": "3f6a3e8170f6fdec987d911172b75ff689b06cd91e32f9991fd9d0c261bb2be0i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #15"
+    }
+  },
+  {
+    "id": "7df9d63e97251ed5898ca0e5da52f25404af4343dc1203e28d988b1e498547f5i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #16"
+    }
+  },
+  {
+    "id": "312450f73ecfcdf4217f46223eeca9355b53ed29fb592de04d7631ed644ce46bi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #17"
+    }
+  },
+  {
+    "id": "8b10410f03480e29340beef94dbed79f40e9f300c7724159de8623fa6f611c31i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #18"
+    }
+  },
+  {
+    "id": "60711b0153c5d73edf580c62fb29573bef8a88b3ef0511867f9f6f336b6bbb4fi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #19"
+    }
+  },
+  {
+    "id": "446a4971fc97b40e0f3e32d5c0889a3afc96c54f0d70ce877244d12293f41e09i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #20"
+    }
+  },
+  {
+    "id": "cdbbf9b23180bd466530e884f10a0db23dffc761d5edb724e1726239f4e2ac31i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #21"
+    }
+  },
+  {
+    "id": "4b1e5dd76dfde7f5abb22c38c7b4401113fc93a42770af67067104f3dadbafbci0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #22"
+    }
+  },
+  {
+    "id": "26bc4e85839a97ed8e007102e99ba6e63656eae138a73a6b3baffeff6844837di0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #23"
+    }
+  },
+  {
+    "id": "81245a63cb976bc3eac8e0e482d6c38adaea2c0e8ce3d3f1f4aa7d55b20c5195i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #24"
+    }
+  },
+  {
+    "id": "3fa35ffbbfcb5a165fb458619cb8cf281b48f4205e18704e4a42fa3e53623ed8i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #25"
+    }
+  },
+  {
+    "id": "cf8743725b9522837dc37a1779fc093d1fc0d1393fac6a3b704cf69111d302b4i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #26"
+    }
+  },
+  {
+    "id": "9e8b1efc5103f8c7a5ef37d934a4ced2ff3adfe231cc7ee84d091a12d833af24i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #27"
+    }
+  },
+  {
+    "id": "14fd819652ca7b93bc2810afa670a343b4d56466ab2da7a8efb600356ce921d4i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #28"
+    }
+  },
+  {
+    "id": "d015587d00e4db1fb87d3506015e696a23720596a406643571764b1899b3a57di0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #29"
+    }
+  },
+  {
+    "id": "81b9d10e44fcd28a1d14b38338128cff48bf9a12b36b2f671c1d0808399e79b5i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #30"
+    }
+  },
+  {
+    "id": "e9e28add8b95e16cf400a0598c164ef4c922c038aa1ea460a1cb7823c8e4d5f3i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #31"
+    }
+  },
+  {
+    "id": "646d4b823aead74d0f4ede883bd53ca8f0c75850aa57a0b9172453cdc2427cbai0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #32"
+    }
+  },
+  {
+    "id": "d9e5b634c9ee5bb1f1eb11f57671195adf7e1009781cd52458adcb8745b22195i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #33"
+    }
+  },
+  {
+    "id": "79d06b122ff0efd09c53acbfdf823d2d35d2e118e45dffa3b31c2c87efb5b67ci0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #34"
+    }
+  },
+  {
+    "id": "fcc748bb35ead6b3f887d0a443ed1f0c14b535ed5351c734451a529514d296cai0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #35"
+    }
+  },
+  {
+    "id": "ededa1d885bfb3dd069221edec51f583d35eb68439240bcba635bfee824be1b7i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #36"
+    }
+  },
+  {
+    "id": "15d12c1ec06ed92c3c526bd325b206c596d9f2ec856058bfa2fb3c044b313756i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #37"
+    }
+  },
+  {
+    "id": "39d405730104c3f0cc4d666567bc8282add48e951997d88b94e2a1ef145a364bi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #38"
+    }
+  },
+  {
+    "id": "ac68cfdd47b9fc16f2e304aad586c43d3f07616cc83fc6cbef73dacc1357cd01i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #39"
+    }
+  },
+  {
+    "id": "2dc8b19698d8545631a6ffe9b6ad7be1602d487d5b0d3f1de12e449b06a847b7i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #40"
+    }
+  },
+  {
+    "id": "0229352aba075fa66ba767d8b730d7467447945449d9a7d3d94e0e99ea24f6bei0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #41"
+    }
+  },
+  {
+    "id": "8c49eaaa050de6c20e540948c16035041b642f981c911443f9df8650217860a2i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #42"
+    }
+  },
+  {
+    "id": "6088f4db2349bd895a83e735058944e22869a6f683755379280a0c2bd3b8b6bbi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #43"
+    }
+  },
+  {
+    "id": "17bc9795809b5dc3ab27283fe13fcaac74029073c9e04e07ac29b871aa33e512i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #44"
+    }
+  },
+  {
+    "id": "76f422fb9dd5f73dccbd227f80aaf6da49c4d8243250178ad261f25b97ff91c0i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #45"
+    }
+  },
+  {
+    "id": "a0f6ea1fe1cff53fd8a3ef7bad7a3dac313958b5259711cf724fd3ce4c700e2ai0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #46"
+    }
+  },
+  {
+    "id": "dc2ecab7a8ddb5b58b1d30870ad2fef36cbd33a07969ef9ca464a98daee5ff55i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #47"
+    }
+  },
+  {
+    "id": "91fca5630e26a6c79f40f88382f8cde64f2d95bdc1cd6b3e1394106cebef77ebi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #48"
+    }
+  },
+  {
+    "id": "c805db192f9349f57820984b346b2d5437b97793901bba82087dfea9c93fe44di0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #49"
+    }
+  },
+  {
+    "id": "0f49fc16051ba90ea065155884ae79aaea40cbd07d3a508a106ba8f80bb7dd6ai0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #50"
+    }
+  },
+  {
+    "id": "a5e8c86d5eea4698d20fdb6e8e49cd1e96c6cf407cc00ed456acc7f64927e565i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #51"
+    }
+  },
+  {
+    "id": "317750f84e1a035f050e0e0125d065ecfd7fcf606008428a6f3f0e7c32705965i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #52"
+    }
+  },
+  {
+    "id": "06b3ce2513b0474fedc0e54932674559b6c6b62f485d0fc40541f094d0a79283i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #53"
+    }
+  },
+  {
+    "id": "bfbc251300422bd87c8787ee38421d3a5c5314b592cfcc1c6618cecba55d7d63i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #54"
+    }
+  },
+  {
+    "id": "7446fc09a49ccc2f158c77b3448cca262bf2ae375e89589dc0b26bc8db93b8e3i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #55"
+    }
+  },
+  {
+    "id": "8082c189b326b9ef3ac7f63b3b08f6df63a0c9b2ca79ae6a72557497cb19b11di0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #56"
+    }
+  },
+  {
+    "id": "97dc1b2902ed743eff8dfe9880bf8971db09d66df3d152629a8a0dae4d67438ai0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #57"
+    }
+  },
+  {
+    "id": "110d7d28a3340043680466c0d572e0b37c0e9e6d6771278fd68d6e442dc77da9i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #58"
+    }
+  },
+  {
+    "id": "5b5840c5ca0c7fcf9a585d7e157101cfdd3f2b7487125ca7d67ea83eea88255ci0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #59"
+    }
+  },
+  {
+    "id": "587841adc82893d4c96998e1435dd3659981561069fd1dbf95742890731c3d4di0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #60"
+    }
+  },
+  {
+    "id": "1c475507864a0337896831a85f9dbde7dbbb72d974a20979d24b00e6a7871393i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #61"
+    }
+  },
+  {
+    "id": "0dc42984fb006c6dcc6bdb40f277607176f9929cfa0b6c8bcbcbbf4cd119480ai0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #62"
+    }
+  },
+  {
+    "id": "d489883b9579e72f20fb172ce55b2ced607c33f7001fd94eaa324dd8d1a3372bi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #63"
+    }
+  },
+  {
+    "id": "b085776c3ca26101fe1ef17cab2c1f898148ccd45f5a9419205f31ba9dde9effi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #64"
+    }
+  },
+  {
+    "id": "04f5e4559899dc0c2f011d575cd5bc1810f2c9949172a8a68793df5f25456e83i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #65"
+    }
+  },
+  {
+    "id": "a2b5962a7babc8e2dc695e719df2f3b85ce90e0b6025e9b6eb7c0693cbc28e1ai0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #66"
+    }
+  },
+  {
+    "id": "a6f08cafcba5b32f55bd5838bb4b87e6cd0321b490dac39d2dd77542952b3583i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #67"
+    }
+  },
+  {
+    "id": "63170dbf6c3339e27a84a3843394e282f6173559daad3c60333dcb701cfb1ae8i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #68"
+    }
+  },
+  {
+    "id": "c47dd08aacb3c80b46acc9c88036fc49103c99cd420a6cf6c703e41bba27ff75i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #69"
+    }
+  },
+  {
+    "id": "18d13abcadb5624a5bcdb8012b0f72ef0f2d07bbdfdf33f40e2060614ba9deedi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #70"
+    }
+  },
+  {
+    "id": "257d2f43b1f0367cf6a9ad747a24b90bca10e78be3dd33969ea688f4c64e704ei0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #71"
+    }
+  },
+  {
+    "id": "0b5b0c30b832cab71f03e52f793538749d4da8930c05b13384c794f0efac338di0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #72"
+    }
+  },
+  {
+    "id": "b302d242d8ad71ece7843fc259b08af8491345dad2d11d29f85c3660111ad3e8i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #73"
+    }
+  },
+  {
+    "id": "2f10765b9dad46f441c3e615444e364f4616187eb367429abca87a76895d5587i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #74"
+    }
+  },
+  {
+    "id": "2987bf868c2619b5afdf4548074ff244d7ebde7ba9a475659bf79663d02083a7i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #75"
+    }
+  },
+  {
+    "id": "c95f17024d63cbd12800c1907ed07e334e4df79c5b7d366aaf4e9e1cf576d8adi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #76"
+    }
+  },
+  {
+    "id": "7c3bd5675d4ead340b89309e9beb8d095d1a667aca3322f0a82233cd61fc3962i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #77"
+    }
+  },
+  {
+    "id": "9f8319aa86e6403d254ae811a375629a3094d8ef1e121a8538caf2e04fe902dci0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #78"
+    }
+  },
+  {
+    "id": "a07f24e27bd8bcd340c0958c98fbf99adbad5c139abeeca603f262ca5d9f4c8ai0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #79"
+    }
+  },
+  {
+    "id": "6e5f1430892a4222d1431115a7c2995cc43f40e4be0a386f29e6952d383bfcc6i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #80"
+    }
+  },
+  {
+    "id": "95d92648347967eb42e084e9cd6f8230fc7df50d3aad24a655cbd1e2d45ef278i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #81"
+    }
+  },
+  {
+    "id": "efd282b59843a79e0f729e0dea427c7c83cb36e9e88ca08d682d4efe6e2db2eai0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #82"
+    }
+  },
+  {
+    "id": "bb656c3dab65288031ac35442a749aa4e4b346e2c696ebea01acc5d25c9e7543i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #83"
+    }
+  },
+  {
+    "id": "7bc48e08a00e93dac5af94397b8b11bb03886ca22035d4429dd62095f9e627eci0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #84"
+    }
+  },
+  {
+    "id": "fda7b6cdb7488ceaad8699e99639890c3724d42257ba46cad1f2d37f8351db68i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #85"
+    }
+  },
+  {
+    "id": "6692965fa8f97feec1f2ece64ca3c9dcb1af89a75cdb916f24f604a801df2f1ai0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #86"
+    }
+  },
+  {
+    "id": "73f65bdf10f82367ff281e99175b60327fcf6f3d3e46853c26aeb49aa08a065ai0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #87"
+    }
+  },
+  {
+    "id": "eb54922724003b0878623b71c0141e9e595b4f5838bea479d8ed6d38baf1e5cbi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #88"
+    }
+  },
+  {
+    "id": "7c2de88521c8befde74392085f4bfd26c1a97476288490c3b704f485a3750ebfi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #89"
+    }
+  },
+  {
+    "id": "392af985e6f254f1ae45a230ba05f92eadeb06b94c624ae4d4a3471bf40afe9ai0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #90"
+    }
+  },
+  {
+    "id": "b00759502ac2d6668b73dcfd081fa2b09034d243dbeaa7c17d7c04e9d36c88e4i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #91"
+    }
+  },
+  {
+    "id": "c7d0f2a89725f4d9baa92c87966e2cf56dc9ad9745de8aada31f5062a346806ci0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #92"
+    }
+  },
+  {
+    "id": "1fb9dbcf334073793d3702e7366fae339631926bbe05387daf272de883ce5278i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #93"
+    }
+  },
+  {
+    "id": "f75324cbb1bb600c603eabdedbf54c7fc10f9ca0b7dbffb1280f8d205bcec166i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #94"
+    }
+  },
+  {
+    "id": "79410a962ce8f90609ead520334a36b324ff4859d74cf5ad7fe6c562965266b6i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #95"
+    }
+  },
+  {
+    "id": "af302692254bbb142b4aac029363133970204bf62fd72d9bbff5c0f4df2e32cbi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #96"
+    }
+  },
+  {
+    "id": "d2693e6cad7dc83ee6c5d744cd4f5d11b024304d766935ddd965747031d025e3i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #97"
+    }
+  },
+  {
+    "id": "4813c7f23ca937ab7f8c7a9f81c98ed4687a626fd3b314ee5490d734d7979fffi0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #98"
+    }
+  },
+  {
+    "id": "d2d303e9f4578b4259ee751d16fc0a838008e395b6d56f5467ec3dd03957cad7i0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #99"
+    }
+  },
+  {
+    "id": "c9178850dcb7bd64a39bb0607383d3e63e7a999f737ef4d711a572d81795115di0",
+    "meta": {
+      "name": "Skinny Melons Eurocup 2024 #100"
+    }
+  }
+]
