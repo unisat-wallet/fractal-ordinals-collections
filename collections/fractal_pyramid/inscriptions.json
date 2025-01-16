@@ -60,6 +60,26 @@
     }
   },
   {
+    "id": "19f818da7037dd25d77f8058f07dc376374c94e353d0d5b9a12a92cff27fcc43i0",
+    "meta": {
+      "name": "Fractal Pyramid #9",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #9",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Divine"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Gold"
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "a6ab7b1b7c069d6535023c862d056403eac13e093eaf943e22fc3ca35c845c45i0",
     "meta": {
       "name": "Fractal Pyramid #11",
@@ -100,12 +120,52 @@
     }
   },
   {
+    "id": "f8e7e9d9e9dff3a2263a6b1b342113a7f718d790adb55bc6b283c7a3c2a3a9dai0",
+    "meta": {
+      "name": "Fractal Pyramid #27",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #27",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Mythic"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Silver"
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "aabbd28d3abb3230a30f6bbecb3f87078fba74299da88854e7e620d5c261e11ci0",
     "meta": {
       "name": "Fractal Pyramid #29",
       "id": "",
       "meta": {
         "name": "FRACTAL PYRAMID #29",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Black"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "6e6c526db2d39d95b058adf19a848d26a918ec9fd61241144085e46a4967cba1i0",
+    "meta": {
+      "name": "Fractal Pyramid #38",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #38",
         "attributes": [
           {
             "trait_type": "Rarity",
@@ -180,6 +240,26 @@
     }
   },
   {
+    "id": "12023ed14ffe619ac9f510815e6fa221e392e5ff099ef3808190a6dcc614d6d3i0",
+    "meta": {
+      "name": "Fractal Pyramid #45",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #45",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Black"
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "a0b08bcaaffde44750caf00ab876f78a173b6758257567b14d63db1241db9c55i0",
     "meta": {
       "name": "Fractal Pyramid #47",
@@ -200,6 +280,66 @@
     }
   },
   {
+    "id": "8757d74bebd752b363138268ac79fd2367bd889494163373349139f3270d7213i0",
+    "meta": {
+      "name": "Fractal Pyramid #57",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #57",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Orange"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "247bd02671d7303798f73fca654e7b04623c2cc9254ce1e1f1b2eb2332dd04aei0",
+    "meta": {
+      "name": "Fractal Pyramid #58",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #58",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Orange"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "1c326c2d8d667b8f891430125f877c891e22d36b7368ab0aa515d859dd9d135ai0",
+    "meta": {
+      "name": "Fractal Pyramid #62",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #62",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Epic"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Orange"
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "33380e972ec402f40069b5779e43ce150f3f050d1363d9dbe9cf353437a6ccf8i0",
     "meta": {
       "name": "Fractal Pyramid #64",
@@ -214,6 +354,26 @@
           {
             "trait_type": "Type",
             "value": "Orange"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "2d2694cebfd91617a28811e4126db7c5fe3f3ead3ef7d03a19e0ae231d9dd0c8i0",
+    "meta": {
+      "name": "Fractal Pyramid #75",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #75",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Rare+"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Yellow"
           }
         ]
       }
@@ -280,6 +440,46 @@
     }
   },
   {
+    "id": "b628dfb471348e45d55da9453e21db0ff837ae8646a47f1ac615c7a5d093196ai0",
+    "meta": {
+      "name": "Fractal Pyramid #89",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #89",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Rare+"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Yellow"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "32cbaebc162b7d1e6d58340c36d4135d05d22eadeb0ffe4c5918bc94d158d944i0",
+    "meta": {
+      "name": "Fractal Pyramid #91",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #91",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Rare+"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Yellow"
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "47d77880d0bf03b9b77f397fa530b9814f30e4d32bd87fec297c3d1f04af74c7i0",
     "meta": {
       "name": "Fractal Pyramid #93",
@@ -306,6 +506,26 @@
       "id": "",
       "meta": {
         "name": "FRACTAL PYRAMID #95",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Rare+"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Yellow"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "1bc1b874f713f69a82a6df3b21e626a2f319d84f9d98d0aa609bbfbe24c6a477i0",
+    "meta": {
+      "name": "Fractal Pyramid #100",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #100",
         "attributes": [
           {
             "trait_type": "Rarity",
@@ -360,12 +580,52 @@
     }
   },
   {
+    "id": "54c19d5a5979033e55a7a22def1b495803b85bf6302a5c52089c09508b221165i0",
+    "meta": {
+      "name": "Fractal Pyramid #141",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #141",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Common+"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Blue"
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "d32bd986762582906e2568e4b183b4c132a02427d7219a81dffd7199cc45eeaai0",
     "meta": {
       "name": "Fractal Pyramid #142",
       "id": "",
       "meta": {
         "name": "FRACTAL PYRAMID #142",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Common+"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Blue"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "a8fb75220f42d0a42a374e3a71c8e06d8f02bffc8dfe2e32beb293d45188c85fi0",
+    "meta": {
+      "name": "Fractal Pyramid #150",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #150",
         "attributes": [
           {
             "trait_type": "Rarity",
@@ -400,6 +660,26 @@
     }
   },
   {
+    "id": "2d34120214448e8aeb47e014543258dd00b3b485cbc6818bbda65de88b1cdc75i0",
+    "meta": {
+      "name": "Fractal Pyramid #152",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #152",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Common+"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Blue"
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "07d63783daceb7d86cec080754055c24fc60d0b814fd4828639ea1e6020efc88i0",
     "meta": {
       "name": "Fractal Pyramid #153",
@@ -414,6 +694,66 @@
           {
             "trait_type": "Type",
             "value": "Blue"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "4e6179948809b4757e193afac21b0c439aafd23aab40912fdac9d263343b1ec6i0",
+    "meta": {
+      "name": "Fractal Pyramid #157",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #157",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Common+"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Blue"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "9242e22255d9f10ae2b219ccdf76ee2b90c2c161839e2c6b4623f40aabfc18dfi0",
+    "meta": {
+      "name": "Fractal Pyramid #161",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #161",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Common+"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Blue"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "aca4c5cc6b3113ebc0c29961ebfdf08c28a020fad51672b025d1ef601b4eefbdi0",
+    "meta": {
+      "name": "Fractal Pyramid #192",
+      "id": "",
+      "meta": {
+        "name": "FRACTAL PYRAMID #192",
+        "attributes": [
+          {
+            "trait_type": "Rarity",
+            "value": "Common"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Green"
           }
         ]
       }
