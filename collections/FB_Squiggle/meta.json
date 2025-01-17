@@ -1,7 +1,7 @@
 {
   "description": "200 RGB pixel squiggles generated at random and stored on-chain",
   "discord_link": "https://discord.com/invite/squiggledao",
-  "icon": "https://i.postimg.cc/JhYMdkjw/FB-Squiggle.png",
+  "inscription_icon": "98a10d25f8110cb9b3aa1b30be2da6f7fdb195b1d9f4b4a97a32fd4a32f8f740i0",
   "name": "FB Squiggle",
   "slug": "FB_Squiggle",
   "twitter_link": "https://x.com/fbsquiggle",
