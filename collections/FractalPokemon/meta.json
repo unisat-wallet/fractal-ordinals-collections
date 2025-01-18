@@ -1,0 +1,9 @@
+{
+  "description": "1010 Fractal Pokemon inscribed on Fractal Bitcoin",
+  "discord_link": "",
+  "icon": "https://",
+  "name": "Fractal Pokemon",
+  "slug": "fractal-pokemon", # all lowercase or underscore hyphen, consistent with the directory name
+  "twitter_link": "https://x.com/ordinalpokemon",
+  "website_link": "https://"
+}
