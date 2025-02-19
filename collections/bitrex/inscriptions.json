@@ -1,0 +1,2870 @@
+[
+    {
+        "id": "f5e3d815738c8686f664907eb65db43ccd3b8b56f97884f0728bafd3ba03e2abi0",
+        "meta": {
+            "name": "🦖BitRex#1",
+            "attributes": [
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "cc1b3c3a81cc611857435d10400d97c54d687e08ead144b5419cb90edb1892d3i0",
+        "meta": {
+            "name": "🦖BitRex#2",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Doctor's Head Mirror"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Eyepatch"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Hawaiian Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "30064de4492a858e349452750b0d166b4c8c97f6aa463f85841c3d637770a344i0",
+        "meta": {
+            "name": "🦖BitRex#3",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Black Hair"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Rainbow Glasses"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Crocodile Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Egyptian Outfit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "9441c8b6686368596c3fc12892e2981de0c705227409560caa3f001f7bd90f70i0",
+        "meta": {
+            "name": "🦖BitRex#4",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Red Mohawk"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "VR Set"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Green Bowtie"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Volcano Singlet"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "e86550ca763f09d7602a93663f480ca7e22cfd0d06a7da89ed47836d40f6717bi0",
+        "meta": {
+            "name": "🦖BitRex#5",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Birthday Hat"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "3D Glasses"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Desert Brown"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Backpack"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "b523d6fb017273b81be4e3c28ea3872512e00339d491f6b94c435d927a20a5f5i0",
+        "meta": {
+            "name": "🦖BitRex#6",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "King's Crown"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Shades"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Amber Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "b0435bb57bed5b6205105db326d02cf019a08738b7b74a2031686c74caa3ab66i0",
+        "meta": {
+            "name": "🦖BitRex#7",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Baseball Cap"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "X Eyes"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Grey Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Iguana Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Fishing Outfit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "a8d97fdc44c30acfa35136c07c14dac064d30a40ce7c35d957b3a1e53030ab6fi0",
+        "meta": {
+            "name": "🦖BitRex#8",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Red Hair"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Golden Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Military Jacket"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "cdb2e48804f525870c6703ead8365cc08121d8fb205277fec6bb03393e0fb41bi0",
+        "meta": {
+            "name": "🦖BitRex#9",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Halo"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Rainbow Bowtie"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Purple"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6cec027e61caefe6358c54ae2a6bd052e8e02a26efe97fbb862d012541376c2ai0",
+        "meta": {
+            "name": "🦖BitRex#10",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Top Hat"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Shades"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Black Bowtie"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Ghost Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Business Suit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "4abb11070d0abba0e6f463c05d6ee4407909ce0f683df197f0cd59931a81fd19i0",
+        "meta": {
+            "name": "🦖BitRex#11",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Doctor's Head Mirror"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Golden Chain"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "8469e55d97ff392dc400857a2e9d8ae02834f00deae47e559b427ac085936cdai0",
+        "meta": {
+            "name": "🦖BitRex#12",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Baseball Cap"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Amber Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "908d96db18a7e30cd90a5ccbb90ba3e20ac3c48f49ae354b2eafa8005fa5ed45i0",
+        "meta": {
+            "name": "🦖BitRex#13",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Birthday Hat"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Flirty Shades"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "c9866eb3d31ff00366e1591288f9e4454c0148a5ff04a5e211e01d879dcab188i0",
+        "meta": {
+            "name": "🦖BitRex#14",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "King's Crown"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Red Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Albino White"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "7f74e94162fdcf4988bbc6355dc5d97e13a258df87e3cedda5062b676ce6846ei0",
+        "meta": {
+            "name": "🦖BitRex#15",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Top Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Ghost Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "36671b710d6c66d9fbc2f11eb6136c799978ba34e940627ba0d61db348731276i0",
+        "meta": {
+            "name": "🦖BitRex#16",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Pirate Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Hawaiian Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "89bbf2fbaef30121f236c690318c3c621715954b8021e83aa500294ebc2de54ci0",
+        "meta": {
+            "name": "🦖BitRex#17",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Doctor's Head Mirror"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Gold"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "c9ceb082ae9032c60035e8076a22ae5e8592a95c4f01def1cac4e3db73a9866bi0",
+        "meta": {
+            "name": "🦖BitRex#18",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Black Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Scorpion Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Military Jacket"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "e06f02cdb088a1e30206b68cd41ec39f47a43f5cabb76f2602862d2f4f47ddd8i0",
+        "meta": {
+            "name": "🦖BitRex#19",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Party Hat"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Red Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Crocodile Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Backpack"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "66556e7a5fcf7f7cf07f56483fd4de96fe9ad2123033fc3017806ca48bbd24f9i0",
+        "meta": {
+            "name": "🦖BitRex#20",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Yellow Spiky Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Albino White"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Hawaiian Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "7c8ee1259ad849fff54b8ff6567580bcbfc27e57c1b88e6ef2f4ffbc8ddaaaeai0",
+        "meta": {
+            "name": "🦖BitRex#21",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Baseball Cap"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Eyepatch"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Red Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "f84acf26db99c7220a7c5e630e753c1987a3313860926f8b173fe8e19b9ec483i0",
+        "meta": {
+            "name": "🦖BitRex#22",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Red Mohawk"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Hawaiian Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "00f711597342b8cca4dd006e1e5c6038d74085e248b9f73cf96bc3a4459439f7i0",
+        "meta": {
+            "name": "🦖BitRex#23",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Top Hat"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Red Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Fishing Outfit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "c811ffa25e252a9c8da1c8ec99bdc16dc57faa7587425f84e977b725165498b9i0",
+        "meta": {
+            "name": "🦖BitRex#24",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Black Hair"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "X Eyes"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Grey Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "7bacd00ef60442acd82c03eca3ffb990306055822fb6a0be257e4dfdce3011f4i0",
+        "meta": {
+            "name": "🦖BitRex#25",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "King's Crown"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Military Jacket"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "f7b7631341400b978400d0cb3eb1db6ca108e3a4b681f7838eb63c0f42f0ec4fi0",
+        "meta": {
+            "name": "🦖BitRex#26",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Birthday Hat"
+                },
+                {
+                    "trait_type": "Accessory",
+                    "value": "Cigarette"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Golden Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Volcano Singlet"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "c624781025d53be07801523d0943a1fc3d789e4db0e50a9dc9ac10a4987f7658i0",
+        "meta": {
+            "name": "🦖BitRex#27",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Birthday Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Desert Brown"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Business Suit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "1194666fa1ff8f1d8c2da30dcbbc539afc27dc6478c2dc7a488fdb5ddc87b1d3i0",
+        "meta": {
+            "name": "🦖BitRex#28",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Yellow Spiky Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Purple"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "456572914172760c274bc8a4a842c4d0ead4287c9a13a4841f5061b83a9bb529i0",
+        "meta": {
+            "name": "🦖BitRex#29",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Birthday Hat"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Golden Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Crocodile Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "80feb3c2a59878ef84fcdd7beade799838a263104f5cb241d7a99b5cc3afa5bfi0",
+        "meta": {
+            "name": "🦖BitRex#30",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Yellow Spiky Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Amber Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Volcano Singlet"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "7b6052348199efad772742dab7948e012aad4bbbb91d3aa65c26e682eee76230i0",
+        "meta": {
+            "name": "🦖BitRex#31",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Doctor's Head Mirror"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Albino White"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "534f1a53caed343108de15c89df8a98da6d38cd44159b0d17dbb7ae5df1605fdi0",
+        "meta": {
+            "name": "🦖BitRex#32",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "King's Crown"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Scorpion Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Backpack"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "8bf87806fa81e80cba76fc58930eb4c882f5fa88e8b46b9e55ff51588957dd10i0",
+        "meta": {
+            "name": "🦖BitRex#33",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Doctor's Head Mirror"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Grey Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Volcano Singlet"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "b0b801a05d28fc21adb71061b75721034298f9f07b21d7b3aded3c9751182f4ci0",
+        "meta": {
+            "name": "🦖BitRex#34",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Yellow Spiky Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "7abbb1e130e41bf80d513ad39855f0288ddee834c376a82811c589a16e205c2fi0",
+        "meta": {
+            "name": "🦖BitRex#35",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Party Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Albino White"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "248268ba1dbcebe4a69398331d3cddec0f318391e51fb3ff183c01ba4eda91bai0",
+        "meta": {
+            "name": "🦖BitRex#36",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Top Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Albino White"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Egyptian Outfit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "abf16af261b5a1e4074ce4f17886b842b3be2ceaff10b626ad4e4a4f6ab087e6i0",
+        "meta": {
+            "name": "🦖BitRex#37",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Birthday Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Scorpion Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ccc58838de37225c6d12a730d2e134fe211b4917b281d2b421af4bbc067ec2a2i0",
+        "meta": {
+            "name": "🦖BitRex#38",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Red Mohawk"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Grey Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Desert Brown"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Backpack"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "701d19f48cf6d77c500af706f0c10021f194dff52f08e39ff5b89bcbff87f8bfi0",
+        "meta": {
+            "name": "🦖BitRex#39",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Yellow Spiky Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Desert Brown"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Military Jacket"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "0ae70dd3a001dd599cdf0cf7569428d51d38ebd511400360f329a45e779b6322i0",
+        "meta": {
+            "name": "🦖BitRex#40",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Red Mohawk"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Scorpion Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "8e1cc8a85e0b3180d4ecbe32dfb0d570e9dce836e0e2dfe5e8b3262d5e873c65i0",
+        "meta": {
+            "name": "🦖BitRex#41",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Red Mohawk"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Rainbow Glasses"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Blue Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Crocodile Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "27ea0653fc41705d614dfab38d779b6b01cc78dcdab9f1375ec686b53b7a0a77i0",
+        "meta": {
+            "name": "🦖BitRex#42",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "King's Crown"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Rainbow Bowtie"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Desert Brown"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "b844aa6c3d9003b0d09c1958bb50656ab9b801b7e5ee70e605005a784b68f9b2i0",
+        "meta": {
+            "name": "🦖BitRex#43",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Birthday Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Amber Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Hawaiian Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "c45e23583235b16849a1fa03a88849c7f2d76192b17860d7b143090d5ec46ef8i0",
+        "meta": {
+            "name": "🦖BitRex#44",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Black Hair"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Golden Chain"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Gold"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Fishing Outfit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "bf1ab1c7be06f52e9d8a5a81207d5ee3be49e86f88f2ed7f64c676b7e59f5115i0",
+        "meta": {
+            "name": "🦖BitRex#45",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Yellow Spiky Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "143a399d751080b2ce71f03a712afc0bcba2b968796ec8429008b715c7a3eea6i0",
+        "meta": {
+            "name": "🦖BitRex#46",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Black Hair"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Blue Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Albino White"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Backpack"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "48c3a1f3b4f2c946ce6b453452c361b5ac65ec435fdfd4104ae80607f83f0f22i0",
+        "meta": {
+            "name": "🦖BitRex#47",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Doctor's Head Mirror"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Blue Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Business Suit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "86bf228cb4e2b461f7552b4fa3e1015ac3efa37bf54b3b2243c88bc70ebff526i0",
+        "meta": {
+            "name": "🦖BitRex#48",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Pirate Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Crocodile Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Business Suit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "f82205341a939c625ef93c2e63268660989e19ae2fa22a1b4c89a0c8cc60ea7di0",
+        "meta": {
+            "name": "🦖BitRex#49",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "King's Crown"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Red Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Ghost Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Backpack"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "26116a355d784afe646433c426e7cfdb1ff3c90b0223d1a5734de590422de268i0",
+        "meta": {
+            "name": "🦖BitRex#50",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Top Hat"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Golden Chain"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Iguana Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Hawaiian Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "603584d7d80951e070dc88aba28b86777c72f6dd02f772bf19de5eaacddd9a73i0",
+        "meta": {
+            "name": "🦖BitRex#51",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Birthday Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Backpack"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "03be3b50b11f3dcebbdeb5f6f59ccb343cc2f8dcabad6c0f602f71e4acee9fedi0",
+        "meta": {
+            "name": "🦖BitRex#52",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Baseball Cap"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Albino White"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Business Suit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "d0a2656c863dec8f2723539b41473dc74181766fc29cb49549a6f953a580b296i0",
+        "meta": {
+            "name": "🦖BitRex#53",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Halo"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Iguana Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Egyptian Outfit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "50a0f3870793333e3b7ec5d868a044b0bbd79cc4bdcf56d6a45e1fc6f5254377i0",
+        "meta": {
+            "name": "🦖BitRex#54",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "King's Crown"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Iguana Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Military Jacket"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "db4647e228c043172b7a8192f3d58c8e1aa8481900e33f84d0d39b169b73cffai0",
+        "meta": {
+            "name": "🦖BitRex#55",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Baseball Cap"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Egyptian Outfit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "933026db983ce81f0086f77c21ecfb3fec99528dbe847f986c94c0f9edc0f59fi0",
+        "meta": {
+            "name": "🦖BitRex#56",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Party Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Ghost Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "5693d164ee60ddb287dcd0be8ca8d8d0b653cbaf2965676a263d5a4fa934407ei0",
+        "meta": {
+            "name": "🦖BitRex#57",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "King's Crown"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "VR Set"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Green Bowtie"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "8ab6ae60cab1b8c3bd450a594c3133a399f57fa23cc59da3793ad52372e0dec8i0",
+        "meta": {
+            "name": "🦖BitRex#58",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Red Mohawk"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Red Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Iguana Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "1a828e939e85a13cd75f3b1b57b77a4dd1655c137ba898e99ecf7162a5261089i0",
+        "meta": {
+            "name": "🦖BitRex#59",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Yellow Spiky Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Hawaiian Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "1e3112adb0a9b60042e3de048653d1971a0010fed5fd21365b708264dcc87d14i0",
+        "meta": {
+            "name": "🦖BitRex#60",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Doctor's Head Mirror"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Crocodile Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Hawaiian Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "a84c0f2c0f6fc02bd796757044310895b638641922f9a6684cfa9e62d3a31aa1i0",
+        "meta": {
+            "name": "🦖BitRex#61",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Party Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6476a4a5b30759f28a0808ffb2c8b8e750e6563f418f3b8c598afea7d6f5745ai0",
+        "meta": {
+            "name": "🦖BitRex#62",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Birthday Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "5549122d9f2f77b701e3c0ace3e78148c306a47bdd5514298d83096ae70401bci0",
+        "meta": {
+            "name": "🦖BitRex#63",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Black Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "e02bab6f1f77011675abc43519f448dd6586788672a5b26492344ea6a7b3dd84i0",
+        "meta": {
+            "name": "🦖BitRex#64",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Baseball Cap"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Scorpion Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "893298c9513aea18ff03c470cc1b3cb887fbfcda5a21e81801f7bec83992c7a8i0",
+        "meta": {
+            "name": "🦖BitRex#65",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Red Mohawk"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Scorpion Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Backpack"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "47b043fbf155130b25944d353de46137dbb03c10d96b50474eac55e7329d8cfbi0",
+        "meta": {
+            "name": "🦖BitRex#66",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Yellow Spiky Hair"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Golden Chain"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Ghost Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "798d0a87a6abb23d73ba1efc9aec654515300f0926beed70f9201aa4a41e9c50i0",
+        "meta": {
+            "name": "🦖BitRex#67",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "King's Crown"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Fishing Outfit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "a969517e3388ea8ce4facb60bd584aced273848d421264d6e810184874538eedi0",
+        "meta": {
+            "name": "🦖BitRex#68",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Party Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Albino White"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Backpack"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "555ad8e1907e5d1f710e6fed1cbdf63bc2884696daf3d3c490e397f9548b5f30i0",
+        "meta": {
+            "name": "🦖BitRex#69",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Baseball Cap"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Purple"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "4e7897f16c78e7fe3fc475d0038a3d67cebab7fa3156aa1a0fbdfd12ef8a871fi0",
+        "meta": {
+            "name": "🦖BitRex#70",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Propeller Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "None"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "10d83402c2c9a883b9fc4f7a24d0653ab3c9adbb6ee9d94165732bf7a7ddfe00i0",
+        "meta": {
+            "name": "🦖BitRex#71",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Black Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Crocodile Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ee63ea244de615f044184f387b63c0e34dabb2493df1f2ba1d2daca3f4e87e0fi0",
+        "meta": {
+            "name": "🦖BitRex#72",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "King's Crown"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Red Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Albino White"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "c8010356105040b7f49a32bc2cc6f1b84ca6b862ce95ff72ec04f8816ff19ba0i0",
+        "meta": {
+            "name": "🦖BitRex#73",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Yellow Spiky Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Backpack"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "b9dbf340213f4ddfe997a62c13be0e6e3a34acdf7677588d2af61601915bca6fi0",
+        "meta": {
+            "name": "🦖BitRex#74",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Red Mohawk"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Hawaiian Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "e8b6594d37be55da695fc407e36fc9542adbfc90866692426a7d0a578820c8b7i0",
+        "meta": {
+            "name": "🦖BitRex#75",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Top Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Desert Brown"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Hawaiian Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "832c17dc1a7d6897d65d6fcfdcfd5c59a661b804e7e37b5f26ba8a8ae159e5c4i0",
+        "meta": {
+            "name": "🦖BitRex#76",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Red Mohawk"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "aae2ac5b85ca050c61bdf05a649504613b3e9fb21caa703d3a8c61023941dc75i0",
+        "meta": {
+            "name": "🦖BitRex#77",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Birthday Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Gold"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "5659a599ed528c9ceb9e92a6a39f6e8f72ef190b2e67aebefdc41f80d4b8196bi0",
+        "meta": {
+            "name": "🦖BitRex#78",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Party Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Volcano Singlet"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "3c68a6d80c3bfe0400af5f26b5fc482b9d8a0db6b5c864de48a4d666fefe1f9fi0",
+        "meta": {
+            "name": "🦖BitRex#79",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Party Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Backpack"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "5aac5bd63276a9a2b92737c3115c590bbb53345c5c71d672b18bec4826c0f2c8i0",
+        "meta": {
+            "name": "🦖BitRex#80",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Doctor's Head Mirror"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Golden Chain"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "1046491ffa1dc98949b8461b22080d1e3be998d823a948708fe5d37cce0eefc2i0",
+        "meta": {
+            "name": "🦖BitRex#81",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Black Hair"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Grey Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "e04d8bfc2a2240a50f0dc2414658c86fe78a49d6139d8416797128aa74d4c850i0",
+        "meta": {
+            "name": "🦖BitRex#82",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Party Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Iguana Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "0305188ebcae7ea1d4c74f3aac7d5791a2074e23ad2ab9fd7e9320a37465d73bi0",
+        "meta": {
+            "name": "🦖BitRex#83",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Top Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Crocodile Green"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Fishing Outfit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "fb5e1d4883358ecc4c7051a94b0731f267ceb413230a8166aa67c280bf36a12ei0",
+        "meta": {
+            "name": "🦖BitRex#84",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Birthday Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Gold"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "e246ae4b8e0ec2f61eb657e8de2629909e4a8de2aae0069451fad1f5979ae8cci0",
+        "meta": {
+            "name": "🦖BitRex#85",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Black Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Egyptian Outfit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "c46e47846fa7a3e873b779bd7fc1e1fd32ad3e5500426685c4816a4b5604d36fi0",
+        "meta": {
+            "name": "🦖BitRex#86",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Top Hat"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Golden Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Military Jacket"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "39cdb4831e27c51057228784e09a09240739009c6a8f75b8cff0192f287f0033i0",
+        "meta": {
+            "name": "🦖BitRex#87",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Top Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Amber Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Egyptian Outfit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "cf9139aa00bb64f41885cd6036a4ed1e6c7dbe76f45e39ee1f2c01e3d9461b57i0",
+        "meta": {
+            "name": "🦖BitRex#88",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Yellow Spiky Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Fishing Outfit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "404d43fd25369b80fe543a7bbbcc383dad53ccf409d5560cbed63b3a3353dd6bi0",
+        "meta": {
+            "name": "🦖BitRex#89",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Birthday Hat"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Grey Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "188ae02adcf548530de11d1293696ab67f3839904ae97cef4cef8f162747f1a1i0",
+        "meta": {
+            "name": "🦖BitRex#90",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Baseball Cap"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Volcano Singlet"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "3024f0aa4bb2f37a5b9261c6b7155c101d6c211f97a564cc4183b231e27d77d5i0",
+        "meta": {
+            "name": "🦖BitRex#91",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Baseball Cap"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Scorpion Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Raincoat"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "8a28017b3ed37512d8c3c76a3c7d3a83c23b0734fded0cfb1940f1ffa6987d59i0",
+        "meta": {
+            "name": "🦖BitRex#92",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Top Hat"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Shades"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Black Bowtie"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ca3a95599a5c202757204a95abb522d9feeb2759aeceb29a3e12fb42586c626ci0",
+        "meta": {
+            "name": "🦖BitRex#93",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Pirate Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Egyptian Outfit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "418b9abfb7e69ea972e6ff61c52415bf8d709ea66aa903fd83ff9a2d7f5b61cei0",
+        "meta": {
+            "name": "🦖BitRex#94",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Red Mohawk"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Volcano Singlet"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "452d5ac3b58529048470fddc36270024cc4030d9a64cc4d4835d1a6e674c42adi0",
+        "meta": {
+            "name": "🦖BitRex#95",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Pirate Hat"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Golden Chain"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Albino White"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Military Jacket"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "95a711d4f45b243dc1443d209b6dce2d5be629c2c467c1800c95e7bdc7130178i0",
+        "meta": {
+            "name": "🦖BitRex#96",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Birthday Hat"
+                },
+                {
+                    "trait_type": "Accessory",
+                    "value": "Smoking Pipe"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Golden Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Volcano Singlet"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "11e11b7b18e7410efaf05ffd986588cebe406ea61bd56f8b8ccf46888dfe42ddi0",
+        "meta": {
+            "name": "🦖BitRex#97",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Pirate Hat"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Green Bowtie"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Scorpion Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Hawaiian Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "b4e8ecb597e07dd684477ed7faba38caf2f2fe32dc7fad54a68601dd74f7f709i0",
+        "meta": {
+            "name": "🦖BitRex#98",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Baseball Cap"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Purple"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sunset Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "444affa26090a7dc93cef7a8bd33037da4059c66aac42043be76f89bc9d30fd5i0",
+        "meta": {
+            "name": "🦖BitRex#99",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Doctor's Head Mirror"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Gold"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Backpack"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "53c760b64229435cf0687a73e3e64ddf5c0efb5d2e4b104534a0611132385fe2i0",
+        "meta": {
+            "name": "🦖BitRex#100",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "King's Crown"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Monocle"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Scorpion Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Business Suit"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "b018dca88d68149b77fe6109bd6b9983d4256fb9943dc3a0d14d1eba38b274dci0",
+        "meta": {
+            "name": "🦖BitRex#101",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Doctor's Head Mirror"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Amber Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "9420504aaf006b157939e8d8367c84a229917af8e136775b13851181a6aaa505i0",
+        "meta": {
+            "name": "🦖BitRex#102",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Party Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Purple"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "1943cda700238867015b948a2eaf6462481a85d8d10e9392e8fcb12ffe68869ai0",
+        "meta": {
+            "name": "🦖BitRex#103",
+            "attributes": [
+                {
+                    "trait_type": "Accessory",
+                    "value": "Superman"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Albino White"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Melon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "8ba50065ed6f3215a186e7f8fc833a202b47d50e032ada99575b99e4c6368828i0",
+        "meta": {
+            "name": "🦖BitRex#104",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Top Hat"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Purple"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Chicken Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ce7809e72994bdbda16a45a260a1b72b0ed467e9d9046827e041524faba84fb1i0",
+        "meta": {
+            "name": "🦖BitRex#105",
+            "attributes": [
+                {
+                    "trait_type": "Accessory",
+                    "value": "Superman"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Amber Orange"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Disco Jacket"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "be3747517b446f9abfb07e8e5794c5ab7391a8bbd38506cd4f675d7845e349a7i0",
+        "meta": {
+            "name": "🦖BitRex#106",
+            "attributes": [
+                {
+                    "trait_type": "Accessory",
+                    "value": "Blue Ribbon"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Pink"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Purple Mimosa Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "d63ccdef98ceb846d2fa4fa9a4be4516f553eaa09da9d88925e8000a127fa8a8i0",
+        "meta": {
+            "name": "🦖BitRex#107",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Doctor's Head Mirror"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Blue Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Ghost Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Moon Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ff226b2c67b048e43552300ff5f10d6d3fc0eb69c750e3c95597aa08e5d866e0i0",
+        "meta": {
+            "name": "🦖BitRex#108",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Doctor's Head Mirror"
+                },
+                {
+                    "trait_type": "Neck",
+                    "value": "Blue Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Ghost Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Hawaiian Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "48941321fbdca2e875acb3736ec81eaea30d75b3b5176d2be8115fa4a9648ef8i0",
+        "meta": {
+            "name": "🦖BitRex#109",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Black Hair"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Salamander Red"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Chicken Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "1a065da1ca9bfe73a10a09e02c6245beb0ac7c187a2d64eb02c79052001319a5i0",
+        "meta": {
+            "name": "🦖BitRex#110",
+            "attributes": [
+                {
+                    "trait_type": "Headwear",
+                    "value": "Red Mohawk"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Desert Brown"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Sea Current Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    },
+    {
+        "id": "395339733fde58fa3ec32fd40cadb8afb7622c10dc29a6064436febc874e7f9di0",
+        "meta": {
+            "name": "🦖BitRex#111",
+            "attributes": [
+                {
+                    "trait_type": "Neck",
+                    "value": "Red Scarf"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Scorpion Gray"
+                },
+                {
+                    "trait_type": "Outfit",
+                    "value": "Purple Mimosa Shirt"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Genesis"
+                }
+            ]
+        }
+    }
+]
