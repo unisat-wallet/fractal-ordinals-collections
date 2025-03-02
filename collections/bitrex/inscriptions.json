@@ -2866,5 +2866,149 @@
                 }
             ]
         }
+    },
+    {
+        "id": "b92dc47ac4f7d794c9e0a0abf5e7cf8366029411b1b3533fb951767bcc599bc9i0",
+        "meta": {
+            "name": "🦖BitRexCYBORG🤖",
+            "attributes": [
+                {
+                    "trait_type": "Mystic🐲",
+                    "value": "CYBORG"
+                }
+            ]
+        }
+    },
+    {
+        "id": "36c83b05d8a9c9f23baaa648bd91455271b5199dce47c9aa18fcb8101a0e6a26i0",
+        "meta": {
+            "name": "🦖BitRexGHOST👻",
+            "attributes": [
+                {
+                    "trait_type": "Mystic🐲",
+                    "value": "GHOST"
+                }
+            ]
+        }
+    },
+    {
+        "id": "d4eb9d66f438516a1fb3e9509f9d7d8937d15319e7fa032ee72b5fb9b89226a8i0",
+        "meta": {
+            "name": "🦖BitRexGLOW🌟",
+            "attributes": [
+                {
+                    "trait_type": "Mystic🐲",
+                    "value": "GLOW"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6d6b4e440bfdd51c6857716fed020bb10235e18e96d5a95f33fd57c637b2cfe4i0",
+        "meta": {
+            "name": "🦖BitRexHUNTER🔫",
+            "attributes": [
+                {
+                    "trait_type": "Mystic🐲",
+                    "value": "HUNTER"
+                }
+            ]
+        }
+    },
+    {
+        "id": "b20d064ea7ac34c1497bdc6268f56033f4fe315d451c30b89d4ea35d13677b10i0",
+        "meta": {
+            "name": "🦖BitRexKING👑",
+            "attributes": [
+                {
+                    "trait_type": "Mystic🐲",
+                    "value": "KING"
+                }
+            ]
+        }
+    },
+    {
+        "id": "1a49601b8e89829f457f22bfaa65bf695ab668283c686f3b1b73b7532f286690i0",
+        "meta": {
+            "name": "🦖BitRexLAVA🔥",
+            "attributes": [
+                {
+                    "trait_type": "Mystic🐲",
+                    "value": "LAVA"
+                }
+            ]
+        }
+    },
+    {
+        "id": "8f42e3b70bf70e164485619246ced6baabaa0b38b73e815eb76e7e97dadc8b14i0",
+        "meta": {
+            "name": "🦖BitRexMONSTER👹",
+            "attributes": [
+                {
+                    "trait_type": "Mystic🐲",
+                    "value": "MONSTER"
+                }
+            ]
+        }
+    },
+    {
+        "id": "71a4ac4c699622a9707e1dc951834fdee8b463a8f41bf32b03dd4013b574453ei0",
+        "meta": {
+            "name": "🦖BitRexQUEEN💋",
+            "attributes": [
+                {
+                    "trait_type": "Mystic🐲",
+                    "value": "QUEEN"
+                }
+            ]
+        }
+    },
+    {
+        "id": "4abcae9e11cc2e1424116593e45ca5c0f7912e01043a48d4b6ad6de265da149ei0",
+        "meta": {
+            "name": "🦖BitRexSCHOLAR🎓",
+            "attributes": [
+                {
+                    "trait_type": "Mystic🐲",
+                    "value": "SCHOLAR"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ae741afc8f601ef8907e0f57b76e72b0547d8cf18ab16fbdb132b6fa6e3c9699i0",
+        "meta": {
+            "name": "🦖BitRexWITCH🐈‍⬛",
+            "attributes": [
+                {
+                    "trait_type": "Mystic🐲",
+                    "value": "WITCH"
+                }
+            ]
+        }
+    },
+    {
+        "id": "95f3a56fbdd4b9885720411d408b489d9fbc8c25fa28ae0c321538f4051bab6ai0",
+        "meta": {
+            "name": "🦖BitRexWIZARD🪄",
+            "attributes": [
+                {
+                    "trait_type": "Mystic🐲",
+                    "value": "WIZARD"
+                }
+            ]
+        }
+    },
+    {
+        "id": "4df40f2e227b243595ae13c68a9877c2f94ec7fc918dba93adcb711073aab5e6i0",
+        "meta": {
+            "name": "🦖BitRexZOMBIE🧠",
+            "attributes": [
+                {
+                    "trait_type": "Mystic🐲",
+                    "value": "ZOMBIE"
+                }
+            ]
+        }
     }
 ]
