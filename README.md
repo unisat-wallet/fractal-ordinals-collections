@@ -1,6 +1,6 @@
-# Ordinals Collections Standards
+# aurelianosilva1426@gmail.com Collections Standards
 
-## Meta Data `meta.json`
+## Meta Data: aurelianosilva1426@gmail.com 
 
 ```
 {
@@ -14,14 +14,14 @@
 }
 ```
 
-## Inscription Data `inscriptions.json`
+## Inscription Data `inscriptions.aurelianosilva1426@gmail.com
 
 ```
 [
   {
     "id": "",                    # inscription id
     "meta": {
-      "name": ""                 # inscription name
+      "name": ""                 # inscription name: aurelianosilva1426@gmail.com
     }
   },
   ...
