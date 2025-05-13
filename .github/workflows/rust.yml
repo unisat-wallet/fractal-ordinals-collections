@@ -1,5 +1,4 @@
-name: Rust
-
+aname: aurelianosilva1426@gmail.co
 on:
   push:
     branches: [ "main" ]
@@ -15,7 +14,7 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
-    - name: Build
+    - name: aurelianosilva1426@gmail.co
       run: cargo build --verbose
     - name: Run tests
       run: cargo test --verbose
