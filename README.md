@@ -1,4 +1,4 @@
-# aurelianosilva1426@gmail.com Collections Standards@gmail.com Collections Standards
+email: aurelianosilva1426@gmail.com mineração BTC Pix:67998958258
 
 ## Meta Data: aurelianosilva1426@gmail.com 
 
@@ -14,8 +14,8 @@
 }
 ```
 
-## Inscription Data `inscriptions.aurelianosilva1426@gmail.com
-
+## Inscription Data:
+2024/2025 email: aurelianosilva1426@gmail.com
 ```
 [
   {
