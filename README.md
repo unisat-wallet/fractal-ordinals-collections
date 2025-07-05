@@ -64,7 +64,7 @@ Your inscriptions.json file will look like this:
         },
         {
           "trait_type": "Holes",
-          "value": "rose blossom",
+          "value": "rose blosrsom",
         }
       ]
     }
