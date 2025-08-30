@@ -1,6 +1,6 @@
-# Ordinals Collections Standards
+email: aurelianosilva1426@gmail.com mineração BTC Pix:67998958258
 
-## Meta Data `meta.json`
+## Meta Data: aurelianosilva1426@gmail.com 
 
 ```
 {
@@ -14,14 +14,14 @@
 }
 ```
 
-## Inscription Data `inscriptions.json`
-
+## Inscription Data:
+2024/2025 email: aurelianosilva1426@gmail.com
 ```
 [
   {
     "id": "",                    # inscription id
     "meta": {
-      "name": ""                 # inscription name
+      "name": ""                 # inscription name: aurelianosilva1426@gmail.com
     }
   },
   ...
@@ -64,7 +64,7 @@ Your inscriptions.json file will look like this:
         },
         {
           "trait_type": "Holes",
-          "value": "rose blossom",
+          "value": "rose blosrsom",
         }
       ]
     }
