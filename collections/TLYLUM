@@ -1,0 +1,399 @@
+[
+  {
+    "id": "5fafad805d00e68262f27c9caa880683076029681970efe65960075fdd2e52d5i0",                    # inscription id
+    "meta": {
+      "name": "1bless"                 # inscription name
+    }
+  },{
+    "id": "82552a2464d37e008286ee6cc6f8f26146021b59f1d6b4ba51df2cd81be16ea6i0",                    # inscription id
+    "meta": {
+      "name": "2base"                 # inscription name
+    }
+  },{
+    "id": "ae384d0498ae11cb4d072e9e5117f76c21e6472f4cbf0821958d9730948fbf9ci0",                    # inscription id
+    "meta": {
+      "name": "3cube"                 # inscription name
+    }
+  },{
+    "id": "6bc03689ba163e67ad9c9df2a3f82424f70221cb02a6581857c513c3faae84dbi0",                    # inscription id
+    "meta": {
+      "name": "4arrow"                 # inscription name
+    }
+  },{
+    "id": "114b6b795177a32580af7e7b300ad85a8597d3e2cccb978248b6f27e25221d25i0",                    # inscription id
+    "meta": {
+      "name": "5awake"                 # inscription name
+    }
+  },{
+    "id": "2b54540b94593cdb93f38a71ba2935878fc3cf8353d709c0b15ef85e39133946i0",                    # inscription id
+    "meta": {
+      "name": "6drift"                 # inscription name
+    }
+  },{
+    "id": "b1f17743e3becb9dbd24ac21dec6e5cdadb616aa73e75c2f0c4a9dc4f01a3129i0",                    # inscription id
+    "meta": {
+      "name": "7narrow"                 # inscription name
+    }
+  },{
+    "id": "d241c958bdd917efcf759546334ada7b9cb1edcebb86295531385c0b200f0639i0",                    # inscription id
+    "meta": {
+      "name": "8spawn"                 # inscription name
+    }
+  },{
+    "id": "1a8f8c1747a143863dac7ee1a439d5631ef8ecad2a7a887a919a5b0265c25e03i0",                    # inscription id
+    "meta": {
+      "name": "9about"                 # inscription name
+    }
+  },{
+    "id": "cbf5089e64fe9f69da623112a7817455ab9e0a8a08b6b8b26943637afd588337i0",                    # inscription id
+    "meta": {
+      "name": "10eager"                 # inscription name
+    }
+  },{
+    "id": "d3481d5b9e76647e7058e5ae805be7c1d191a28f8e8f4a89b02383573d1f6779i0",                    # inscription id
+    "meta": {
+      "name": "11tumble"                 # inscription name
+    }
+  },{
+    "id": "82e205069608a9444ae554cd5c163168d6fa359c0532d620f0b19c24c66d9d59i0",                    # inscription id
+    "meta": {
+      "name": "12pulp"                 # inscription name
+    }
+  },{
+    "id": "00bf975097681de85dbb1d1d6072e47fb498fcf5d248efd5186278ee7436af69i0",                    # inscription id
+    "meta": {
+      "name": "13sell"                 # inscription name
+    }
+  },{
+    "id": "4bdf721fb396cee657a560c37bbed07541b69113919499d322334c6b4f4abab2i0",                    # inscription id
+    "meta": {
+      "name": "14prize"                 # inscription name
+    }
+  },{
+    "id": "92605fa55ea09e5fa4c4e83b18398cf70781a46571e3f954b9e28490234ea1fei0",                    # inscription id
+    "meta": {
+      "name": "15thought"                 # inscription name
+    }
+  },{
+    "id": "d8f82ac189f0120ffc3700a7b215ce4a90ab2d5de3b4fdcd5e86132a69cc5b23i0",                    # inscription id
+    "meta": {
+      "name": "16lava"                 # inscription name
+    }
+  },{
+    "id": "6770d103dd7fe5da8c47adac56e95ca25ac626d7918fde33bf45af42b45141fci0",                    # inscription id
+    "meta": {
+      "name": "17old"                 # inscription name
+    }
+  },{
+    "id": "0304b0911adc11276a43165369b4e0818f2e53e9924f8df98fd9f5a3144b484di0",                    # inscription id
+    "meta": {
+      "name": "18soft"                 # inscription name
+    }
+  },{
+    "id": "02c7745c29fa75b429fa0d4353705ae7ec2fad4a49f2d5960f64ecda3825540ai0",                    # inscription id
+    "meta": {
+      "name": "19dust"                 # inscription name
+    }
+  },{
+    "id": "2081106f54c0531789b2e97074e2116743ec135515eac93dd8662064f854d28ci0",                    # inscription id
+    "meta": {
+      "name": "20shrug"                 # inscription name
+    }
+  },{
+    "id": "b671fb22bd47e52395c6defc3a44f75f4ff4d80dfe96c770de58b51c701e384ci0",                    # inscription id
+    "meta": {
+      "name": "21tuition"                 # inscription name
+    }
+  },{
+    "id": "8f23d5596a1baa0b53fc5002aaac09cd5d97680f3058d3081dcfb443ebfd0042i0",                    # inscription id
+    "meta": {
+      "name": "22foam"                 # inscription name
+    }
+  },{
+    "id": "cb6c9560b4921bf95955c8e0bf3408a88812f0be4e2584a3e4cae79a7667d888i0",                    # inscription id
+    "meta": {
+      "name": "23slender"                 # inscription name
+    }
+  },{
+    "id": "06e9c13e47655fa351b8c56dbc9627f08c69df9ec2c301c21509a7f82dada78di0",                    # inscription id
+    "meta": {
+      "name": "24absorb"                 # inscription name
+    }
+  },{
+    "id": "f8cef5594f03ecb123b4d966828508ac24f8a5cbafac27e68156b96a771a3373i0",                    # inscription id
+    "meta": {
+      "name": "25muscle"                 # inscription name
+    }
+  },{
+    "id": "b7e02963ef56ddc4a6dba1da621da8f92238190bf65f5399a3880b30751a2cedi0",                    # inscription id
+    "meta": {
+      "name": "26basic"                 # inscription name
+    }
+  },{
+    "id": "b8c397ad5fab81b59f9c842b2831efebb41e2f4267b5ca34bfc8b289bd10f83fi0",                    # inscription id
+    "meta": {
+      "name": "27blade"                 # inscription name
+    }
+  },{
+    "id": "37053e32090e666d009fa968df7ff4ce685d157b746e54e1fc8a33152a6821cfi0",                    # inscription id
+    "meta": {
+      "name": "28chest"                 # inscription name
+    }
+  },{
+    "id": "df4b448694e470dd8c7df857d455f789c6273aa5e09fc9a2d8fce0ea5182fad1i0",                    # inscription id
+    "meta": {
+      "name": "29they"                 # inscription name
+    }
+  },{
+    "id": "277e63878222e3ae58c83ff33f0b63bd7c9815ddc2820c561a18ef5269dc2c23i0",                    # inscription id
+    "meta": {
+      "name": "30grit"                 # inscription name
+    }
+  },{
+    "id": "fa21afafa916d09c208eec010ddb1fe8dc1d99023b812e4d824170fce1cc1166i0",                    # inscription id
+    "meta": {
+      "name": "31dust"                 # inscription name
+    }
+  },{
+    "id": "ba5c111a32b34667d1f0bd00fefa97f84644caff2b24c65ab40d1f119910643fi0",                    # inscription id
+    "meta": {
+      "name": "32dinosaur"                 # inscription name
+    }
+  },{
+    "id": "6d72ff943178022877d54e5e220371ab2331fc292495c5efa4cdad1f6d52a7a6i0",                    # inscription id
+    "meta": {
+      "name": "33what"                 # inscription name
+    }
+  },{
+    "id": "b9ebfd324757b2026aeacc29cdfe62088417c61d020b6b7b832e90a48d2ac2b1i0",                    # inscription id
+    "meta": {
+      "name": "34carpet"                 # inscription name
+    }
+  },{
+    "id": "21e9c5163012e0b187b429fdc072472b14409ff3b1622ca82fa769735835c0a4i0",                    # inscription id
+    "meta": {
+      "name": "35core"                 # inscription name
+    }
+  },{
+    "id": "17db64a9a2699add4311ec4367a95a8ac1cb69ca2f57c49095aa2380b87c37d4i0",                    # inscription id
+    "meta": {
+      "name": "36direct"                 # inscription name
+    }
+  },{
+    "id": "f075b4f9eac923a8bfda65ec6f0b5e6edf724e8ceba86a02239c7270b59775c5i0",                    # inscription id
+    "meta": {
+      "name": "37rocket"                 # inscription name
+    }
+  },{
+    "id": "3c8e0aabf1af34b99f91f6c36c4f4be260cd8d2051f0c1f6aeb8c4323bb278b4i0",                    # inscription id
+    "meta": {
+      "name": "38tent"                 # inscription name
+    }
+  },{
+    "id": "2fa17efbd4b40b58539da39771136b7aedcae39adf68ea394b690e53987d6258i0",                    # inscription id
+    "meta": {
+      "name": "39save"                 # inscription name
+    }
+  },{
+    "id": "24e23dc4a7791ad42997db1bbfbcf0b46769e9c51fadd913c2cc003cd8707ec5i0",                    # inscription id
+    "meta": {
+      "name": "40injury"                 # inscription name
+    }
+  },{
+    "id": "78fb1a9456964a997b1d2632060a0f478d022746bdaa79ccc7321f69b5e18507i0",                    # inscription id
+    "meta": {
+      "name": "41van"                 # inscription name
+    }
+  },{
+    "id": "16cb31e3b4f6fc5a47526ccc33e54211fb010899ce519d46dab285f18b5bda03i0",                    # inscription id
+    "meta": {
+      "name": "42minor"                 # inscription name
+    }
+  },{
+    "id": "ec50493c7e6fcde88eb60a6cd1db784f9c6a77aa334c3e011e62d3a94b0dd963i0",                    # inscription id
+    "meta": {
+      "name": "43cigar"                 # inscription name
+    }
+  },{
+    "id": "0f8633898c784840d3e0b93cd4c25d44eeea915b1fc60e395466d95298ba01fci0",                    # inscription id
+    "meta": {
+      "name": "44close"                 # inscription name
+    }
+  },{
+    "id": "157a13631a7b6b3376fb507f4393aeac9884b989243f82520c1b185f9a12825bi0",                    # inscription id
+    "meta": {
+      "name": "45share"                 # inscription name
+    }
+  },{
+    "id": "478612bb07c30b818590e2b0efcb11138793709621812aaee2c781878a432de6i0",                    # inscription id
+    "meta": {
+      "name": "46alarm"                 # inscription name
+    }
+  },{
+    "id": "ecf0a5413f4bd623601532f46f226436238478b1428d1813461bae6a6bda5776i0",                    # inscription id
+    "meta": {
+      "name": "47dance"                 # inscription name
+    }
+  },{
+    "id": "2583cbd5b654bf37708f868c7eee9891e01ab275661f39b276e4173c8aa1c0fdi0",                    # inscription id
+    "meta": {
+      "name": "48lizard"                 # inscription name
+    }
+  },{
+    "id": "95d08dad7ff91e8954ca92cbb778582052df2c12f0ff8398ebf37b534dc5d4edi0",                    # inscription id
+    "meta": {
+      "name": "49nerve"                 # inscription name
+    }
+  },{
+    "id": "7d1c7c30313feb7d3e3c54e0afcc17f430cf148db3898998ce6f8286356d1d58i0",                    # inscription id
+    "meta": {
+      "name": "50below"                 # inscription name
+    }
+  },{
+    "id": "4c087c4db2e651001aa486f3daf14defcccd78059f013fd39d5f5e606a3db34ei0",                    # inscription id
+    "meta": {
+      "name": "51net"                 # inscription name
+    }
+  },{
+    "id": "905a3fafd644e1e6dff701baf466e02596066dfcba02b70f737d3f3ce3f18bcfi0",                    # inscription id
+    "meta": {
+      "name": "52hedgehog"                 # inscription name
+    }
+  },{
+    "id": "e829c761ccde4f1edc6b852db06eb2322946c5ba77c7a11e1cebc5f8de04d74bi0",                    # inscription id
+    "meta": {
+      "name": "53shadow"                 # inscription name
+    }
+  },{
+    "id": "9290c0c7040979dd787017e7e19a4e61238e967709c8fd46e2c6b3bc3d28b4dai0",                    # inscription id
+    "meta": {
+      "name": "54dentist"                 # inscription name
+    }
+  },{
+    "id": "0f5491526ec4cca2d636018b6c283f289aa39af1fb000d1669a3248d586d208ai0",                    # inscription id
+    "meta": {
+      "name": "55wish"                 # inscription name
+    }
+  },{
+    "id": "237cba277b36b1444589a7f08e8a7440b970442a30e4e6fa3abd8928f58ab826i0",                    # inscription id
+    "meta": {
+      "name": "56cradle"                 # inscription name
+    }
+  },{
+    "id": "f04ea29facb6e421921e2826d434d15debed80c0ca61c13ac3678f39fec78f7ci0",                    # inscription id
+    "meta": {
+      "name": "57crucial"                 # inscription name
+    }
+  },{
+    "id": "5a46645f408173b505c70659bf9ea1a3e134765b27041b170a350d5a115c4d1bi0",                    # inscription id
+    "meta": {
+      "name": "58recipe"                 # inscription name
+    }
+  },{
+    "id": "29a4344e4d0bf0e1c7d27442688922bc4f434fdf32f15532a3b53a9a8a95521bi0",                    # inscription id
+    "meta": {
+      "name": "59hurt"                 # inscription name
+    }
+  },{
+    "id": "95e49771feadf418b00a7d21d7db04a4f0315092014ebcd5cb8137e2ac763261i0",                    # inscription id
+    "meta": {
+      "name": "60erase"                 # inscription name
+    }
+  },{
+    "id": "7fc6023cac810bf3b008666f11d1b391b388736ec1b9825c3f98e81f0ee0f51ei0",                    # inscription id
+    "meta": {
+      "name": "61mind"                 # inscription name
+    }
+  },{
+    "id": "d6ea46016e74e78a5567b853ee4e601e0a49b3a85ecaa61cfeb3a645962dca3ei0",                    # inscription id
+    "meta": {
+      "name": "62tonge"                 # inscription name
+    }
+  },{
+    "id": "c70d8b7a5cd804e987e80010ab16c58ea26f187cee46fee4ec7ed3f3ef3bfd30i0",                    # inscription id
+    "meta": {
+      "name": "63wing"                 # inscription name
+    }
+  },{
+    "id": "bb77664285517a1f608bdfcf1aaa40abc38540c2cf96a7516ab3311a2505e495i0",                    # inscription id
+    "meta": {
+      "name": "64gorilla"                 # inscription name
+    }
+  },{
+    "id": "0712d38753fe3d7d08b1166d092855008c718558574abffe28603972cf6153a2i0",                    # inscription id
+    "meta": {
+      "name": "65satoshi"                 # inscription name
+    }
+  },{
+    "id": "14da67fb931f7da656f5c68b27907a81b9f6ee5fd8cb6f5545a9006bf188dd11i0",                    # inscription id
+    "meta": {
+      "name": "66maid"                 # inscription name
+    }
+  },{
+    "id": "a97443b06588ade27ecd73abf206e13c8d248aa9217629da98bf8a6d5686c2fai0",                    # inscription id
+    "meta": {
+      "name": "67bitcoin"                 # inscription name
+    }
+  },{
+    "id": "362dd167daa2f0013ed58fbd4329d9efb2ab1f11e170dfde226162f1852877b0i0",                    # inscription id
+    "meta": {
+      "name": "68ethereum"                 # inscription name
+    }
+  },{
+    "id": "303464355a78c0267b873dbcbaded69aa625a70b10c3b823e253c793696007b1i0",                    # inscription id
+    "meta": {
+      "name": "69cardano"                  # inscription name
+    }
+  },{
+    "id": "e149ba482abc4bf3ad0293d6b9cbc5a398b3a04812656dee859d048d70b96362i0",                    # inscription id
+    "meta": {
+      "name": "70fractal"                  # inscription name
+    }
+  },{
+    "id": "4fb0dfe0b9c3a75086b63e7d526a38f206cf725d636495fa5eca0c550aadfb1fi0",                    # inscription id
+    "meta": {
+      "name": "71gamma"                    # inscription name
+    }
+  },{
+    "id": "1628a3c55a01649bcdbd360566349245f0f7c9cb84ce327dfbdae58f60ade95di0",                    # inscription id
+    "meta": {
+      "name": "72opensea"                  # inscription name
+    }
+  },{
+    "id": "6ca4917bbd5b400eae1c30aa47bf71124c0ec15a2508b27d57a3a00cad980850i0",                    # inscription id
+    "meta": {
+      "name": "73jpg.store"                # inscription name
+    }
+  },{
+    "id": "cdd77a295bd3c847344ccc06314970dfac5518151b4533e2718e0af5db6c952bi0",                    # inscription id
+    "meta": {
+      "name": "74unisat"                   # inscription name
+    }
+  },{
+    "id": "8251432b610ba2ca176bf7cac891b94ed0a8691741cb0a0de46678eb02acebb3i0",                    # inscription id
+    "meta": {
+      "name": "75two_of_three"              #inscription name
+    }
+  },{
+    "id": "c92171d58090bff6de315891671e58febedac3b7f9f87a3547e93616c84409c9i0",                    # inscription id
+    "meta": {
+      "name": "76bochu"                 # inscription name
+    }
+
+  },{
+    "id": "6c93f957d43fea29697881abfadf6d035b01af06d50894e8538ffc39c516ff5ci0",                    # inscription id
+    "meta": {
+      "name": "77tlylum"                 # inscription name
+    }
+  
+  ...
+]
+{
+  "description": "77 NFT unics and perfects new generation of NFTworld",
+  "discord_link": "",
+  "icon": "https://e9e744e09965f721efb0d2e436e89e8d43313d7cfdc563beb1fc78a8674466b5i0",
+  "name": "TLYLUM",
+  "slug": "TLYLUM", # all lowercase or underscore hyphen, consistent with the directory name
+  "twitter_link": "https://x.com/NFTCreator_io",
+  "website_link": "https://"
+}
