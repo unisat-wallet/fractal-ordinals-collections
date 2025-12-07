@@ -6142,5 +6142,29 @@
         }
       ]		  
     }
+  },  
+  {
+    "id": "4b881d385485d9c5a0cfd8dfec490f2207656f4939b334b62fba189e6f2756d8i0",
+    "meta": {
+      "name": "Splice Stamp 1/2",
+      "attributes": [
+        {
+          "trait_type": "Stamp Attributes",
+          "value": "Gift For Domo"
+        }
+      ]		  
+    }
+  },
+  {
+    "id": "eb36f28dfb12b1922e580c51132a8211dff163681a91805ef2c31ec642ea1fadi0",
+    "meta": {
+      "name": "Splice Stamp 2/2",
+      "attributes": [
+        {
+          "trait_type": "Stamp Attributes",
+          "value": "Gift For Lorenzo"
+        }
+      ]		  
+    }
   }  
 ]
