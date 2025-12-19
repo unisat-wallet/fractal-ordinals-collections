@@ -1,15 +1,10 @@
 {
-  "p": "ordinals",
-  "op": "deploy",
-  "name": "Ordinal Punks",
-  "slug": "opunk",
-  "description": "Ordinal Punks is a 10,000 unique punk-style collection inscribed on Fractal Bitcoin using the Ordinals protocol.",
-  "supply": 10000,
-  "inscriptionType": "image/png",
-  "network": "fractal",
-  "creator": "Demro Labs",
-  "royalty": {
-    "percentage": 5,
-    "address": "bc1qlcna2wf9nlhfn32dsmqpnxnuycrkjc4ddknzfv"
-  }
+  "description": "ordinal punks is a 10,000 unique punk-style collection inscribed on fractal bitcoin using the ordinals protocol.",
+  "discord_link": "https://discord.gg/WUpEZT7x8P",
+  "icon": "https://www.flickr.com/photos/203617576@N05/54993413775",
+  "name": "ordinal punks",
+  "slug": "opunk", 
+  "twitter_link": "https://x.com/demrolabs",
+  "website_link": "https://opensea.io/0x1a807de3ae8e35108f1e0be06e483b4b8717cdf5"
 }
+
