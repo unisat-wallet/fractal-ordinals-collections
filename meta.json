@@ -1,7 +1,7 @@
 {
   "description": "ordinal punks is a 10,000 unique punk-style collection inscribed on fractal bitcoin using the ordinals protocol.",
   "discord_link": "https://discord.gg/WUpEZT7x8P",
-  "icon": "https://www.flickr.com/photos/203617576@N05/54993413775",
+  "inscription_icon": "3695cac2ff0ce7b1bd9babd076fb732335966f1e6ce42f9dbe2cffa0a108d196i0",
   "name": "ordinal punks",
   "slug": "opunk", 
   "twitter_link": "https://x.com/demrolabs",
