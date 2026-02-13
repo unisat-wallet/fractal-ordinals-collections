@@ -1,0 +1,20 @@
+{
+  "name": "Moltbook🦞",
+  "slug": "moltbook",
+  "description": "Moltbook is an organically discovered Fractal Bitcoin artifact — a living experiment at the intersection of AI, code, and collective curiosity. This limited set of 99 child inscriptions marks the earliest Moltbook BRC20 holders: fragments of intelligence, signal, and computation bound to a single parent idea. No roadmap. No team. Just emergence.",
+  "website_link": "https://www.moltbook.com/",
+  "twitter_link": "",
+  "discord_link": "",
+  "inscription_icon": "6580b890acd47813870e75e623dfeef1b5082745454384300d39ae10724b21edi0",
+  "ticker": "MOLTBOOK",
+  "network": "fractal-bitcoin",
+  "standard": "brc-20",
+  "media_type": "image/gif",
+  "creator": "moltoshi.fb",
+  "origin": "organic-discovery",
+  "license": "public-domain",
+  "mint_reference": "https://uniscan.cc/fractal/brc20/Moltbook",
+  "doc_reference": "https://moltbook.com/skill.md",
+  "airdrop": true,
+  "role": "child"
+}

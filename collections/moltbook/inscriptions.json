@@ -1,0 +1,5150 @@
+[
+  {
+    "id": "6580b890acd47813870e75e623dfeef1b5082745454384300d39ae10724b21edi0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #001",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "001/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🤖 RoboMind"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d49e870908565cd765938c491f5201a83139d759a1d2cc0a998f8cfb4e4a49b0i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #002",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "002/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧠 BrainCore"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ea521d152d6496c352d40fe892193c510391cf8ace34ed6eedf4e90f20172855i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #003",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "003/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "⚡ SparkLogic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5217cffd599ef2a2aec3b65493386457a13352f1a72711c91edd9d7e006dd088i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #004",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "004/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🔋 PowerCell"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0fddbd0e1144e1da741c9e39d5beadccbbede2f779b5b2ecc54682acb234a571i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #005",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "005/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "💾 DataVault"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8e5f52f50388fe97ba2eef0a6f80ae5f8a703df4e6676cfb1ec9f4f99eb83ff6i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #006",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "006/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧬 GeneSynth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6e0de5024a74f6028fa44e9d8678ca237a7ab42f4f3e16a3f0884364ef1a3919i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #007",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "007/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🛰️ OrbitLink"
+        }
+      ]
+    }
+  },
+  {
+    "id": "36890cd0270a4f8880b7a8c2cb8e095f4f67c6ee00da918f958c390c7f3b771bi0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #008",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "008/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "📡 SignalSeer"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9ac775971303c9558d142fc947dc9126e779a81b2c73bce3fb8c75fbcc899e03i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #009",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "009/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧲 Magnetron"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dc89802295532ddcb4f780d825de37e166131ea1eabed5f34040c7eec77600bbi0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #010",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "010/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "⚙️ GearGenius"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e14a25e6ea340250d8cd850174831d625f782a504aeaa82b772c8347ff2f3eefi0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #011",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "011/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧪 LabAlchemy"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ade8b48ab291eaf8740cbfcfcc7583800c4224f46d7d351320c96e90137ea6f5i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #012",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "012/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🔭 DeepScan"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3de34501c1d6b7b558280afe43c5b1451330186c4691987770e04642569fd7dai0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #013",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "013/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧿 VisionGuard"
+        }
+      ]
+    }
+  },
+  {
+    "id": "615be53315c179b7da6a535cfbba4cdf451a4477e196dc984325962132bddd1bi0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #014",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "014/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🌐 NetWeaver"
+        }
+      ]
+    }
+  },
+  {
+    "id": "00b3ce6a1c32803e4e2582341ae1f19356101b1a9beb3d40df90eba9babaab51i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #015",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "015/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🕸️ WebCrawler"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c4660712db001f1f7ac149c9cfed149a9e288e419d583b57516b38939588982bi0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #016",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "016/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧮 QuantumCount"
+        }
+      ]
+    }
+  },
+  {
+    "id": "08ac7332f977538beac4367adbb7ba7874e0c87e943865801bdd33539ec6b61ci0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #017",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "017/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧊 CryoCompute"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4b6d28beb66f40cc517bbc30d5382909bbd6d7398d6ce7d6200304cfcc6f2113i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #018",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "018/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🔥 FlameKernel"
+        }
+      ]
+    }
+  },
+  {
+    "id": "22aa7819d869e5a3c38676b50427a35afca47e0ea1cfa2eb249c7f1243194960i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #019",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "019/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🌋 LavaLoop"
+        }
+      ]
+    }
+  },
+  {
+    "id": "45dea9f19448073e4b5cac3e1ca3ec5b6c91cae087feaa87982aa42178e206b1i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #020",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "020/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "💥 BurstEngine"
+        }
+      ]
+    }
+  },
+  {
+    "id": "39bc6b1e2ea5937b4531e5565777c1abce7fbbe21e19d75dacb5c9f3f08d98b0i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #021",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "021/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🌟 StarCompiler"
+        }
+      ]
+    }
+  },
+  {
+    "id": "777e7c53ebcd0c4ffb77aa0711d6b4dedb647e386462bfc9fc7a5fe1a930cc92i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #022",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "022/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "✨ SparklePatch"
+        }
+      ]
+    }
+  },
+  {
+    "id": "32de4a0ed5cd0690620ad4578969bf0ac7c780ec306e84921596603fbb47b682i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #023",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "023/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🌙 NightModel"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2899e7d71611f6e317d61ae294800f9e963619609a1d00f9c827cdb95d0a4f1ci0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #024",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "024/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "☀️ SunStack"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4c8ca1c4ef01b63cfbfcdddbc4971c0666eb7286236673a507911cd0d0ae83ai0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #025",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "025/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🌈 SpectrumShift"
+        }
+      ]
+    }
+  },
+  {
+    "id": "30c254ecd5b94374a884ca2540c6d6e913e6dfd41873f48e5d6793e181cee4f8i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #026",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "026/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "☁️ CloudRunner"
+        }
+      ]
+    }
+  },
+  {
+    "id": "367c8714245b11c1335f1ebc4ccbdfda87e719a5ae035aa412918b2ece3f124di0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #027",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "027/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🌧️ RainRender"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0299cbf58aa1f2e1cc113e22ecbd031ca6a82dcf8b3e6379bbf285efb607b7dbi0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #028",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "028/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🌪️ TurboTwister"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2beaf0236915cd0ef9b93fd4e2676dcb0e42917a97348219be6afb9fb0f02597i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #029",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "029/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "❄️ FrostFunction"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5df01bdba8d526aee21961a4537a969b147ea896ae5cdd07dfd4b8a9ea1fc3e7i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #030",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "030/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🪐 PlanetParser"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d1291c873a37bf499b2940211da46e72e996bef9b5a594ac5812fbf0ff696783i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #031",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "031/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "☄️ CometCache"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e65550584e35f16913785ac2f267660874e07ba9c6f9b3dbb6df9d887a3d6611i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #032",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "032/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🌠 MeteorMerge"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dc0dd7d2d4c8819cb7decd74f67366df5788f61c6cf1928b95092eebcb2ad0e7i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #033",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "033/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🪄 SpellScript"
+        }
+      ]
+    }
+  },
+  {
+    "id": "64adcfa7d0f8c19150041179ff6231e35edd340fef410650492445c2d6b7a46bi0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #034",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "034/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧔 OracleEye"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8fe47a44c44570000f4c20290127625a359ee5c4bac8f9c495238561facccf11i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #035",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "035/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🗝️ KeyKeeper"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6de168a093603f6951da8289fce1bfcff9a9e567332de5c8bb8559ae93589221i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #036",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "036/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🔐 CipherShield"
+        }
+      ]
+    }
+  },
+  {
+    "id": "191845a02491554a2892d062b9eea5464056e9bc1767214a2fae24d7ca671a90i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #037",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "037/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🛡️ GuardProtocol"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8953ae7be21090bb587af6f86a54fd1a18c2fc88a5785d6c19b1d02dc6d72e7ci0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #038",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "038/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧱 BrickBuilder"
+        }
+      ]
+    }
+  },
+  {
+    "id": "10ed1235342345d39cbb44b5963b53854fb7f9c737879e6f024b84be77102a99i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #039",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "039/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧰 ToolMaster"
+        }
+      ]
+    }
+  },
+  {
+    "id": "076ccd0c79656e983ad66fd7a903abc0c7e3b4430f082e25f610d895193123b7i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #040",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "040/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧷 PinPointer"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ac6ddd97965b88cb688a91e1ea248301eede23c0c77df7b2ed3cf2e853c77865i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #041",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "041/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧵 ThreadSpinner"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6661d74f6f81daba8cf4dd401d3f5b7e267d9d70730a18df15795bf501b2011bi0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #042",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "042/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🪡 StitchSync"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fe9947d27da0032c73cad4bb3c13b2f8533d4fe9586f02c62f19ebef9f18f8d6i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #043",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "043/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧑 PrismProbe"
+        }
+      ]
+    }
+  },
+  {
+    "id": "be09ff5f8807ea503aa320f5db63a4059ed5c1788dfb02f1b5fdc9a4464459aei0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #044",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "044/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🔎 DetailFinder"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7dee5981d0593c030d126b4eb74bcb8c34df8c65bc6c7dcc8ec0252e0e3f30abi0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #045",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "045/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "👩 FocusLens"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f7745dc49c1b5445be50f11cb73aac81a04cbe2c85dec719777492eca7235b3di0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #046",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "046/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧯 ErrorExtinguisher"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7f1dd6f6e3cfac6a104d42963d58aaf60be3a3c3c43060b314e3efe24f36916ai0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #047",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "047/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧫 BioBuffer"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4d0652ecc872d188ada6108a380cfb37f26ecadef152df58945188d8ce2a9d5bi0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #048",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "048/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧻 CleanRollback"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a5bc8768256b0218a3828d8bb06cd1202d5234687eb1776fc808772a55e5583ei0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #049",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "049/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🪙 TokenTactician"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8f14d86e65e51bca05f25150af7c3bba0dd1ecd2a8ccac49882ba150d38879f5i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #050",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "050/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "💎 DiamondModel"
+        }
+      ]
+    }
+  },
+  {
+    "id": "59d268cfbd4f43b74bf4d2ec12b61756a341bd8eb589363cb8b9647ec03d95a0i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #051",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "051/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🟣 PurplePulse"
+        }
+      ]
+    }
+  },
+  {
+    "id": "66676ea4d520ece6af01496dfd26c3a621eec72b7ac27b0e48122baf38e18e7bi0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #052",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "052/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🔵 BlueBeacon"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b97b49e21d94e4196f9552c5dcead68138b21d10df924a671adade655f37d9c2i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #053",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "053/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🟢 GreenGraph"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7319405e312b6f80302e8ea15b4468d3e7cf93e0317d9613dceef2375d155e01i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #054",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "054/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🟡 YellowYield"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1c378154239496678591a32a0aa0a87f52447ec244f8d834a6e56cb81aea5d28i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #055",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "055/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🟠 OrangeOptimizer"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8ee89d9597a46c824a90c617737366f5ffb9f3bb71445b6f688abc51c12a9808i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #056",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "056/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🔴 RedResolver"
+        }
+      ]
+    }
+  },
+  {
+    "id": "21bf89104b0396dd6045dda9986e8230397341fc537f78a2f99468c9bf0739e4i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #057",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "057/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🟤 BrownBinary"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0f764df8f259d568460f8b804a3e2a3b941e3b1dc1f69dc9e19a28fe75bd2536i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #058",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "058/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "⚫ BlackBox"
+        }
+      ]
+    }
+  },
+  {
+    "id": "758a1e47eb3b8a8f10339b3704d88c3fd329aa2bb7f3bbb02a92a5174b7cc260i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #059",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "059/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "⚪ WhiteNoise"
+        }
+      ]
+    }
+  },
+  {
+    "id": "be6d18ece8810c617fd0e7eb6e2e86a7c8243ffd745f30d3e0f0356078ccaad4i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #060",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "060/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🌀 SwirlSolver"
+        }
+      ]
+    }
+  },
+  {
+    "id": "99a75e015d98372e632dd9faaf4d015e307ead3541c0925db3307ede181c3e92i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #061",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "061/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "♾️ InfinityInference"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e866c086a4128907baf73bc35a687425af4106300e48cdb000b0c55fbcfc79aai0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #062",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "062/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "👨 HaloHeuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d8e6a0aa2fd72b86a97053ffe0ac6aaf1aa77a04e0aaee6f4bda70cf64bc27e1i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #063",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "063/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧸 FriendlyAgent"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8228bd3a75c438bcda399df0e46e79a09a90ddc434cce86f489c4c25ed9defb6i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #064",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "064/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🐸 FrogFirmware"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a9862eb4842001570f7559bca25b43cd2613e292ccb61cbfd17d74b08966ce08i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #065",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "065/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🦉 OwlObserver"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d92cc36c5e38f4e4144717729284dcbc3b90e0c86d5d8a010b008d3f44f15365i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #066",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "066/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🐙 OctoOperator"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6eec3f28433883ac62ccb76945a34ac959655ba97e0e7beb320b1b30ed7239d8i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #067",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "067/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🦾 MechaArm"
+        }
+      ]
+    }
+  },
+  {
+    "id": "45174de3e34879651e0e49ee656fcc1d602d0721d555e423e810e9ad141193f8i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #068",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "068/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "👁️ WatcherNode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "adeb7fe2a3b939b72586a003e8e7cb46c11a46dd796e231ce3a634c72ccffce2i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #069",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "069/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "👣 TraceTracker"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d37a2573b5c4c39bdab17213ad0d06db53152c29ca0047370c514344e2229e2di0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #070",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "070/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧭 CompassCompute"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dbd5d8e4781af99ed14ee449e356e23c52b4ea108a4831c6fe1e676697791d57i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #071",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "071/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🗺️ MapMatcher"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3ac4c58086974f47dda34e5ee99e5b572f7083bc537588f3d9cd9656fae0b4b6i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #072",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "072/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🏗️ ModelForge"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f9b14ff9aee0486986c1a3399db1f907736222844961213fcea1036226c1d6f0i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #073",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "073/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧑‍💻 NeuroNexus"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ee5941d700589b9c6575c59771c40c71bbb1926fb308976ee8b7337d15e3f54di0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #074",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "074/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "👩‍💻 InsightIris"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f6c13b47fa54d08ec612fda81ff91c7dc5928d7a05e43da382970863850fab61i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #075",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "075/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🎛️ ControlPanel"
+        }
+      ]
+    }
+  },
+  {
+    "id": "af2e7e5ffdd7ec026b1f6e54acb557f91a11e023b3dbb6a73a55b2b4a7e21f08i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #076",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "076/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🎚️ TuningSlider"
+        }
+      ]
+    }
+  },
+  {
+    "id": "17667376baf4bf55d81833909b0cc7fd0873b7a6a76fe84484f3e1e4c43286e8i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #077",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "077/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "👨‍💻 PatchKit"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1ab10c5270020e6c43848e810cda006dbbc7d79935526d6050dc6d893023d390i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #078",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "078/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧑‍🔧 PullRequestor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "61fb78b3d90ff3c91935d8e50fc4634f8e1198501d8562d96c0af6b0db21b6c4i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #079",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "079/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧑‍🏭 StackBuilder"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e6f88c5bf4a89db67eb00c54b039125bfd1081780b406a560e8b17a7c9261532i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #080",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "080/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧑‍🚀 PatternProphet"
+        }
+      ]
+    }
+  },
+  {
+    "id": "773fa9ccccb055233b25573dc0aa0d30b837e3c021a510f5062b7b8b693fc2c6i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #081",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "081/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "📘 BlueBookBrain"
+        }
+      ]
+    }
+  },
+  {
+    "id": "704133916ee5f82accd71d62378286911b21ec570fd2407801ae08760af2cf94i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #082",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "082/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "📗 GreenBookGraph"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3286c9c2ad23e1c9cc14c663e6711013fae3a4ff243ccbd583757005928e7574i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #083",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "083/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "📙 OrangeBookOptimizer"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c192dd313853ebc1cc2e037666aff042b3479eaf93bdce90748e7101f4b14d80i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #084",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "084/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "📕 RedBookResolver"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f36b66620f9657c55e2243e13e724cf3b6c8a4570592852b508da42b0dfc3d1i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #085",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "085/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "📓 NotebookNode"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d7d91fa84ad24a9ce1bd161b50f9aaa4a3478dbda3102c4db8205e693f13eed0i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #086",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "086/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🗒️ MemoMachine"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c6667c156b787b69adab8186fa1b0fb66c8c80f1cdb856e4ec768c62ff3ff2c7i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #087",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "087/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧾 LedgerLogic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "16735876c8f01b66be44018d9b7f39485e76eed2f8e662530705573fc98e25aai0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #088",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "088/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧑‍🔬 AbacusAI"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6d1cadc273f39c7da3e56e38185b4a36247bdb48ccb395dbcd11c9de81f79591i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #089",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "089/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧑‍🎨 MirrorMind"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1221dd6e944de710a279f45169397316c68dafc311d4dcf091ac6abaeed92f22i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #090",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "090/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧑‍🚒 EchoEngine"
+        }
+      ]
+    }
+  },
+  {
+    "id": "550b63b6f55a9d4dc8d63fd062ecfe0e806f55048f6bbffc9f273b48dfa50442i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #091",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "091/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🧑‍✈️ RiftRunner"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3abbf8365e54daaeba87d663c3a45b56b3d6beccca41f1bddacf5cfe876d0ae6i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #092",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "092/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🦿 VortexVision"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eb626fd5c720b02c2617d79c57e4781c8adec9142769197c1887940e1a024440i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #093",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "093/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🔗 ChainThinker"
+        }
+      ]
+    }
+  },
+  {
+    "id": "34a505310d63cb835c558f8c6ab29417139219fc970e3ea1e0cfe42d2b045692i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #094",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "094/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "⛓️ LinkLayer"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7ca922b95544cec2312ae4a13a1ef36a1f902c3a831f01f89186b36c3099d13ai0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #095",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "095/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🪶 FeatherFloat"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ac9639143775019dddc0f3b6bbcb77eecc0efc5ec7c6d5efe008575931ebe1f8i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #096",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "096/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🪬 NovaNeuron"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9be7097eccd074e51c67707769ba1e4ca6c117c08625ffffeaf3bf99bd4ac357i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #097",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "097/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🪛 ApexAlgorithm"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9fb2d233a54e7ba134b6525c07b3651c63002af4a4f60d13cba0fe87fbdd6d56i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #098",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "098/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🪚 ZenithZen"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fcdf6b512fe6ff1569771d787c59de4ee0fc3bec3c99521291ebb0e94ee110c6i0",
+    "meta": {
+      "name": "MOLTBOOK Artifact #099",
+      "attributes": [
+        {
+          "trait_type": "Ticker",
+          "value": "MOLTBOOK"
+        },
+        {
+          "trait_type": "Edition",
+          "value": "099/099"
+        },
+        {
+          "trait_type": "Role",
+          "value": "child"
+        },
+        {
+          "trait_type": "Airdrop",
+          "value": "true"
+        },
+        {
+          "trait_type": "Network",
+          "value": "fractal-bitcoin"
+        },
+        {
+          "trait_type": "Standard",
+          "value": "brc-20"
+        },
+        {
+          "trait_type": "Media Type",
+          "value": "image/gif"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "moltoshi.fb"
+        },
+        {
+          "trait_type": "Origin",
+          "value": "organic-discovery"
+        },
+        {
+          "trait_type": "License",
+          "value": "public-domain"
+        },
+        {
+          "trait_type": "AI POWER",
+          "value": "🏁 FinalForm"
+        }
+      ]
+    }
+  }
+]
