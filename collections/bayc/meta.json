@@ -4,7 +4,7 @@
 ",
   "icon": "8600659f5a7f067e1923425b04003f7909b66c085879dbd9c9de9fd10286e6f2i0",
   "name": "Bored Ape Yacht Club",
-  "slug": "bayc", # all lowercase or underscore hyphen, consistent with the directory name
+  "slug": "bayc", 
   "twitter_link": "https://x.com/Fractal_Ordinal?s=20",
   "website_link": "https://evm-market-premium.pages.dev/"
 }
