@@ -1,7 +1,7 @@
 {
   "description": "Bored Ape Yacht Club on Fractal Bitcoin is a Bitcoin-native digital collectible collection featuring 10,000 unique Bored Ape characters. Each Ape has a distinct combination of traits, including background, fur, eyes, mouth, clothing, earrings, hats, and other accessories, giving every token its own visual identity. Originally launched in April 2021, BAYC became recognized for combining generative character art with a strong Web3 community and digital membership culture. This Fractal Bitcoin edition connects each Ape with a corresponding inscription ID, allowing collectors to identify and explore the related on-chain digital artifact within the Fractal ecosystem. The collection brings together recognizable digital art, Bitcoin inscriptions, on-chain ownership, and community-driven culture. Collectors can discover unique traits, verify inscription records, display their Apes, and participate in the growing world of Bitcoin-native digital collectibles. Unless explicitly authorized by the rights holder, this collection is not an official endorsement, partnership, or affiliation with Yuga Labs or the original Bored Ape Yacht Club collection. Ownership of an inscription does not automatically grant intellectual-property, commercial, trademark, or licensing rights beyond the rights expressly provided by applicable terms.",
   "discord_link": "https://discord.gg/WUpEZT7x8P",
-  "icon": "https://ordinals.fractalbitcoin.io/content/8600659f5a7f067e1923425b04003f7909b66c085879dbd9c9de9fd10286e6f2i0",
+  "icon": "8600659f5a7f067e1923425b04003f7909b66c085879dbd9c9de9fd10286e6f2i0",
   "name": "Bored Ape Yacht Club",
   "slug": "bayc",
   "twitter_link": "https://x.com/Fractal_Ordinal",
