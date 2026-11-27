@@ -1,9 +1,9 @@
 {
-  "description": "Ordinal Punks - Fractal Edition is a generative art tribute collection honoring the iconic aesthetic of CryptoPunks and the legacy of Ordinals pioneers, reimagined specifically for the Fractal Bitcoin blockchain. Merging the charm of 24x24 pixel art with the exceptional speed (30-second block time) and native scalability of Fractal Bitcoin, this collection captures the original cyberpunk spirit of the Web3 movement. Each Punk is inscribed directly and irrevocably onto the satoshis of the Fractal network, guaranteeing absolute permanence and 100% on-chain storage.",
-  "discord_link": "https://discord.gg/WUpEZT7x8P",
-  "icon": "865a7cf3bebdb17190555cd13c2f4e91f1a0596eafcac9ed0070771ac654e4a0i0",
-  "name": "Ordinal Punks",
-  "slug": "opunk", 
-  "twitter_link": "https://x.com/fractal_ordinal",
-  "website_link": "https://ordi-labs.github.io/punks/"
+ "description": "Ordinal Punks - Fractal Edition is a generative art tribute collection honoring the iconic aesthetic of CryptoPunks and the legacy of Ordinals pioneers, reimagined specifically for the Fractal Bitcoin blockchain. Merging the charm of 24x24 pixel art with the exceptional speed (30-second block time) and native scalability of Fractal Bitcoin, this collection captures the original cyberpunk spirit of the Web3 movement. Each Punk is inscribed directly and irrevocably onto the satoshis of the Fractal network, guaranteeing absolute permanence and 100% on-chain storage.",
+ "discord_link": "https://discord.gg/WUpEZT7x8P",
+ "icon": "865a7cf3bebdb17190555cd13c2f4e91f1a0596eafcac9ed0070771ac654e4a0i0",
+ "name": "Ordinal Punks",
+ "slug": "opunk", 
+ "twitter_link": "https://x.com/fractal_ordinal",
+ "website_link": "https://punks-elp.pages.dev"
 }
